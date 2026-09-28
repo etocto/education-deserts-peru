@@ -1,0 +1,12 @@
+FUENTE OFICIAL: INEI – Límite distrital de los Censos Nacionales 2017 (campo FUENTE = "INEI - CPV2017 - RESULTADOS").
+Servicio ArcGIS del INEI (capa "LIMITE DISTRITAL"):
+https://arcgis.inei.gob.pe:6443/arcgis/rest/services/ENAHO/ENAHO002_AGS_CONGLOMERADOS/MapServer/2
+Descargado el 2026-09-27 (consulta REST, WGS84, generalización maxAllowableOffset = 0,003° ≈ 300 m, adecuada para mapas nacionales).
+
+inei_limite_distrital_cpv2017.geojson     1 874 distritos (UBIGEO, CCDD, CCPP, CCDI, NOMBDEP, NOMBPROV, NOMBDIST, CAPITAL, FUENTE)
+inei_limite_provincial_cpv2017.geojson    196 provincias (disolución de los distritos por UBIGEO[:4])
+inei_limite_departamental_cpv2017.geojson 25 departamentos (disolución por UBIGEO[:2])
+
+Es la misma geografía del Mapa de Pobreza 2018 (1 874 distritos) y del Censo 2017, por lo que los tres se cruzan sin pérdidas.
+Los distritos creados después de 2017 (presentes en el ubigeo del Censo Educativo 2025) se asignan a su distrito de 2017
+por ubicación del colegio (unión espacial en src/02_demanda_escolar.py).

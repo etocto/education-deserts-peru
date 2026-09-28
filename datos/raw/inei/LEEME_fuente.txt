@@ -1,0 +1,8 @@
+CUADROS OFICIALES INEI (descargados el 2026-09-27), convertidos de .xlsx a .csv sin modificar valores.
+Índice temático Educación: https://m.inei.gob.pe/estadisticas/indice-tematico/education/
+- secundaria_publica_2014_2024.csv  <- cd8_27.xlsx (miles de alumnos; la serie trae 2009-2024)
+- secundaria_privada_2014_2024.csv  <- cd9_27.xlsx (miles de alumnos)
+- tasa_neta_matricula_secundaria_2014_2024.csv <- cd1_76.xlsx (%)
+- universidades_publicas_matriculados_2017_2024.csv <- cd0_20.xlsx (alumnos por universidad, 2007-2024)
+- universidades_privadas_matriculados_2017_2024.csv <- cd1_80.xlsx (alumnos por universidad, 2007-2024)
+Prefijo de URL: https://m.inei.gob.pe/media/MenuRecursivo/indices_tematicos/

@@ -1,0 +1,1875 @@
+ubigeo,ccdi,nombre,Urbano censal,Rural censal,Total
+010101,01,"Amazonas, Chachapoyas, distrito: Chachapoyas",5155,94,5249
+010102,02,"Amazonas, Chachapoyas, distrito: Asunción",12,12,24
+010103,03,"Amazonas, Chachapoyas, distrito: Balsas",52,61,113
+010104,04,"Amazonas, Chachapoyas, distrito: Cheto",46,24,70
+010105,05,"Amazonas, Chachapoyas, distrito: Chiliquin",21,36,57
+010106,06,"Amazonas, Chachapoyas, distrito: Chuquibamba",49,133,182
+010107,07,"Amazonas, Chachapoyas, distrito: Granada",14,26,40
+010108,08,"Amazonas, Chachapoyas, distrito: Huancas",120,3,123
+010109,09,"Amazonas, Chachapoyas, distrito: La Jalca",330,180,510
+010110,10,"Amazonas, Chachapoyas, distrito: Leimebamba",253,80,333
+010111,11,"Amazonas, Chachapoyas, distrito: Levanto",39,25,64
+010112,12,"Amazonas, Chachapoyas, distrito: Magdalena",69,13,82
+010113,13,"Amazonas, Chachapoyas, distrito: Mariscal Castilla",92,28,120
+010114,14,"Amazonas, Chachapoyas, distrito: Molinopampa",58,145,203
+010115,15,"Amazonas, Chachapoyas, distrito: Montevideo",28,2,30
+010116,16,"Amazonas, Chachapoyas, distrito: Olleros",21,23,44
+010117,17,"Amazonas, Chachapoyas, distrito: Quinjalca",14,65,79
+010118,18,"Amazonas, Chachapoyas, distrito: San Francisco de Daguas",18,8,26
+010119,19,"Amazonas, Chachapoyas, distrito: San Isidro de Maino",45,15,60
+010120,20,"Amazonas, Chachapoyas, distrito: Soloco",10,106,116
+010121,21,"Amazonas, Chachapoyas, distrito: Sonche",9,22,31
+010201,01,"Amazonas, Bagua, distrito: Bagua",3374,280,3654
+010202,02,"Amazonas, Bagua, distrito: Aramango",325,842,1167
+010203,03,"Amazonas, Bagua, distrito: Copallin",251,224,475
+010204,04,"Amazonas, Bagua, distrito: El Parco",78,73,151
+010205,05,"Amazonas, Bagua, distrito: Imaza",585,2600,3185
+010206,06,"Amazonas, Bagua, distrito: La Peca",400,270,670
+010301,01,"Amazonas, Bongara, distrito: Jumbilla",99,23,122
+010302,02,"Amazonas, Bongara, distrito: Chisquilla",9,17,26
+010303,03,"Amazonas, Bongara, distrito: Churuja",19,1,20
+010304,04,"Amazonas, Bongara, distrito: Corosha",10,68,78
+010305,05,"Amazonas, Bongara, distrito: Cuispes",27,33,60
+010306,06,"Amazonas, Bongara, distrito: Florida",416,273,689
+010307,07,"Amazonas, Bongara, distrito: Jazan",730,138,868
+010308,08,"Amazonas, Bongara, distrito: Recta",2,16,18
+010309,09,"Amazonas, Bongara, distrito: San Carlos",38,14,52
+010310,10,"Amazonas, Bongara, distrito: Shipasbamba",95,126,221
+010311,11,"Amazonas, Bongara, distrito: Valera",31,69,100
+010312,12,"Amazonas, Bongara, distrito: Yambrasbamba",233,382,615
+010401,01,"Amazonas, Condorcanqui, distrito: Nieva",563,1720,2283
+010402,02,"Amazonas, Condorcanqui, distrito: El Cenepa",145,1132,1277
+010403,03,"Amazonas, Condorcanqui, distrito: Rio Santiago",258,1482,1740
+010501,01,"Amazonas, Luya, distrito: Lamud",228,22,250
+010502,02,"Amazonas, Luya, distrito: Camporredondo",401,286,687
+010503,03,"Amazonas, Luya, distrito: Cocabamba",38,155,193
+010504,04,"Amazonas, Luya, distrito: Colcamar",113,64,177
+010505,05,"Amazonas, Luya, distrito: Conila",99,149,248
+010506,06,"Amazonas, Luya, distrito: Inguilpata",42,10,52
+010507,07,"Amazonas, Luya, distrito: Longuita",18,49,67
+010508,08,"Amazonas, Luya, distrito: Lonya Chico",42,54,96
+010509,09,"Amazonas, Luya, distrito: Luya",250,179,429
+010510,10,"Amazonas, Luya, distrito: Luya Viejo",41,0,41
+010511,11,"Amazonas, Luya, distrito: María",37,37,74
+010512,12,"Amazonas, Luya, distrito: Ocalli",155,210,365
+010513,13,"Amazonas, Luya, distrito: Ocumal",38,292,330
+010514,14,"Amazonas, Luya, distrito: Pisuquia",33,402,435
+010515,15,"Amazonas, Luya, distrito: Providencia",23,90,113
+010516,16,"Amazonas, Luya, distrito: San Cristobal",42,9,51
+010517,17,"Amazonas, Luya, distrito: San Francisco del Yeso",29,31,60
+010518,18,"Amazonas, Luya, distrito: San Jerónimo",29,34,63
+010519,19,"Amazonas, Luya, distrito: San Juan de Lopecancha",7,38,45
+010520,20,"Amazonas, Luya, distrito: Santa Catalina",50,190,240
+010521,21,"Amazonas, Luya, distrito: Santo Tomas",77,203,280
+010522,22,"Amazonas, Luya, distrito: Tingo",101,60,161
+010523,23,"Amazonas, Luya, distrito: Trita",77,60,137
+010601,01,"Amazonas, Rodríguez de Mendoza, distrito: San Nicolás",512,90,602
+010602,02,"Amazonas, Rodríguez de Mendoza, distrito: Chirimoto",2,303,305
+010603,03,"Amazonas, Rodríguez de Mendoza, distrito: Cochamal",43,9,52
+010604,04,"Amazonas, Rodríguez de Mendoza, distrito: Huambo",49,127,176
+010605,05,"Amazonas, Rodríguez de Mendoza, distrito: Limabamba",23,174,197
+010606,06,"Amazonas, Rodríguez de Mendoza, distrito: Longar",81,68,149
+010607,07,"Amazonas, Rodríguez de Mendoza, distrito: Mariscal Benavides",78,52,130
+010608,08,"Amazonas, Rodríguez de Mendoza, distrito: Milpuc",14,15,29
+010609,09,"Amazonas, Rodríguez de Mendoza, distrito: Omia",32,866,898
+010610,10,"Amazonas, Rodríguez de Mendoza, distrito: Santa Rosa",10,21,31
+010611,11,"Amazonas, Rodríguez de Mendoza, distrito: Totora",2,8,10
+010612,12,"Amazonas, Rodríguez de Mendoza, distrito: Vista Alegre",43,269,312
+010701,01,"Amazonas, Utcubamba, distrito: Bagua Grande",5360,1853,7213
+010702,02,"Amazonas, Utcubamba, distrito: Cajaruro",897,1637,2534
+010703,03,"Amazonas, Utcubamba, distrito: Cumba",307,570,877
+010704,04,"Amazonas, Utcubamba, distrito: El Milagro",482,393,875
+010705,05,"Amazonas, Utcubamba, distrito: Jamalca",153,675,828
+010706,06,"Amazonas, Utcubamba, distrito: Lonya Grande",407,729,1136
+010707,07,"Amazonas, Utcubamba, distrito: Yamon",51,295,346
+020101,01,"Áncash, Huaraz, distrito: Huaraz",7749,653,8402
+020102,02,"Áncash, Huaraz, distrito: Cochabamba",32,100,132
+020103,03,"Áncash, Huaraz, distrito: Colcabamba",11,19,30
+020104,04,"Áncash, Huaraz, distrito: Huanchay",15,96,111
+020105,05,"Áncash, Huaraz, distrito: Independencia",9993,1565,11558
+020106,06,"Áncash, Huaraz, distrito: Jangas",337,303,640
+020107,07,"Áncash, Huaraz, distrito: La Libertad",36,90,126
+020108,08,"Áncash, Huaraz, distrito: Olleros",134,150,284
+020109,09,"Áncash, Huaraz, distrito: Pampas Grande",31,42,73
+020110,10,"Áncash, Huaraz, distrito: Pariacoto",115,527,642
+020111,11,"Áncash, Huaraz, distrito: Pira",151,213,364
+020112,12,"Áncash, Huaraz, distrito: Tarica",185,614,799
+020201,01,"Áncash, Aija, distrito: Aija",81,104,185
+020202,02,"Áncash, Aija, distrito: Coris",33,113,146
+020203,03,"Áncash, Aija, distrito: Huacllan",15,12,27
+020204,04,"Áncash, Aija, distrito: La Merced",26,121,147
+020205,05,"Áncash, Aija, distrito: Succha",17,29,46
+020301,01,"Áncash, Antonio Raymondi, distrito: Llamellin",172,126,298
+020302,02,"Áncash, Antonio Raymondi, distrito: Aczo",91,109,200
+020303,03,"Áncash, Antonio Raymondi, distrito: Chaccho",9,110,119
+020304,04,"Áncash, Antonio Raymondi, distrito: Chingas",54,70,124
+020305,05,"Áncash, Antonio Raymondi, distrito: Mirgas",78,251,329
+020306,06,"Áncash, Antonio Raymondi, distrito: San Juan de Rontoy",14,92,106
+020401,01,"Áncash, Asunción, distrito: Chacas",206,267,473
+020402,02,"Áncash, Asunción, distrito: Acochaca",22,200,222
+020501,01,"Áncash, Bolognesi, distrito: Chiquian",405,21,426
+020502,02,"Áncash, Bolognesi, distrito: Abelardo Pardo Lezameta",19,6,25
+020503,03,"Áncash, Bolognesi, distrito: Antonio Raymondi",37,48,85
+020504,04,"Áncash, Bolognesi, distrito: Aquia",112,107,219
+020505,05,"Áncash, Bolognesi, distrito: Cajacay",77,125,202
+020506,06,"Áncash, Bolognesi, distrito: Canis",27,1,28
+020507,07,"Áncash, Bolognesi, distrito: Colquioc",224,91,315
+020508,08,"Áncash, Bolognesi, distrito: Huallanca",707,99,806
+020509,09,"Áncash, Bolognesi, distrito: Huasta",91,31,122
+020510,10,"Áncash, Bolognesi, distrito: Huayllacayan",36,79,115
+020511,11,"Áncash, Bolognesi, distrito: La Primavera",30,10,40
+020512,12,"Áncash, Bolognesi, distrito: Mangas",24,3,27
+020513,13,"Áncash, Bolognesi, distrito: Pacllon",61,18,79
+020514,14,"Áncash, Bolognesi, distrito: San Miguel de Corpanqui",59,7,66
+020515,15,"Áncash, Bolognesi, distrito: Ticllos",51,11,62
+020601,01,"Áncash, Carhuaz, distrito: Carhuaz",1393,675,2068
+020602,02,"Áncash, Carhuaz, distrito: Acopampa",104,180,284
+020603,03,"Áncash, Carhuaz, distrito: Amashca",82,86,168
+020604,04,"Áncash, Carhuaz, distrito: Anta",104,206,310
+020605,05,"Áncash, Carhuaz, distrito: Ataquero",35,164,199
+020606,06,"Áncash, Carhuaz, distrito: Marcara",504,759,1263
+020607,07,"Áncash, Carhuaz, distrito: Pariahuanca",77,92,169
+020608,08,"Áncash, Carhuaz, distrito: San Miguel de Aco",61,278,339
+020609,09,"Áncash, Carhuaz, distrito: Shilla",134,216,350
+020610,10,"Áncash, Carhuaz, distrito: Tinco",202,237,439
+020611,11,"Áncash, Carhuaz, distrito: Yungar",89,266,355
+020701,01,"Áncash, Carlos Fermín Fitzcarrald, distrito: San Luis",282,675,957
+020702,02,"Áncash, Carlos Fermín Fitzcarrald, distrito: San Nicolás",105,222,327
+020703,03,"Áncash, Carlos Fermín Fitzcarrald, distrito: Yauya",66,299,365
+020801,01,"Áncash, Casma, distrito: Casma",4162,321,4483
+020802,02,"Áncash, Casma, distrito: Buena Vista Alta",332,261,593
+020803,03,"Áncash, Casma, distrito: Comandante Noel",178,69,247
+020804,04,"Áncash, Casma, distrito: Yautan",384,564,948
+020901,01,"Áncash, Corongo, distrito: Corongo",63,37,100
+020902,02,"Áncash, Corongo, distrito: Aco",15,12,27
+020903,03,"Áncash, Corongo, distrito: Bambas",37,8,45
+020904,04,"Áncash, Corongo, distrito: Cusca",118,202,320
+020905,05,"Áncash, Corongo, distrito: La Pampa",60,23,83
+020906,06,"Áncash, Corongo, distrito: Yanac",27,36,63
+020907,07,"Áncash, Corongo, distrito: Yupan",63,1,64
+021001,01,"Áncash, Huari, distrito: Huari",676,315,991
+021002,02,"Áncash, Huari, distrito: Anra",17,105,122
+021003,03,"Áncash, Huari, distrito: Cajay",65,253,318
+021004,04,"Áncash, Huari, distrito: Chavin de Huantar",270,639,909
+021005,05,"Áncash, Huari, distrito: Huacachi",97,100,197
+021006,06,"Áncash, Huari, distrito: Huacchis",86,37,123
+021007,07,"Áncash, Huari, distrito: Huachis",155,190,345
+021008,08,"Áncash, Huari, distrito: Huantar",76,255,331
+021009,09,"Áncash, Huari, distrito: Masin",74,34,108
+021010,10,"Áncash, Huari, distrito: Paucas",108,25,133
+021011,11,"Áncash, Huari, distrito: Ponto",100,168,268
+021012,12,"Áncash, Huari, distrito: Rahuapampa",42,16,58
+021013,13,"Áncash, Huari, distrito: Rapayan",56,66,122
+021014,14,"Áncash, Huari, distrito: San Marcos",481,1260,1741
+021015,15,"Áncash, Huari, distrito: San Pedro de Chana",100,184,284
+021016,16,"Áncash, Huari, distrito: Uco",91,48,139
+021101,01,"Áncash, Huarmey, distrito: Huarmey",2778,383,3161
+021102,02,"Áncash, Huarmey, distrito: Cochapeti",12,34,46
+021103,03,"Áncash, Huarmey, distrito: Culebras",218,218,436
+021104,04,"Áncash, Huarmey, distrito: Huayan",30,60,90
+021105,05,"Áncash, Huarmey, distrito: Malvas",27,51,78
+021201,01,"Áncash, Huaylas, distrito: Caraz",2044,1106,3150
+021202,02,"Áncash, Huaylas, distrito: Huallanca",41,43,84
+021203,03,"Áncash, Huaylas, distrito: Huata",16,126,142
+021204,04,"Áncash, Huaylas, distrito: Huaylas",29,117,146
+021205,05,"Áncash, Huaylas, distrito: Mato",124,118,242
+021206,06,"Áncash, Huaylas, distrito: Pamparomas",34,788,822
+021207,07,"Áncash, Huaylas, distrito: Pueblo Libre",63,771,834
+021208,08,"Áncash, Huaylas, distrito: Santa Cruz",72,406,478
+021209,09,"Áncash, Huaylas, distrito: Santo Toribio",24,82,106
+021210,10,"Áncash, Huaylas, distrito: Yuracmarca",59,192,251
+021301,01,"Áncash, Mariscal Luzuriaga, distrito: Piscobamba",128,154,282
+021302,02,"Áncash, Mariscal Luzuriaga, distrito: Casca",32,343,375
+021303,03,"Áncash, Mariscal Luzuriaga, distrito: Eleazar Guzmán Barron",18,120,138
+021304,04,"Áncash, Mariscal Luzuriaga, distrito: Fidel Olivas Escudero",5,160,165
+021305,05,"Áncash, Mariscal Luzuriaga, distrito: Llama",14,86,100
+021306,06,"Áncash, Mariscal Luzuriaga, distrito: Llumpa",24,547,571
+021307,07,"Áncash, Mariscal Luzuriaga, distrito: Lucma",4,323,327
+021308,08,"Áncash, Mariscal Luzuriaga, distrito: Musga",40,62,102
+021401,01,"Áncash, Ocros, distrito: Ocros",68,22,90
+021402,02,"Áncash, Ocros, distrito: Acas",42,41,83
+021403,03,"Áncash, Ocros, distrito: Cajamarquilla",22,1,23
+021404,04,"Áncash, Ocros, distrito: Carhuapampa",32,2,34
+021405,05,"Áncash, Ocros, distrito: Cochas",46,94,140
+021406,06,"Áncash, Ocros, distrito: Congas",97,17,114
+021407,07,"Áncash, Ocros, distrito: Llipa",21,8,29
+021408,08,"Áncash, Ocros, distrito: San Cristóbal de Rajan",48,5,53
+021409,09,"Áncash, Ocros, distrito: San Pedro",13,34,47
+021410,10,"Áncash, Ocros, distrito: Santiago de Chilcas",22,29,51
+021501,01,"Áncash, Pallasca, distrito: Cabana",206,50,256
+021502,02,"Áncash, Pallasca, distrito: Bolognesi",17,62,79
+021503,03,"Áncash, Pallasca, distrito: Conchucos",370,261,631
+021504,04,"Áncash, Pallasca, distrito: Huacaschuque",24,29,53
+021505,05,"Áncash, Pallasca, distrito: Huandoval",53,35,88
+021506,06,"Áncash, Pallasca, distrito: Lacabamba",22,21,43
+021507,07,"Áncash, Pallasca, distrito: Llapo",64,0,64
+021508,08,"Áncash, Pallasca, distrito: Pallasca",80,146,226
+021509,09,"Áncash, Pallasca, distrito: Pampas",239,120,359
+021510,10,"Áncash, Pallasca, distrito: Santa Rosa",26,88,114
+021511,11,"Áncash, Pallasca, distrito: Tauca",144,113,257
+021601,01,"Áncash, Pomabamba, distrito: Pomabamba",601,900,1501
+021602,02,"Áncash, Pomabamba, distrito: Huayllan",32,251,283
+021603,03,"Áncash, Pomabamba, distrito: Parobamba",110,438,548
+021604,04,"Áncash, Pomabamba, distrito: Quinuabamba",25,193,218
+021701,01,"Áncash, Recuay, distrito: Recuay",422,132,554
+021702,02,"Áncash, Recuay, distrito: Catac",346,160,506
+021703,03,"Áncash, Recuay, distrito: Cotaparaco",39,4,43
+021704,04,"Áncash, Recuay, distrito: Huayllapampa",24,27,51
+021705,05,"Áncash, Recuay, distrito: Llacllin",61,29,90
+021706,06,"Áncash, Recuay, distrito: Marca",128,7,135
+021707,07,"Áncash, Recuay, distrito: Pampas Chico",43,38,81
+021708,08,"Áncash, Recuay, distrito: Pararin",29,112,141
+021709,09,"Áncash, Recuay, distrito: Tapacocha",12,7,19
+021710,10,"Áncash, Recuay, distrito: Ticapampa",170,94,264
+021801,01,"Áncash, Santa, distrito: Chimbote",26462,1004,27466
+021802,02,"Áncash, Santa, distrito: Cáceres del Perú",102,344,446
+021803,03,"Áncash, Santa, distrito: Coishco",2118,0,2118
+021804,04,"Áncash, Santa, distrito: Macate",33,287,320
+021805,05,"Áncash, Santa, distrito: Moro",507,455,962
+021806,06,"Áncash, Santa, distrito: Nepeña",1647,103,1750
+021807,07,"Áncash, Santa, distrito: Samanco",465,129,594
+021808,08,"Áncash, Santa, distrito: Santa",2525,249,2774
+021809,09,"Áncash, Santa, distrito: Nuevo Chimbote",21742,113,21855
+021901,01,"Áncash, Sihuas, distrito: Sihuas",422,89,511
+021902,02,"Áncash, Sihuas, distrito: Acobamba",94,85,179
+021903,03,"Áncash, Sihuas, distrito: Alfonso Ugarte",27,21,48
+021904,04,"Áncash, Sihuas, distrito: Cashapampa",62,217,279
+021905,05,"Áncash, Sihuas, distrito: Chingalpo",42,37,79
+021906,06,"Áncash, Sihuas, distrito: Huayllabamba",94,197,291
+021907,07,"Áncash, Sihuas, distrito: Quiches",55,151,206
+021908,08,"Áncash, Sihuas, distrito: Ragash",24,201,225
+021909,09,"Áncash, Sihuas, distrito: San Juan",57,671,728
+021910,10,"Áncash, Sihuas, distrito: Sicsibamba",57,62,119
+022001,01,"Áncash, Yungay, distrito: Yungay",1337,1324,2661
+022002,02,"Áncash, Yungay, distrito: Cascapara",17,193,210
+022003,03,"Áncash, Yungay, distrito: Mancos",318,490,808
+022004,04,"Áncash, Yungay, distrito: Matacoto",29,160,189
+022005,05,"Áncash, Yungay, distrito: Quillo",163,1358,1521
+022006,06,"Áncash, Yungay, distrito: Ranrahirca",132,197,329
+022007,07,"Áncash, Yungay, distrito: Shupluy",16,168,184
+022008,08,"Áncash, Yungay, distrito: Yanama",43,491,534
+030101,01,"Apurímac, Abancay, distrito: Abancay",10753,797,11550
+030102,02,"Apurímac, Abancay, distrito: Chacoche",129,15,144
+030103,03,"Apurímac, Abancay, distrito: Circa",42,143,185
+030104,04,"Apurímac, Abancay, distrito: Curahuasi",916,981,1897
+030105,05,"Apurímac, Abancay, distrito: Huanipaca",46,154,200
+030106,06,"Apurímac, Abancay, distrito: Lambrama",142,140,282
+030107,07,"Apurímac, Abancay, distrito: Pichirhua",54,176,230
+030108,08,"Apurímac, Abancay, distrito: San Pedro de Cachora",73,131,204
+030109,09,"Apurímac, Abancay, distrito: Tamburco",1698,209,1907
+030201,01,"Apurímac, Andahuaylas, distrito: Andahuaylas",5510,1049,6559
+030202,02,"Apurímac, Andahuaylas, distrito: Andarapa",149,454,603
+030203,03,"Apurímac, Andahuaylas, distrito: Chiara",100,65,165
+030204,04,"Apurímac, Andahuaylas, distrito: Huancarama",374,187,561
+030205,05,"Apurímac, Andahuaylas, distrito: Huancaray",51,369,420
+030206,06,"Apurímac, Andahuaylas, distrito: Huayana",48,22,70
+030207,07,"Apurímac, Andahuaylas, distrito: Kishuara",220,471,691
+030208,08,"Apurímac, Andahuaylas, distrito: Pacobamba",61,344,405
+030209,09,"Apurímac, Andahuaylas, distrito: Pacucha",154,1028,1182
+030210,10,"Apurímac, Andahuaylas, distrito: Pampachiri",52,118,170
+030211,11,"Apurímac, Andahuaylas, distrito: Pomacocha",70,14,84
+030212,12,"Apurímac, Andahuaylas, distrito: San Antonio de Cachi",160,166,326
+030213,13,"Apurímac, Andahuaylas, distrito: San Jerónimo",1800,1146,2946
+030214,14,"Apurímac, Andahuaylas, distrito: San Miguel de Chaccrampa",85,124,209
+030215,15,"Apurímac, Andahuaylas, distrito: Santa María de Chicmo",503,409,912
+030216,16,"Apurímac, Andahuaylas, distrito: Talavera",1499,838,2337
+030217,17,"Apurímac, Andahuaylas, distrito: Tumay Huaraca",55,148,203
+030218,18,"Apurímac, Andahuaylas, distrito: Turpo",119,278,397
+030219,19,"Apurímac, Andahuaylas, distrito: Kaquiabamba",116,44,160
+030220,20,"Apurímac, Andahuaylas, distrito: José María Arguedas",431,151,582
+030301,01,"Apurímac, Antabamba, distrito: Antabamba",161,27,188
+030302,02,"Apurímac, Antabamba, distrito: El Oro",30,21,51
+030303,03,"Apurímac, Antabamba, distrito: Huaquirca",142,74,216
+030304,04,"Apurímac, Antabamba, distrito: Juan Espinoza Medrano",60,9,69
+030305,05,"Apurímac, Antabamba, distrito: Oropesa",202,47,249
+030306,06,"Apurímac, Antabamba, distrito: Pachaconas",85,3,88
+030307,07,"Apurímac, Antabamba, distrito: Sabaino",78,14,92
+030401,01,"Apurímac, Aymaraes, distrito: Chalhuanca",474,64,538
+030402,02,"Apurímac, Aymaraes, distrito: Capaya",18,34,52
+030403,03,"Apurímac, Aymaraes, distrito: Caraybamba",57,5,62
+030404,04,"Apurímac, Aymaraes, distrito: Chapimarca",88,76,164
+030405,05,"Apurímac, Aymaraes, distrito: Colcabamba",53,22,75
+030406,06,"Apurímac, Aymaraes, distrito: Cotaruse",113,151,264
+030407,07,"Apurímac, Aymaraes, distrito: Ihuayllo",15,21,36
+030408,08,"Apurímac, Aymaraes, distrito: Justo Apu Sahuaraura",24,46,70
+030409,09,"Apurímac, Aymaraes, distrito: Lucre",19,100,119
+030410,10,"Apurímac, Aymaraes, distrito: Pocohuanca",37,48,85
+030411,11,"Apurímac, Aymaraes, distrito: San Juan de Chacña",68,8,76
+030412,12,"Apurímac, Aymaraes, distrito: Sañayca",54,42,96
+030413,13,"Apurímac, Aymaraes, distrito: Soraya",13,54,67
+030414,14,"Apurímac, Aymaraes, distrito: Tapairihua",23,147,170
+030415,15,"Apurímac, Aymaraes, distrito: Tintay",80,117,197
+030416,16,"Apurímac, Aymaraes, distrito: Toraya",48,51,99
+030417,17,"Apurímac, Aymaraes, distrito: Yanaca",57,22,79
+030501,01,"Apurímac, Cotabambas, distrito: Tambobamba",667,641,1308
+030502,02,"Apurímac, Cotabambas, distrito: Cotabambas",159,177,336
+030503,03,"Apurímac, Cotabambas, distrito: Coyllurqui",96,629,725
+030504,04,"Apurímac, Cotabambas, distrito: Haquira",567,460,1027
+030505,05,"Apurímac, Cotabambas, distrito: Mara",102,571,673
+030506,06,"Apurímac, Cotabambas, distrito: Challhuahuacho",812,1227,2039
+030601,01,"Apurímac, Chincheros, distrito: Chincheros",361,224,585
+030602,02,"Apurímac, Chincheros, distrito: Anco_Huallo",872,251,1123
+030603,03,"Apurímac, Chincheros, distrito: Cocharcas",24,125,149
+030604,04,"Apurímac, Chincheros, distrito: Huaccana",256,371,627
+030605,05,"Apurímac, Chincheros, distrito: Ocobamba",210,546,756
+030606,06,"Apurímac, Chincheros, distrito: Ongoy",33,196,229
+030607,07,"Apurímac, Chincheros, distrito: Uranmarca",108,188,296
+030608,08,"Apurímac, Chincheros, distrito: Ranracancha",112,373,485
+030609,09,"Apurímac, Chincheros, distrito: Rocchacc",94,209,303
+030610,10,"Apurímac, Chincheros, distrito: El Porvenir",96,57,153
+030611,11,"Apurímac, Chincheros, distrito: Los Chankas",29,64,93
+030701,01,"Apurímac, Grau, distrito: Chuquibambilla",313,176,489
+030702,02,"Apurímac, Grau, distrito: Curpahuasi",29,162,191
+030703,03,"Apurímac, Grau, distrito: Gamarra",28,204,232
+030704,04,"Apurímac, Grau, distrito: Huayllati",29,89,118
+030705,05,"Apurímac, Grau, distrito: Mamara",64,41,105
+030706,06,"Apurímac, Grau, distrito: Micaela Bastidas",68,66,134
+030707,07,"Apurímac, Grau, distrito: Pataypampa",35,38,73
+030708,08,"Apurímac, Grau, distrito: Progreso",172,210,382
+030709,09,"Apurímac, Grau, distrito: San Antonio",18,4,22
+030710,10,"Apurímac, Grau, distrito: Santa Rosa",10,26,36
+030711,11,"Apurímac, Grau, distrito: Turpay",34,3,37
+030712,12,"Apurímac, Grau, distrito: Vilcabamba",178,0,178
+030713,13,"Apurímac, Grau, distrito: Virundo",71,6,77
+030714,14,"Apurímac, Grau, distrito: Curasco",64,77,141
+040101,01,"Arequipa, Arequipa, distrito: Arequipa",7665,0,7665
+040102,02,"Arequipa, Arequipa, distrito: Alto Selva Alegre",13506,0,13506
+040103,03,"Arequipa, Arequipa, distrito: Cayma",13860,1,13861
+040104,04,"Arequipa, Arequipa, distrito: Cerro Colorado",29923,27,29950
+040105,05,"Arequipa, Arequipa, distrito: Characato",1674,60,1734
+040106,06,"Arequipa, Arequipa, distrito: Chiguata",343,49,392
+040107,07,"Arequipa, Arequipa, distrito: Jacobo Hunter",7124,2,7126
+040108,08,"Arequipa, Arequipa, distrito: La Joya",3979,450,4429
+040109,09,"Arequipa, Arequipa, distrito: Mariano Melgar",8826,0,8826
+040110,10,"Arequipa, Arequipa, distrito: Miraflores",9204,0,9204
+040111,11,"Arequipa, Arequipa, distrito: Mollebaya",518,69,587
+040112,12,"Arequipa, Arequipa, distrito: Paucarpata",18779,0,18779
+040113,13,"Arequipa, Arequipa, distrito: Pocsi",18,20,38
+040114,14,"Arequipa, Arequipa, distrito: Polobaya",35,43,78
+040115,15,"Arequipa, Arequipa, distrito: Quequeña",505,10,515
+040116,16,"Arequipa, Arequipa, distrito: Sabandia",587,2,589
+040117,17,"Arequipa, Arequipa, distrito: Sachaca",3417,0,3417
+040118,18,"Arequipa, Arequipa, distrito: San Juan de Siguas",52,24,76
+040119,19,"Arequipa, Arequipa, distrito: San Juan de Tarucani",47,121,168
+040120,20,"Arequipa, Arequipa, distrito: Santa Isabel de Siguas",10,76,86
+040121,21,"Arequipa, Arequipa, distrito: Santa Rita de Siguas",960,34,994
+040122,22,"Arequipa, Arequipa, distrito: Socabaya",10730,46,10776
+040123,23,"Arequipa, Arequipa, distrito: Tiabaya",2243,62,2305
+040124,24,"Arequipa, Arequipa, distrito: Uchumayo",1810,53,1863
+040125,25,"Arequipa, Arequipa, distrito: Vitor",189,195,384
+040126,26,"Arequipa, Arequipa, distrito: Yanahuara",3277,0,3277
+040127,27,"Arequipa, Arequipa, distrito: Yarabamba",134,2,136
+040128,28,"Arequipa, Arequipa, distrito: Yura",5262,41,5303
+040129,29,"Arequipa, Arequipa, distrito: José Luis Bustamante Y Rivero",11005,0,11005
+040201,01,"Arequipa, Camaná, distrito: Camaná",1309,0,1309
+040202,02,"Arequipa, Camaná, distrito: José María Quimper",529,0,529
+040203,03,"Arequipa, Camaná, distrito: Mariano Nicolás Valcárcel",101,1250,1351
+040204,04,"Arequipa, Camaná, distrito: Mariscal Cáceres",687,49,736
+040205,05,"Arequipa, Camaná, distrito: Nicolás de Pierola",785,3,788
+040206,06,"Arequipa, Camaná, distrito: Ocoña",333,64,397
+040207,07,"Arequipa, Camaná, distrito: Quilca",9,79,88
+040208,08,"Arequipa, Camaná, distrito: Samuel Pastor",1923,31,1954
+040301,01,"Arequipa, Caravelí, distrito: Caravelí",431,30,461
+040302,02,"Arequipa, Caravelí, distrito: Acarí",276,193,469
+040303,03,"Arequipa, Caravelí, distrito: Atico",396,84,480
+040304,04,"Arequipa, Caravelí, distrito: Atiquipa",4,45,49
+040305,05,"Arequipa, Caravelí, distrito: Bella Unión",354,20,374
+040306,06,"Arequipa, Caravelí, distrito: Cahuacho",11,38,49
+040307,07,"Arequipa, Caravelí, distrito: Chala",1083,51,1134
+040308,08,"Arequipa, Caravelí, distrito: Chaparra",353,169,522
+040309,09,"Arequipa, Caravelí, distrito: Huanuhuanu",14,402,416
+040310,10,"Arequipa, Caravelí, distrito: Jaqui",122,12,134
+040311,11,"Arequipa, Caravelí, distrito: Lomas",143,4,147
+040312,12,"Arequipa, Caravelí, distrito: Quicacha",120,84,204
+040313,13,"Arequipa, Caravelí, distrito: Yauca",120,17,137
+040401,01,"Arequipa, Castilla, distrito: Aplao",652,141,793
+040402,02,"Arequipa, Castilla, distrito: Andagua",66,23,89
+040403,03,"Arequipa, Castilla, distrito: Ayo",5,5,10
+040404,04,"Arequipa, Castilla, distrito: Chachas",56,127,183
+040405,05,"Arequipa, Castilla, distrito: Chilcaymarca",52,23,75
+040406,06,"Arequipa, Castilla, distrito: Choco",7,17,24
+040407,07,"Arequipa, Castilla, distrito: Huancarqui",80,11,91
+040408,08,"Arequipa, Castilla, distrito: Machaguay",14,13,27
+040409,09,"Arequipa, Castilla, distrito: Orcopampa",562,29,591
+040410,10,"Arequipa, Castilla, distrito: Pampacolca",111,33,144
+040411,11,"Arequipa, Castilla, distrito: Tipan",15,9,24
+040412,12,"Arequipa, Castilla, distrito: Uñon",7,8,15
+040413,13,"Arequipa, Castilla, distrito: Uraca",421,178,599
+040414,14,"Arequipa, Castilla, distrito: Viraco",91,46,137
+040501,01,"Arequipa, Caylloma, distrito: Chivay",687,12,699
+040502,02,"Arequipa, Caylloma, distrito: Achoma",72,1,73
+040503,03,"Arequipa, Caylloma, distrito: Cabanaconde",178,1,179
+040504,04,"Arequipa, Caylloma, distrito: Callalli",98,26,124
+040505,05,"Arequipa, Caylloma, distrito: Caylloma",414,10,424
+040506,06,"Arequipa, Caylloma, distrito: Coporaque",85,38,123
+040507,07,"Arequipa, Caylloma, distrito: Huambo",23,7,30
+040508,08,"Arequipa, Caylloma, distrito: Huanca",50,21,71
+040509,09,"Arequipa, Caylloma, distrito: Ichupampa",44,0,44
+040510,10,"Arequipa, Caylloma, distrito: Lari",74,1,75
+040511,11,"Arequipa, Caylloma, distrito: Lluta",27,7,34
+040512,12,"Arequipa, Caylloma, distrito: Maca",57,2,59
+040513,13,"Arequipa, Caylloma, distrito: Madrigal",40,0,40
+040514,14,"Arequipa, Caylloma, distrito: San Antonio de Chuca",69,25,94
+040515,15,"Arequipa, Caylloma, distrito: Sibayo",57,7,64
+040516,16,"Arequipa, Caylloma, distrito: Tapay",2,58,60
+040517,17,"Arequipa, Caylloma, distrito: Tisco",91,45,136
+040518,18,"Arequipa, Caylloma, distrito: Tuti",51,3,54
+040519,19,"Arequipa, Caylloma, distrito: Yanque",204,15,219
+040520,20,"Arequipa, Caylloma, distrito: Majes",7199,1283,8482
+040601,01,"Arequipa, Condesuyos, distrito: Chuquibamba",251,29,280
+040602,02,"Arequipa, Condesuyos, distrito: Andaray",14,54,68
+040603,03,"Arequipa, Condesuyos, distrito: Cayarani",51,253,304
+040604,04,"Arequipa, Condesuyos, distrito: Chichas",31,19,50
+040605,05,"Arequipa, Condesuyos, distrito: Iray",34,14,48
+040606,06,"Arequipa, Condesuyos, distrito: Río Grande",111,204,315
+040607,07,"Arequipa, Condesuyos, distrito: Salamanca",19,9,28
+040608,08,"Arequipa, Condesuyos, distrito: Yanaquihua",61,368,429
+040701,01,"Arequipa, Islay, distrito: Mollendo",2756,10,2766
+040702,02,"Arequipa, Islay, distrito: Cocachacra",794,103,897
+040703,03,"Arequipa, Islay, distrito: Dean Valdivia",785,28,813
+040704,04,"Arequipa, Islay, distrito: Islay",590,0,590
+040705,05,"Arequipa, Islay, distrito: Mejia",111,61,172
+040706,06,"Arequipa, Islay, distrito: Punta de Bombón",639,9,648
+040801,01,"Arequipa, La Unión, distrito: Cotahuasi",179,46,225
+040802,02,"Arequipa, La Unión, distrito: Alca",151,13,164
+040803,03,"Arequipa, La Unión, distrito: Charcana",29,19,48
+040804,04,"Arequipa, La Unión, distrito: Huaynacotas",88,88,176
+040805,05,"Arequipa, La Unión, distrito: Pampamarca",19,44,63
+040806,06,"Arequipa, La Unión, distrito: Puyca",76,69,145
+040807,07,"Arequipa, La Unión, distrito: Quechualla",3,12,15
+040808,08,"Arequipa, La Unión, distrito: Sayla",14,8,22
+040809,09,"Arequipa, La Unión, distrito: Tauria",24,5,29
+040810,10,"Arequipa, La Unión, distrito: Tomepampa",22,22,44
+040811,11,"Arequipa, La Unión, distrito: Toro",26,18,44
+050101,01,"Ayacucho, Huamanga, distrito: Ayacucho",15520,296,15816
+050102,02,"Ayacucho, Huamanga, distrito: Acocro",159,779,938
+050103,03,"Ayacucho, Huamanga, distrito: Acos Vinchos",97,495,592
+050104,04,"Ayacucho, Huamanga, distrito: Carmen Alto",5008,89,5097
+050105,05,"Ayacucho, Huamanga, distrito: Chiara",314,435,749
+050106,06,"Ayacucho, Huamanga, distrito: Ocros",123,435,558
+050107,07,"Ayacucho, Huamanga, distrito: Pacaycasa",249,237,486
+050108,08,"Ayacucho, Huamanga, distrito: Quinua",270,421,691
+050109,09,"Ayacucho, Huamanga, distrito: San José de Ticllas",13,161,174
+050110,10,"Ayacucho, Huamanga, distrito: San Juan Bautista",8824,11,8835
+050111,11,"Ayacucho, Huamanga, distrito: Santiago de Pischa",67,89,156
+050112,12,"Ayacucho, Huamanga, distrito: Socos",116,688,804
+050113,13,"Ayacucho, Huamanga, distrito: Tambillo",33,706,739
+050114,14,"Ayacucho, Huamanga, distrito: Vinchos",75,1662,1737
+050115,15,"Ayacucho, Huamanga, distrito: Jesús Nazareno",3246,126,3372
+050116,16,"Ayacucho, Huamanga, distrito: Andrés Avelino Cáceres Dorregaray",4231,470,4701
+050201,01,"Ayacucho, Cangallo, distrito: Cangallo",260,292,552
+050202,02,"Ayacucho, Cangallo, distrito: Chuschi",346,664,1010
+050203,03,"Ayacucho, Cangallo, distrito: Los Morochucos",317,523,840
+050204,04,"Ayacucho, Cangallo, distrito: María Parado de Bellido",43,175,218
+050205,05,"Ayacucho, Cangallo, distrito: Paras",160,309,469
+050206,06,"Ayacucho, Cangallo, distrito: Totos",152,169,321
+050301,01,"Ayacucho, Huanca Sancos, distrito: Sancos",268,12,280
+050302,02,"Ayacucho, Huanca Sancos, distrito: Carapo",157,13,170
+050303,03,"Ayacucho, Huanca Sancos, distrito: Sacsamarca",79,37,116
+050304,04,"Ayacucho, Huanca Sancos, distrito: Santiago de Lucanamarca",106,84,190
+050401,01,"Ayacucho, Huanta, distrito: Huanta",5102,902,6004
+050402,02,"Ayacucho, Huanta, distrito: Ayahuanco",50,89,139
+050403,03,"Ayacucho, Huanta, distrito: Huamanguilla",272,277,549
+050404,04,"Ayacucho, Huanta, distrito: Iguain",97,262,359
+050405,05,"Ayacucho, Huanta, distrito: Luricocha",285,469,754
+050406,06,"Ayacucho, Huanta, distrito: Santillana",191,302,493
+050407,07,"Ayacucho, Huanta, distrito: Sivia",559,1008,1567
+050408,08,"Ayacucho, Huanta, distrito: Llochegua",783,898,1681
+050409,09,"Ayacucho, Huanta, distrito: Canayre",304,265,569
+050410,10,"Ayacucho, Huanta, distrito: Uchuraccay",62,434,496
+050411,11,"Ayacucho, Huanta, distrito: Pucacolpa",90,219,309
+050412,12,"Ayacucho, Huanta, distrito: Chaca",143,150,293
+050501,01,"Ayacucho, La Mar, distrito: San Miguel",709,721,1430
+050502,02,"Ayacucho, La Mar, distrito: Anco",315,811,1126
+050503,03,"Ayacucho, La Mar, distrito: Ayna",1017,329,1346
+050504,04,"Ayacucho, La Mar, distrito: Chilcas",32,178,210
+050505,05,"Ayacucho, La Mar, distrito: Chungui",87,350,437
+050506,06,"Ayacucho, La Mar, distrito: Luis Carranza",18,152,170
+050507,07,"Ayacucho, La Mar, distrito: Santa Rosa",1170,447,1617
+050508,08,"Ayacucho, La Mar, distrito: Tambo",818,490,1308
+050509,09,"Ayacucho, La Mar, distrito: Samugari",825,600,1425
+050510,10,"Ayacucho, La Mar, distrito: Anchihuay",151,408,559
+050511,11,"Ayacucho, La Mar, distrito: Oronccoy",34,115,149
+050601,01,"Ayacucho, Lucanas, distrito: Puquio",1396,53,1449
+050602,02,"Ayacucho, Lucanas, distrito: Aucara",164,47,211
+050603,03,"Ayacucho, Lucanas, distrito: Cabana",206,3,209
+050604,04,"Ayacucho, Lucanas, distrito: Carmen Salcedo",162,4,166
+050605,05,"Ayacucho, Lucanas, distrito: Chaviña",101,78,179
+050606,06,"Ayacucho, Lucanas, distrito: Chipao",147,54,201
+050607,07,"Ayacucho, Lucanas, distrito: Huac-Huas",30,88,118
+050608,08,"Ayacucho, Lucanas, distrito: Laramate",64,53,117
+050609,09,"Ayacucho, Lucanas, distrito: Leoncio Prado",38,66,104
+050610,10,"Ayacucho, Lucanas, distrito: Llauta",42,34,76
+050611,11,"Ayacucho, Lucanas, distrito: Lucanas",158,112,270
+050612,12,"Ayacucho, Lucanas, distrito: Ocaña",115,109,224
+050613,13,"Ayacucho, Lucanas, distrito: Otoca",77,124,201
+050614,14,"Ayacucho, Lucanas, distrito: Saisa",50,45,95
+050615,15,"Ayacucho, Lucanas, distrito: San Cristobal",107,72,179
+050616,16,"Ayacucho, Lucanas, distrito: San Juan",73,13,86
+050617,17,"Ayacucho, Lucanas, distrito: San Pedro",148,128,276
+050618,18,"Ayacucho, Lucanas, distrito: San Pedro de Palco",37,36,73
+050619,19,"Ayacucho, Lucanas, distrito: Sancos",223,270,493
+050620,20,"Ayacucho, Lucanas, distrito: Santa Ana de HuaycAHUACHO",51,1,52
+050621,21,"Ayacucho, Lucanas, distrito: Santa Lucia",117,21,138
+050701,01,"Ayacucho, Parinacochas, distrito: Coracora",1225,232,1457
+050702,02,"Ayacucho, Parinacochas, distrito: Chumpi",164,29,193
+050703,03,"Ayacucho, Parinacochas, distrito: Coronel Castañeda",33,93,126
+050704,04,"Ayacucho, Parinacochas, distrito: Pacapausa",48,21,69
+050705,05,"Ayacucho, Parinacochas, distrito: Pullo",770,104,874
+050706,06,"Ayacucho, Parinacochas, distrito: Puyusca",110,75,185
+050707,07,"Ayacucho, Parinacochas, distrito: San Francisco de Ravacayco",10,19,29
+050708,08,"Ayacucho, Parinacochas, distrito: Upahuacho",12,78,90
+050801,01,"Ayacucho, Páucar del Sara Sara, distrito: Pausa",200,34,234
+050802,02,"Ayacucho, Páucar del Sara Sara, distrito: Colta",29,12,41
+050803,03,"Ayacucho, Páucar del Sara Sara, distrito: Corculla",22,5,27
+050804,04,"Ayacucho, Páucar del Sara Sara, distrito: Lampa",135,26,161
+050805,05,"Ayacucho, Páucar del Sara Sara, distrito: Marcabamba",37,7,44
+050806,06,"Ayacucho, Páucar del Sara Sara, distrito: Oyolo",53,87,140
+050807,07,"Ayacucho, Páucar del Sara Sara, distrito: Pararca",13,8,21
+050808,08,"Ayacucho, Páucar del Sara Sara, distrito: San Javier de Alpabamba",8,7,15
+050809,09,"Ayacucho, Páucar del Sara Sara, distrito: San José de Ushua",7,3,10
+050810,10,"Ayacucho, Páucar del Sara Sara, distrito: Sara Sara",38,2,40
+050901,01,"Ayacucho, Sucre, distrito: Querobamba",253,21,274
+050902,02,"Ayacucho, Sucre, distrito: Belén",32,4,36
+050903,03,"Ayacucho, Sucre, distrito: Chalcos",13,14,27
+050904,04,"Ayacucho, Sucre, distrito: Chilcayoc",16,18,34
+050905,05,"Ayacucho, Sucre, distrito: Huacaña",23,3,26
+050906,06,"Ayacucho, Sucre, distrito: Morcolla",109,33,142
+050907,07,"Ayacucho, Sucre, distrito: Paico",27,3,30
+050908,08,"Ayacucho, Sucre, distrito: San Pedro de Larcay",28,18,46
+050909,09,"Ayacucho, Sucre, distrito: San Salvador de Quije",20,43,63
+050910,10,"Ayacucho, Sucre, distrito: Santiago de Paucaray",38,0,38
+050911,11,"Ayacucho, Sucre, distrito: Soras",81,7,88
+051001,01,"Ayacucho, Víctor Fajardo, distrito: Huancapi",195,5,200
+051002,02,"Ayacucho, Víctor Fajardo, distrito: Alcamenca",121,20,141
+051003,03,"Ayacucho, Víctor Fajardo, distrito: Apongo",38,6,44
+051004,04,"Ayacucho, Víctor Fajardo, distrito: Asquipata",7,14,21
+051005,05,"Ayacucho, Víctor Fajardo, distrito: Canaria",367,64,431
+051006,06,"Ayacucho, Víctor Fajardo, distrito: Cayara",97,25,122
+051007,07,"Ayacucho, Víctor Fajardo, distrito: Colca",62,32,94
+051008,08,"Ayacucho, Víctor Fajardo, distrito: Huamanquiquia",44,49,93
+051009,09,"Ayacucho, Víctor Fajardo, distrito: Huancaraylla",105,0,105
+051010,10,"Ayacucho, Víctor Fajardo, distrito: Hualla",169,11,180
+051011,11,"Ayacucho, Víctor Fajardo, distrito: Sarhua",255,34,289
+051012,12,"Ayacucho, Víctor Fajardo, distrito: Vilcanchos",95,139,234
+051101,01,"Ayacucho, Vilcas Huamán, distrito: Vilcas Huamán",319,415,734
+051102,02,"Ayacucho, Vilcas Huamán, distrito: Accomarca",31,9,40
+051103,03,"Ayacucho, Vilcas Huamán, distrito: Carhuanca",29,18,47
+051104,04,"Ayacucho, Vilcas Huamán, distrito: Concepción",17,108,125
+051105,05,"Ayacucho, Vilcas Huamán, distrito: Huambalpa",46,57,103
+051106,06,"Ayacucho, Vilcas Huamán, distrito: Independencia",43,51,94
+051107,07,"Ayacucho, Vilcas Huamán, distrito: Saurama",18,57,75
+051108,08,"Ayacucho, Vilcas Huamán, distrito: Vischongo",181,209,390
+060101,01,"Cajamarca, Cajamarca, distrito: Cajamarca",27972,5290,33262
+060102,02,"Cajamarca, Cajamarca, distrito: Asunción",107,628,735
+060103,03,"Cajamarca, Cajamarca, distrito: Chetilla",32,433,465
+060104,04,"Cajamarca, Cajamarca, distrito: Cospan",61,575,636
+060105,05,"Cajamarca, Cajamarca, distrito: Encañada",193,2156,2349
+060106,06,"Cajamarca, Cajamarca, distrito: Jesús",444,1341,1785
+060107,07,"Cajamarca, Cajamarca, distrito: Llacanora",80,671,751
+060108,08,"Cajamarca, Cajamarca, distrito: Los Baños del Inca",2891,3551,6442
+060109,09,"Cajamarca, Cajamarca, distrito: Magdalena",341,566,907
+060110,10,"Cajamarca, Cajamarca, distrito: Matara",76,290,366
+060111,11,"Cajamarca, Cajamarca, distrito: Namora",205,910,1115
+060112,12,"Cajamarca, Cajamarca, distrito: San Juan",129,395,524
+060201,01,"Cajamarca, Cajabamba, distrito: Cajabamba",2226,1379,3605
+060202,02,"Cajamarca, Cajabamba, distrito: Cachachi",112,2626,2738
+060203,03,"Cajamarca, Cajabamba, distrito: Condebamba",114,1367,1481
+060204,04,"Cajamarca, Cajabamba, distrito: Sitacocha",221,534,755
+060301,01,"Cajamarca, Celendín, distrito: Celendín",2810,795,3605
+060302,02,"Cajamarca, Celendín, distrito: Chumuch",22,214,236
+060303,03,"Cajamarca, Celendín, distrito: Cortegana",28,622,650
+060304,04,"Cajamarca, Celendín, distrito: Huasmin",156,986,1142
+060305,05,"Cajamarca, Celendín, distrito: Jorge Chávez",16,28,44
+060306,06,"Cajamarca, Celendín, distrito: José Galvez",36,213,249
+060307,07,"Cajamarca, Celendín, distrito: Miguel Iglesias",58,427,485
+060308,08,"Cajamarca, Celendín, distrito: Oxamarca",56,524,580
+060309,09,"Cajamarca, Celendín, distrito: Sorochuco",68,638,706
+060310,10,"Cajamarca, Celendín, distrito: Sucre",122,439,561
+060311,11,"Cajamarca, Celendín, distrito: Utco",5,89,94
+060312,12,"Cajamarca, Celendín, distrito: La Libertad de Pallan",81,610,691
+060401,01,"Cajamarca, Chota, distrito: Chota",3267,2826,6093
+060402,02,"Cajamarca, Chota, distrito: Anguia",56,290,346
+060403,03,"Cajamarca, Chota, distrito: Chadin",50,317,367
+060404,04,"Cajamarca, Chota, distrito: Chiguirip",34,313,347
+060405,05,"Cajamarca, Chota, distrito: Chimban",45,154,199
+060406,06,"Cajamarca, Chota, distrito: Choropampa",17,210,227
+060407,07,"Cajamarca, Chota, distrito: Cochabamba",158,398,556
+060408,08,"Cajamarca, Chota, distrito: Conchan",55,555,610
+060409,09,"Cajamarca, Chota, distrito: Huambos",114,586,700
+060410,10,"Cajamarca, Chota, distrito: Lajas",241,889,1130
+060411,11,"Cajamarca, Chota, distrito: Llama",325,366,691
+060412,12,"Cajamarca, Chota, distrito: Miracosta",19,275,294
+060413,13,"Cajamarca, Chota, distrito: Paccha",121,311,432
+060414,14,"Cajamarca, Chota, distrito: Pion",57,70,127
+060415,15,"Cajamarca, Chota, distrito: Querocoto",105,616,721
+060416,16,"Cajamarca, Chota, distrito: San Juan de Licupis",13,70,83
+060417,17,"Cajamarca, Chota, distrito: Tacabamba",322,1370,1692
+060418,18,"Cajamarca, Chota, distrito: Tocmoche",19,64,83
+060419,19,"Cajamarca, Chota, distrito: Chalamarca",86,834,920
+060501,01,"Cajamarca, Contumazá, distrito: Contumazá",289,412,701
+060502,02,"Cajamarca, Contumazá, distrito: Chilete",169,62,231
+060503,03,"Cajamarca, Contumazá, distrito: Cupisnique",17,99,116
+060504,04,"Cajamarca, Contumazá, distrito: Guzmango",32,272,304
+060505,05,"Cajamarca, Contumazá, distrito: San Benito",56,342,398
+060506,06,"Cajamarca, Contumazá, distrito: Santa Cruz de Toled",16,80,96
+060507,07,"Cajamarca, Contumazá, distrito: Tantarica",140,88,228
+060508,08,"Cajamarca, Contumazá, distrito: Yonan",439,210,649
+060601,01,"Cajamarca, Cutervo, distrito: Cutervo",2826,3103,5929
+060602,02,"Cajamarca, Cutervo, distrito: Callayuc",74,1051,1125
+060603,03,"Cajamarca, Cutervo, distrito: Choros",41,244,285
+060604,04,"Cajamarca, Cutervo, distrito: Cujillo",31,250,281
+060605,05,"Cajamarca, Cutervo, distrito: La Ramada",54,358,412
+060606,06,"Cajamarca, Cutervo, distrito: Pimpingos",80,441,521
+060607,07,"Cajamarca, Cutervo, distrito: Querocotillo",147,1096,1243
+060608,08,"Cajamarca, Cutervo, distrito: San Andrés de Cutervo",100,257,357
+060609,09,"Cajamarca, Cutervo, distrito: San Juan de Cutervo",54,168,222
+060610,10,"Cajamarca, Cutervo, distrito: San Luis de Lucma",32,234,266
+060611,11,"Cajamarca, Cutervo, distrito: Santa Cruz",32,229,261
+060612,12,"Cajamarca, Cutervo, distrito: Santo Domingo de la Capilla",98,479,577
+060613,13,"Cajamarca, Cutervo, distrito: Santo Tomas",178,544,722
+060614,14,"Cajamarca, Cutervo, distrito: Socota",286,732,1018
+060615,15,"Cajamarca, Cutervo, distrito: Toribio Casanova",26,57,83
+060701,01,"Cajamarca, Hualgayoc, distrito: Bambamarca",2236,4572,6808
+060702,02,"Cajamarca, Hualgayoc, distrito: Chugur",28,230,258
+060703,03,"Cajamarca, Hualgayoc, distrito: Hualgayoc",311,1368,1679
+060801,01,"Cajamarca, Jaén, distrito: Jaén",12829,1594,14423
+060802,02,"Cajamarca, Jaén, distrito: Bellavista",919,898,1817
+060803,03,"Cajamarca, Jaén, distrito: Chontali",199,903,1102
+060804,04,"Cajamarca, Jaén, distrito: Colasay",168,853,1021
+060805,05,"Cajamarca, Jaén, distrito: Huabal",118,888,1006
+060806,06,"Cajamarca, Jaén, distrito: Las Pirias",108,458,566
+060807,07,"Cajamarca, Jaén, distrito: Pomahuaca",151,774,925
+060808,08,"Cajamarca, Jaén, distrito: Pucara",502,295,797
+060809,09,"Cajamarca, Jaén, distrito: Sallique",94,724,818
+060810,10,"Cajamarca, Jaén, distrito: San Felipe",41,409,450
+060811,11,"Cajamarca, Jaén, distrito: San José del Alto",57,816,873
+060812,12,"Cajamarca, Jaén, distrito: Santa Rosa",294,837,1131
+060901,01,"Cajamarca, San Ignacio, distrito: San Ignacio",1793,2702,4495
+060902,02,"Cajamarca, San Ignacio, distrito: Chirinos",294,1469,1763
+060903,03,"Cajamarca, San Ignacio, distrito: Huarango",425,1524,1949
+060904,04,"Cajamarca, San Ignacio, distrito: La Coipa",269,2097,2366
+060905,05,"Cajamarca, San Ignacio, distrito: Namballe",129,976,1105
+060906,06,"Cajamarca, San Ignacio, distrito: San José de Lourdes",343,1808,2151
+060907,07,"Cajamarca, San Ignacio, distrito: Tabaconas",51,2120,2171
+061001,01,"Cajamarca, San Marcos, distrito: Pedro Gálvez",1311,1030,2341
+061002,02,"Cajamarca, San Marcos, distrito: Chancay",51,221,272
+061003,03,"Cajamarca, San Marcos, distrito: Eduardo Villanueva",157,116,273
+061004,04,"Cajamarca, San Marcos, distrito: Gregorio Pita",54,394,448
+061005,05,"Cajamarca, San Marcos, distrito: Ichocan",53,107,160
+061006,06,"Cajamarca, San Marcos, distrito: José Manuel Quiroz",39,294,333
+061007,07,"Cajamarca, San Marcos, distrito: José Sabogal",135,1256,1391
+061101,01,"Cajamarca, San Miguel, distrito: San Miguel",453,753,1206
+061102,02,"Cajamarca, San Miguel, distrito: Bolívar",53,59,112
+061103,03,"Cajamarca, San Miguel, distrito: Calquis",11,396,407
+061104,04,"Cajamarca, San Miguel, distrito: Catilluc",50,216,266
+061105,05,"Cajamarca, San Miguel, distrito: El Prado",15,111,126
+061106,06,"Cajamarca, San Miguel, distrito: La Florida",53,121,174
+061107,07,"Cajamarca, San Miguel, distrito: Llapa",58,329,387
+061108,08,"Cajamarca, San Miguel, distrito: Nanchoc",30,99,129
+061109,09,"Cajamarca, San Miguel, distrito: Niepos",50,169,219
+061110,10,"Cajamarca, San Miguel, distrito: San Gregorio",32,175,207
+061111,11,"Cajamarca, San Miguel, distrito: San Silvestre de Cochan",12,293,305
+061112,12,"Cajamarca, San Miguel, distrito: Tongod",66,183,249
+061113,13,"Cajamarca, San Miguel, distrito: Unión Agua Blanca",69,176,245
+061201,01,"Cajamarca, San Pablo, distrito: San Pablo",350,904,1254
+061202,02,"Cajamarca, San Pablo, distrito: San Bernardino",17,458,475
+061203,03,"Cajamarca, San Pablo, distrito: San Luis",16,52,68
+061204,04,"Cajamarca, San Pablo, distrito: Tumbaden",21,356,377
+061301,01,"Cajamarca, Santa Cruz, distrito: Santa Cruz",513,391,904
+061302,02,"Cajamarca, Santa Cruz, distrito: Andabamba",34,78,112
+061303,03,"Cajamarca, Santa Cruz, distrito: Catache",126,752,878
+061304,04,"Cajamarca, Santa Cruz, distrito: Chancaybaños",36,272,308
+061305,05,"Cajamarca, Santa Cruz, distrito: La Esperanza",19,152,171
+061306,06,"Cajamarca, Santa Cruz, distrito: Ninabamba",28,138,166
+061307,07,"Cajamarca, Santa Cruz, distrito: Pulan",47,293,340
+061308,08,"Cajamarca, Santa Cruz, distrito: Saucepampa",15,119,134
+061309,09,"Cajamarca, Santa Cruz, distrito: Sexi",22,32,54
+061310,10,"Cajamarca, Santa Cruz, distrito: Uticyacu",13,56,69
+061311,11,"Cajamarca, Santa Cruz, distrito: Yauyucan",144,271,415
+070101,01,"Prov. Constitucional del Callao, distrito: Callao",58590,0,58590
+070102,02,"Prov. Constitucional del Callao, distrito: Bellavista",9044,0,9044
+070103,03,"Prov. Constitucional del Callao, distrito: Carmen de la Legua Reynoso",5872,0,5872
+070104,04,"Prov. Constitucional del Callao, distrito: La Perla",6872,0,6872
+070105,05,"Prov. Constitucional del Callao, distrito: La Punta",348,0,348
+070106,06,"Prov. Constitucional del Callao, distrito: Ventanilla",46428,0,46428
+070107,07,"Prov. Constitucional del Callao, distrito: Mi Perú",6989,0,6989
+080101,01,"Cusco, Cusco, distrito: Cusco",17799,435,18234
+080102,02,"Cusco, Cusco, distrito: Ccorca",72,231,303
+080103,03,"Cusco, Cusco, distrito: Poroy",209,168,377
+080104,04,"Cusco, Cusco, distrito: San Jerónimo",9067,265,9332
+080105,05,"Cusco, Cusco, distrito: San Sebastian",18929,273,19202
+080106,06,"Cusco, Cusco, distrito: Santiago",14739,331,15070
+080107,07,"Cusco, Cusco, distrito: Saylla",476,309,785
+080108,08,"Cusco, Cusco, distrito: Wanchaq",7518,0,7518
+080201,01,"Cusco, Acomayo, distrito: Acomayo",411,163,574
+080202,02,"Cusco, Acomayo, distrito: Acopia",207,105,312
+080203,03,"Cusco, Acomayo, distrito: Acos",169,93,262
+080204,04,"Cusco, Acomayo, distrito: Mosoc Llacta",77,64,141
+080205,05,"Cusco, Acomayo, distrito: Pomacanchi",641,214,855
+080206,06,"Cusco, Acomayo, distrito: Rondocan",89,57,146
+080207,07,"Cusco, Acomayo, distrito: Sangarara",314,62,376
+080301,01,"Cusco, Anta, distrito: Anta",1699,1388,3087
+080302,02,"Cusco, Anta, distrito: Ancahuasi",444,437,881
+080303,03,"Cusco, Anta, distrito: Cachimayo",244,90,334
+080304,04,"Cusco, Anta, distrito: Chinchaypujio",128,272,400
+080305,05,"Cusco, Anta, distrito: Huarocondo",364,269,633
+080306,06,"Cusco, Anta, distrito: Limatambo",211,593,804
+080307,07,"Cusco, Anta, distrito: Mollepata",196,132,328
+080308,08,"Cusco, Anta, distrito: Pucyura",364,171,535
+080309,09,"Cusco, Anta, distrito: Zurite",270,191,461
+080401,01,"Cusco, Calca, distrito: Calca",2001,880,2881
+080402,02,"Cusco, Calca, distrito: Coya",358,54,412
+080403,03,"Cusco, Calca, distrito: Lamay",398,302,700
+080404,04,"Cusco, Calca, distrito: Lares",245,392,637
+080405,05,"Cusco, Calca, distrito: Pisac",652,682,1334
+080406,06,"Cusco, Calca, distrito: San Salvador",196,522,718
+080407,07,"Cusco, Calca, distrito: Taray",288,348,636
+080408,08,"Cusco, Calca, distrito: Yanatile",218,517,735
+080501,01,"Cusco, Canas, distrito: Yanaoca",540,556,1096
+080502,02,"Cusco, Canas, distrito: Checca",56,535,591
+080503,03,"Cusco, Canas, distrito: Kunturkanki",230,398,628
+080504,04,"Cusco, Canas, distrito: Langui",36,215,251
+080505,05,"Cusco, Canas, distrito: Layo",72,517,589
+080506,06,"Cusco, Canas, distrito: Pampamarca",160,70,230
+080507,07,"Cusco, Canas, distrito: Quehue",41,255,296
+080508,08,"Cusco, Canas, distrito: Tupac Amaru",72,286,358
+080601,01,"Cusco, Canchis, distrito: Sicuani",7125,1317,8442
+080602,02,"Cusco, Canchis, distrito: Checacupe",341,366,707
+080603,03,"Cusco, Canchis, distrito: Combapata",310,343,653
+080604,04,"Cusco, Canchis, distrito: Marangani",523,896,1419
+080605,05,"Cusco, Canchis, distrito: Pitumarca",556,344,900
+080606,06,"Cusco, Canchis, distrito: San Pablo",211,261,472
+080607,07,"Cusco, Canchis, distrito: San Pedro",197,101,298
+080608,08,"Cusco, Canchis, distrito: Tinta",440,279,719
+080701,01,"Cusco, Chumbivilcas, distrito: Santo Tomas",1242,951,2193
+080702,02,"Cusco, Chumbivilcas, distrito: Capacmarca",83,322,405
+080703,03,"Cusco, Chumbivilcas, distrito: Chamaca",186,546,732
+080704,04,"Cusco, Chumbivilcas, distrito: Colquemarca",175,607,782
+080705,05,"Cusco, Chumbivilcas, distrito: Livitaca",395,1032,1427
+080706,06,"Cusco, Chumbivilcas, distrito: Llusco",98,390,488
+080707,07,"Cusco, Chumbivilcas, distrito: Quiñota",92,324,416
+080708,08,"Cusco, Chumbivilcas, distrito: Velille",373,475,848
+080801,01,"Cusco, Espinar, distrito: Espinar",3948,356,4304
+080802,02,"Cusco, Espinar, distrito: Condoroma",61,31,92
+080803,03,"Cusco, Espinar, distrito: Coporaque",119,982,1101
+080804,04,"Cusco, Espinar, distrito: Ocoruro",19,59,78
+080805,05,"Cusco, Espinar, distrito: Pallpata",336,201,537
+080806,06,"Cusco, Espinar, distrito: Pichigua",88,224,312
+080807,07,"Cusco, Espinar, distrito: Suyckutambo",50,137,187
+080808,08,"Cusco, Espinar, distrito: Alto Pichigua",44,156,200
+080901,01,"Cusco, La Convención, distrito: Santa Ana",3321,437,3758
+080902,02,"Cusco, La Convención, distrito: Echarate",467,2485,2952
+080903,03,"Cusco, La Convención, distrito: Huayopata",276,187,463
+080904,04,"Cusco, La Convención, distrito: Maranura",148,260,408
+080905,05,"Cusco, La Convención, distrito: Ocobamba",31,351,382
+080906,06,"Cusco, La Convención, distrito: Quellouno",233,1226,1459
+080907,07,"Cusco, La Convención, distrito: Kimbiri",1336,875,2211
+080908,08,"Cusco, La Convención, distrito: Santa Teresa",171,377,548
+080909,09,"Cusco, La Convención, distrito: Vilcabamba",55,910,965
+080910,10,"Cusco, La Convención, distrito: Pichari",2687,878,3565
+080911,11,"Cusco, La Convención, distrito: Inkawasi",82,472,554
+080912,12,"Cusco, La Convención, distrito: Villa Virgen",231,109,340
+080913,13,"Cusco, La Convención, distrito: Villa Kintiarina",63,193,256
+080914,14,"Cusco, La Convención, distrito: Megantoni",57,984,1041
+081001,01,"Cusco, Paruro, distrito: Paruro",277,116,393
+081002,02,"Cusco, Paruro, distrito: Accha",123,127,250
+081003,03,"Cusco, Paruro, distrito: Ccapi",93,202,295
+081004,04,"Cusco, Paruro, distrito: Colcha",68,4,72
+081005,05,"Cusco, Paruro, distrito: Huanoquite",283,276,559
+081006,06,"Cusco, Paruro, distrito: Omacha",248,309,557
+081007,07,"Cusco, Paruro, distrito: Paccaritambo",123,138,261
+081008,08,"Cusco, Paruro, distrito: Pillpinto",53,2,55
+081009,09,"Cusco, Paruro, distrito: Yaurisque",80,148,228
+081101,01,"Cusco, Paucartambo, distrito: Paucartambo",515,923,1438
+081102,02,"Cusco, Paucartambo, distrito: Caicay",80,260,340
+081103,03,"Cusco, Paucartambo, distrito: Challabamba",170,905,1075
+081104,04,"Cusco, Paucartambo, distrito: Colquepata",222,770,992
+081105,05,"Cusco, Paucartambo, distrito: Huancarani",273,675,948
+081106,06,"Cusco, Paucartambo, distrito: Kosñipata",221,306,527
+081201,01,"Cusco, Quispicanchi, distrito: Urcos",1058,514,1572
+081202,02,"Cusco, Quispicanchi, distrito: Andahuaylillas",617,193,810
+081203,03,"Cusco, Quispicanchi, distrito: Camanti",226,41,267
+081204,04,"Cusco, Quispicanchi, distrito: Ccarhuayo",102,321,423
+081205,05,"Cusco, Quispicanchi, distrito: Ccatca",499,1240,1739
+081206,06,"Cusco, Quispicanchi, distrito: Cusipata",176,317,493
+081207,07,"Cusco, Quispicanchi, distrito: Huaro",425,215,640
+081208,08,"Cusco, Quispicanchi, distrito: Lucre",498,72,570
+081209,09,"Cusco, Quispicanchi, distrito: Marcapata",75,368,443
+081210,10,"Cusco, Quispicanchi, distrito: Ocongate",528,1481,2009
+081211,11,"Cusco, Quispicanchi, distrito: Oropesa",1324,212,1536
+081212,12,"Cusco, Quispicanchi, distrito: Quiquijana",465,799,1264
+081301,01,"Cusco, Urubamba, distrito: Urubamba",1964,824,2788
+081302,02,"Cusco, Urubamba, distrito: Chinchero",585,915,1500
+081303,03,"Cusco, Urubamba, distrito: Huayllabamba",249,459,708
+081304,04,"Cusco, Urubamba, distrito: Machupicchu",933,103,1036
+081305,05,"Cusco, Urubamba, distrito: Maras",181,464,645
+081306,06,"Cusco, Urubamba, distrito: Ollantaytambo",506,750,1256
+081307,07,"Cusco, Urubamba, distrito: Yucay",395,6,401
+090101,01,"Huancavelica, Huancavelica, distrito: Huancavelica",5909,507,6416
+090102,02,"Huancavelica, Huancavelica, distrito: Acobambilla",81,229,310
+090103,03,"Huancavelica, Huancavelica, distrito: Acoria",724,1766,2490
+090104,04,"Huancavelica, Huancavelica, distrito: Conayca",59,25,84
+090105,05,"Huancavelica, Huancavelica, distrito: Cuenca",32,69,101
+090106,06,"Huancavelica, Huancavelica, distrito: Huachocolpa",240,60,300
+090107,07,"Huancavelica, Huancavelica, distrito: Huayllahuara",61,9,70
+090108,08,"Huancavelica, Huancavelica, distrito: Izcuchaca",82,28,110
+090109,09,"Huancavelica, Huancavelica, distrito: Laria",21,31,52
+090110,10,"Huancavelica, Huancavelica, distrito: Manta",31,124,155
+090111,11,"Huancavelica, Huancavelica, distrito: Mariscal Cáceres",82,5,87
+090112,12,"Huancavelica, Huancavelica, distrito: Moya",44,41,85
+090113,13,"Huancavelica, Huancavelica, distrito: Nuevo Occoro",91,125,216
+090114,14,"Huancavelica, Huancavelica, distrito: Palca",86,110,196
+090115,15,"Huancavelica, Huancavelica, distrito: Pilchaca",33,16,49
+090116,16,"Huancavelica, Huancavelica, distrito: Vilca",14,170,184
+090117,17,"Huancavelica, Huancavelica, distrito: Yauli",823,2047,2870
+090118,18,"Huancavelica, Huancavelica, distrito: Ascensión",2097,77,2174
+090119,19,"Huancavelica, Huancavelica, distrito: Huando",279,484,763
+090201,01,"Huancavelica, Acobamba, distrito: Acobamba",747,355,1102
+090202,02,"Huancavelica, Acobamba, distrito: Andabamba",139,325,464
+090203,03,"Huancavelica, Acobamba, distrito: Anta",171,372,543
+090204,04,"Huancavelica, Acobamba, distrito: Caja",80,92,172
+090205,05,"Huancavelica, Acobamba, distrito: Marcas",81,102,183
+090206,06,"Huancavelica, Acobamba, distrito: Paucara",628,1007,1635
+090207,07,"Huancavelica, Acobamba, distrito: Pomacocha",124,178,302
+090208,08,"Huancavelica, Acobamba, distrito: Rosario",352,361,713
+090301,01,"Huancavelica, Angaraes, distrito: Lircay",1673,1436,3109
+090302,02,"Huancavelica, Angaraes, distrito: Anchonga",199,872,1071
+090303,03,"Huancavelica, Angaraes, distrito: Callanmarca",67,9,76
+090304,04,"Huancavelica, Angaraes, distrito: Ccochaccasa",166,284,450
+090305,05,"Huancavelica, Angaraes, distrito: Chincho",10,83,93
+090306,06,"Huancavelica, Angaraes, distrito: Congalla",93,330,423
+090307,07,"Huancavelica, Angaraes, distrito: Huanca-Huanca",95,41,136
+090308,08,"Huancavelica, Angaraes, distrito: Huayllay Grande",116,11,127
+090309,09,"Huancavelica, Angaraes, distrito: Julcamarca",175,73,248
+090310,10,"Huancavelica, Angaraes, distrito: San Antonio de Antaparco",57,282,339
+090311,11,"Huancavelica, Angaraes, distrito: Santo Tomas de Pata",47,118,165
+090312,12,"Huancavelica, Angaraes, distrito: Secclla",74,391,465
+090401,01,"Huancavelica, Castrovirreyna, distrito: Castrovirreyna",219,101,320
+090402,02,"Huancavelica, Castrovirreyna, distrito: Arma",28,58,86
+090403,03,"Huancavelica, Castrovirreyna, distrito: Aurahua",74,60,134
+090404,04,"Huancavelica, Castrovirreyna, distrito: Capillas",19,70,89
+090405,05,"Huancavelica, Castrovirreyna, distrito: Chupamarca",33,53,86
+090406,06,"Huancavelica, Castrovirreyna, distrito: Cocas",18,60,78
+090407,07,"Huancavelica, Castrovirreyna, distrito: Huachos",20,43,63
+090408,08,"Huancavelica, Castrovirreyna, distrito: Huamatambo",21,17,38
+090409,09,"Huancavelica, Castrovirreyna, distrito: Mollepampa",14,61,75
+090410,10,"Huancavelica, Castrovirreyna, distrito: San Juan",27,30,57
+090411,11,"Huancavelica, Castrovirreyna, distrito: Santa Ana",38,101,139
+090412,12,"Huancavelica, Castrovirreyna, distrito: Tantara",29,25,54
+090413,13,"Huancavelica, Castrovirreyna, distrito: Ticrapo",102,39,141
+090501,01,"Huancavelica, Churcampa, distrito: Churcampa",479,164,643
+090502,02,"Huancavelica, Churcampa, distrito: Anco",152,521,673
+090503,03,"Huancavelica, Churcampa, distrito: Chinchihuasi",36,146,182
+090504,04,"Huancavelica, Churcampa, distrito: El Carmen",21,253,274
+090505,05,"Huancavelica, Churcampa, distrito: La Merced",55,69,124
+090506,06,"Huancavelica, Churcampa, distrito: Locroja",115,273,388
+090507,07,"Huancavelica, Churcampa, distrito: Paucarbamba",96,385,481
+090508,08,"Huancavelica, Churcampa, distrito: San Miguel de Mayocc",71,20,91
+090509,09,"Huancavelica, Churcampa, distrito: San Pedro de Coris",245,229,474
+090510,10,"Huancavelica, Churcampa, distrito: Pachamarca",16,169,185
+090511,11,"Huancavelica, Churcampa, distrito: Cosme",135,229,364
+090601,01,"Huancavelica, Huaytará, distrito: Huaytará",124,65,189
+090602,02,"Huancavelica, Huaytará, distrito: Ayavi",34,42,76
+090603,03,"Huancavelica, Huaytará, distrito: Cordova",26,54,80
+090604,04,"Huancavelica, Huaytará, distrito: Huayacundo Arma",26,16,42
+090605,05,"Huancavelica, Huaytará, distrito: Laramarca",79,10,89
+090606,06,"Huancavelica, Huaytará, distrito: Ocoyo",13,61,74
+090607,07,"Huancavelica, Huaytará, distrito: Pilpichaca",78,159,237
+090608,08,"Huancavelica, Huaytará, distrito: Querco",66,29,95
+090609,09,"Huancavelica, Huaytará, distrito: Quito-Arma",17,43,60
+090610,10,"Huancavelica, Huaytará, distrito: San Antonio de Cusicancha",12,120,132
+090611,11,"Huancavelica, Huaytará, distrito: San Francisco de Sangayaico",32,95,127
+090612,12,"Huancavelica, Huaytará, distrito: San Isidro",55,90,145
+090613,13,"Huancavelica, Huaytará, distrito: Santiago de Chocorvos",44,69,113
+090614,14,"Huancavelica, Huaytará, distrito: Santiago de Quirahuara",14,10,24
+090615,15,"Huancavelica, Huaytará, distrito: Santo Domingo de Capillas",19,42,61
+090616,16,"Huancavelica, Huaytará, distrito: Tambo",20,36,56
+090701,01,"Huancavelica, Tayacaja, distrito: Pampas",1252,294,1546
+090702,02,"Huancavelica, Tayacaja, distrito: Acostambo",138,257,395
+090703,03,"Huancavelica, Tayacaja, distrito: Acraquia",100,321,421
+090704,04,"Huancavelica, Tayacaja, distrito: Ahuaycha",110,393,503
+090705,05,"Huancavelica, Tayacaja, distrito: Colcabamba",448,990,1438
+090706,06,"Huancavelica, Tayacaja, distrito: Daniel Hernández",923,474,1397
+090707,07,"Huancavelica, Tayacaja, distrito: Huachocolpa",153,284,437
+090709,09,"Huancavelica, Tayacaja, distrito: Huaribamba",39,284,323
+090710,10,"Huancavelica, Tayacaja, distrito: Ñahuimpuquio",146,32,178
+090711,11,"Huancavelica, Tayacaja, distrito: Pazos",431,299,730
+090713,13,"Huancavelica, Tayacaja, distrito: Quishuar",60,11,71
+090714,14,"Huancavelica, Tayacaja, distrito: Salcabamba",35,381,416
+090715,15,"Huancavelica, Tayacaja, distrito: Salcahuasi",16,240,256
+090716,16,"Huancavelica, Tayacaja, distrito: San Marcos de Rocchac",41,129,170
+090717,17,"Huancavelica, Tayacaja, distrito: Surcubamba",77,483,560
+090718,18,"Huancavelica, Tayacaja, distrito: Tintay Puncu",82,401,483
+090719,19,"Huancavelica, Tayacaja, distrito: Quichuas",116,408,524
+090720,20,"Huancavelica, Tayacaja, distrito: Andaymarca",60,235,295
+090721,21,"Huancavelica, Tayacaja, distrito: Roble",91,124,215
+090722,22,"Huancavelica, Tayacaja, distrito: Pichos",118,132,250
+090723,23,"Huancavelica, Tayacaja, distrito: Santiago de Tucuma",66,88,154
+100101,01,"Huánuco, Huánuco, distrito: Huánuco",13225,689,13914
+100102,02,"Huánuco, Huánuco, distrito: Amarilis",11819,645,12464
+100103,03,"Huánuco, Huánuco, distrito: Chinchao",514,1270,1784
+100104,04,"Huánuco, Huánuco, distrito: Churubamba",490,1635,2125
+100105,05,"Huánuco, Huánuco, distrito: Margos",284,257,541
+100106,06,"Huánuco, Huánuco, distrito: Quisqui (Kichki)",61,357,418
+100107,07,"Huánuco, Huánuco, distrito: San Francisco de Cayran",70,545,615
+100108,08,"Huánuco, Huánuco, distrito: San Pedro de Chaulan",55,214,269
+100109,09,"Huánuco, Huánuco, distrito: Santa Maria del Valle",383,2513,2896
+100110,10,"Huánuco, Huánuco, distrito: Yarumayo",36,132,168
+100111,11,"Huánuco, Huánuco, distrito: Pillco Marca",7211,340,7551
+100112,12,"Huánuco, Huánuco, distrito: Yacus",307,494,801
+100113,13,"Huánuco, Huánuco, distrito: San Pablo de Pillao",157,1067,1224
+100201,01,"Huánuco, Ambo, distrito: Ambo",2305,806,3111
+100202,02,"Huánuco, Ambo, distrito: Cayna",156,131,287
+100203,03,"Huánuco, Ambo, distrito: Colpas",42,119,161
+100204,04,"Huánuco, Ambo, distrito: Conchamarca",131,439,570
+100205,05,"Huánuco, Ambo, distrito: Huacar",214,724,938
+100206,06,"Huánuco, Ambo, distrito: San Francisco",97,92,189
+100207,07,"Huánuco, Ambo, distrito: San Rafael",421,733,1154
+100208,08,"Huánuco, Ambo, distrito: Tomay Kichwa",252,148,400
+100301,01,"Huánuco, Dos de Mayo, distrito: La Unión",742,153,895
+100307,07,"Huánuco, Dos de Mayo, distrito: Chuquis",149,193,342
+100311,11,"Huánuco, Dos de Mayo, distrito: Marías",286,431,717
+100313,13,"Huánuco, Dos de Mayo, distrito: Pachas",193,357,550
+100316,16,"Huánuco, Dos de Mayo, distrito: Quivilla",95,55,150
+100317,17,"Huánuco, Dos de Mayo, distrito: Ripan",466,289,755
+100321,21,"Huánuco, Dos de Mayo, distrito: Shunqui",54,185,239
+100322,22,"Huánuco, Dos de Mayo, distrito: Sillapata",48,122,170
+100323,23,"Huánuco, Dos de Mayo, distrito: Yanas",81,129,210
+100401,01,"Huánuco, Huacaybamba, distrito: Huacaybamba",339,327,666
+100402,02,"Huánuco, Huacaybamba, distrito: Canchabamba",45,277,322
+100403,03,"Huánuco, Huacaybamba, distrito: Cochabamba",77,116,193
+100404,04,"Huánuco, Huacaybamba, distrito: Pinra",50,749,799
+100501,01,"Huánuco, Huamalíes, distrito: Llata",1050,590,1640
+100502,02,"Huánuco, Huamalíes, distrito: Arancay",36,74,110
+100503,03,"Huánuco, Huamalíes, distrito: Chavín de Pariarca",184,203,387
+100504,04,"Huánuco, Huamalíes, distrito: Jacas Grande",150,579,729
+100505,05,"Huánuco, Huamalíes, distrito: Jircan",35,101,136
+100506,06,"Huánuco, Huamalíes, distrito: Miraflores",298,152,450
+100507,07,"Huánuco, Huamalíes, distrito: Monzón",778,677,1455
+100508,08,"Huánuco, Huamalíes, distrito: Punchao",198,44,242
+100509,09,"Huánuco, Huamalíes, distrito: Puños",148,342,490
+100510,10,"Huánuco, Huamalíes, distrito: Singa",130,268,398
+100511,11,"Huánuco, Huamalíes, distrito: Tantamayo",9,146,155
+100601,01,"Huánuco, Leoncio Prado, distrito: Rupa-Rupa",8080,212,8292
+100602,02,"Huánuco, Leoncio Prado, distrito: Daniel Alomía Robles",143,709,852
+100603,03,"Huánuco, Leoncio Prado, distrito: Hermílio Valdizan",30,401,431
+100604,04,"Huánuco, Leoncio Prado, distrito: José Crespo y Castillo",2381,643,3024
+100605,05,"Huánuco, Leoncio Prado, distrito: Luyando",641,493,1134
+100606,06,"Huánuco, Leoncio Prado, distrito: Mariano Damaso Beraun",629,673,1302
+100607,07,"Huánuco, Leoncio Prado, distrito: Pucayacu",90,335,425
+100608,08,"Huánuco, Leoncio Prado, distrito: Castillo Grande",1841,125,1966
+100609,09,"Huánuco, Leoncio Prado, distrito: Pueblo Nuevo",82,442,524
+100610,10,"Huánuco, Leoncio Prado, distrito: Santo Domingo de Anda",44,279,323
+100701,01,"Huánuco, Marañón, distrito: Huacrachuco",713,955,1668
+100702,02,"Huánuco, Marañón, distrito: Cholon",304,412,716
+100703,03,"Huánuco, Marañón, distrito: San Buenaventura",68,173,241
+100704,04,"Huánuco, Marañón, distrito: La Morada",132,185,317
+100705,05,"Huánuco, Marañón, distrito: Santa Rosa de Alto Yanajanca",149,141,290
+100801,01,"Huánuco, Pachitea, distrito: Panao",705,1744,2449
+100802,02,"Huánuco, Pachitea, distrito: Chaglla",575,771,1346
+100803,03,"Huánuco, Pachitea, distrito: Molino",646,796,1442
+100804,04,"Huánuco, Pachitea, distrito: Umari",75,1454,1529
+100901,01,"Huánuco, Puerto Inca, distrito: Puerto Inca",587,494,1081
+100902,02,"Huánuco, Puerto Inca, distrito: Codo del Pozuzo",286,597,883
+100903,03,"Huánuco, Puerto Inca, distrito: Honoria",147,382,529
+100904,04,"Huánuco, Puerto Inca, distrito: Tournavista",178,480,658
+100905,05,"Huánuco, Puerto Inca, distrito: Yuyapichis",183,520,703
+101001,01,"Huánuco, Lauricocha, distrito: Jesús",312,165,477
+101002,02,"Huánuco, Lauricocha, distrito: Baños",148,99,247
+101003,03,"Huánuco, Lauricocha, distrito: Jivia",43,68,111
+101004,04,"Huánuco, Lauricocha, distrito: Queropalca",112,31,143
+101005,05,"Huánuco, Lauricocha, distrito: Rondos",161,253,414
+101006,06,"Huánuco, Lauricocha, distrito: San Francisco de Asís",109,33,142
+101007,07,"Huánuco, Lauricocha, distrito: San Miguel de Cauri",189,499,688
+101101,01,"Huánuco, Yarowilca, distrito: Chavinillo",281,276,557
+101102,02,"Huánuco, Yarowilca, distrito: Cahuac",83,59,142
+101103,03,"Huánuco, Yarowilca, distrito: Chacabamba",29,86,115
+101104,04,"Huánuco, Yarowilca, distrito: Aparicio Pomares",178,460,638
+101105,05,"Huánuco, Yarowilca, distrito: Jacas Chico",57,93,150
+101106,06,"Huánuco, Yarowilca, distrito: Obas",172,252,424
+101107,07,"Huánuco, Yarowilca, distrito: Pampamarca",40,74,114
+101108,08,"Huánuco, Yarowilca, distrito: Choras",52,176,228
+110101,01,"Ica, Ica, distrito: Ica",20632,90,20722
+110102,02,"Ica, Ica, distrito: La Tinguiña",5453,298,5751
+110103,03,"Ica, Ica, distrito: Los Aquijes",2880,232,3112
+110104,04,"Ica, Ica, distrito: Ocucaje",359,147,506
+110105,05,"Ica, Ica, distrito: Pachacutec",1077,43,1120
+110106,06,"Ica, Ica, distrito: Parcona",7803,110,7913
+110107,07,"Ica, Ica, distrito: Pueblo Nuevo",536,238,774
+110108,08,"Ica, Ica, distrito: Salas",4285,99,4384
+110109,09,"Ica, Ica, distrito: San José de Los Molinos",718,135,853
+110110,10,"Ica, Ica, distrito: San Juan Bautista",1838,180,2018
+110111,11,"Ica, Ica, distrito: Santiago",3060,955,4015
+110112,12,"Ica, Ica, distrito: Subtanjalla",4260,27,4287
+110113,13,"Ica, Ica, distrito: Tate",626,26,652
+110114,14,"Ica, Ica, distrito: Yauca del Rosario",14,55,69
+110201,01,"Ica, Chincha, distrito: Chincha Alta",8689,0,8689
+110202,02,"Ica, Chincha, distrito: Alto Laran",728,224,952
+110203,03,"Ica, Chincha, distrito: Chavin",14,117,131
+110204,04,"Ica, Chincha, distrito: Chincha Baja",1146,427,1573
+110205,05,"Ica, Chincha, distrito: El Carmen",1043,511,1554
+110206,06,"Ica, Chincha, distrito: Grocio Prado",3143,126,3269
+110207,07,"Ica, Chincha, distrito: Pueblo Nuevo",8994,0,8994
+110208,08,"Ica, Chincha, distrito: San Juan de Yanac",34,58,92
+110209,09,"Ica, Chincha, distrito: San Pedro de Huacarpana",29,84,113
+110210,10,"Ica, Chincha, distrito: Sunampe",3562,67,3629
+110211,11,"Ica, Chincha, distrito: Tambo de Mora",624,45,669
+110301,01,"Ica, Nasca, distrito: Nasca",3350,262,3612
+110302,02,"Ica, Nasca, distrito: Changuillo",90,90,180
+110303,03,"Ica, Nasca, distrito: El Ingenio",211,105,316
+110304,04,"Ica, Nasca, distrito: Marcona",1705,7,1712
+110305,05,"Ica, Nasca, distrito: Vista Alegre",2553,153,2706
+110401,01,"Ica, Palpa, distrito: Palpa",830,103,933
+110402,02,"Ica, Palpa, distrito: Llipata",120,49,169
+110403,03,"Ica, Palpa, distrito: Río Grande",136,118,254
+110404,04,"Ica, Palpa, distrito: Santa Cruz",37,32,69
+110405,05,"Ica, Palpa, distrito: Tibillo",15,5,20
+110501,01,"Ica, Pisco, distrito: Pisco",8601,9,8610
+110502,02,"Ica, Pisco, distrito: Huancano",62,115,177
+110503,03,"Ica, Pisco, distrito: Humay",442,221,663
+110504,04,"Ica, Pisco, distrito: Independencia",961,786,1747
+110505,05,"Ica, Pisco, distrito: Paracas",1001,7,1008
+110506,06,"Ica, Pisco, distrito: San Andrés",1756,241,1997
+110507,07,"Ica, Pisco, distrito: San Clemente",3458,75,3533
+110508,08,"Ica, Pisco, distrito: Tupac Amaru Inca",2459,14,2473
+120101,01,"Junín, Huancayo, distrito: Huancayo",18267,218,18485
+120104,04,"Junín, Huancayo, distrito: Carhuacallanga",48,0,48
+120105,05,"Junín, Huancayo, distrito: Chacapampa",50,39,89
+120106,06,"Junín, Huancayo, distrito: Chicche",60,22,82
+120107,07,"Junín, Huancayo, distrito: Chilca",15526,7,15533
+120108,08,"Junín, Huancayo, distrito: Chongos Alto",85,136,221
+120111,11,"Junín, Huancayo, distrito: Chupuro",123,161,284
+120112,12,"Junín, Huancayo, distrito: Colca",70,29,99
+120113,13,"Junín, Huancayo, distrito: Cullhuas",61,74,135
+120114,14,"Junín, Huancayo, distrito: El Tambo",22793,1101,23894
+120116,16,"Junín, Huancayo, distrito: Huacrapuquio",165,10,175
+120117,17,"Junín, Huancayo, distrito: Hualhuas",764,0,764
+120119,19,"Junín, Huancayo, distrito: Huancan",4085,175,4260
+120120,20,"Junín, Huancayo, distrito: Huasicancha",76,13,89
+120121,21,"Junín, Huancayo, distrito: Huayucachi",1496,7,1503
+120122,22,"Junín, Huancayo, distrito: Ingenio",322,26,348
+120124,24,"Junín, Huancayo, distrito: Pariahuanca",17,459,476
+120125,25,"Junín, Huancayo, distrito: Pilcomayo",3268,0,3268
+120126,26,"Junín, Huancayo, distrito: Pucara",439,234,673
+120127,27,"Junín, Huancayo, distrito: Quichuay",157,87,244
+120128,28,"Junín, Huancayo, distrito: Quilcas",445,122,567
+120129,29,"Junín, Huancayo, distrito: San Agustín",2147,170,2317
+120130,30,"Junín, Huancayo, distrito: San Jerónimo de Tunan",1733,0,1733
+120132,32,"Junín, Huancayo, distrito: Saño",766,2,768
+120133,33,"Junín, Huancayo, distrito: Sapallanga",2888,233,3121
+120134,34,"Junín, Huancayo, distrito: Sicaya",2581,64,2645
+120135,35,"Junín, Huancayo, distrito: Santo Domingo de Acobamba",42,674,716
+120136,36,"Junín, Huancayo, distrito: Viques",393,6,399
+120201,01,"Junín, Concepción, distrito: Concepción",2025,166,2191
+120202,02,"Junín, Concepción, distrito: Aco",148,23,171
+120203,03,"Junín, Concepción, distrito: Andamarca",95,273,368
+120204,04,"Junín, Concepción, distrito: Chambara",77,223,300
+120205,05,"Junín, Concepción, distrito: Cochas",44,197,241
+120206,06,"Junín, Concepción, distrito: Comas",138,524,662
+120207,07,"Junín, Concepción, distrito: Heroínas Toledo",8,88,96
+120208,08,"Junín, Concepción, distrito: Manzanares",159,13,172
+120209,09,"Junín, Concepción, distrito: Mariscal Castilla",38,134,172
+120210,10,"Junín, Concepción, distrito: Matahuasi",511,164,675
+120211,11,"Junín, Concepción, distrito: Mito",103,58,161
+120212,12,"Junín, Concepción, distrito: Nueve de Julio",271,33,304
+120213,13,"Junín, Concepción, distrito: Orcotuna",619,69,688
+120214,14,"Junín, Concepción, distrito: San José de Quero",388,380,768
+120215,15,"Junín, Concepción, distrito: Santa Rosa de Ocopa",237,16,253
+120301,01,"Junín, Chanchamayo, distrito: Chanchamayo",3330,356,3686
+120302,02,"Junín, Chanchamayo, distrito: Perene",4829,2424,7253
+120303,03,"Junín, Chanchamayo, distrito: Pichanaqui",3365,2130,5495
+120304,04,"Junín, Chanchamayo, distrito: San Luis de Shuaro",198,248,446
+120305,05,"Junín, Chanchamayo, distrito: San Ramón",2631,577,3208
+120306,06,"Junín, Chanchamayo, distrito: Vitoc",51,142,193
+120401,01,"Junín, Jauja, distrito: Jauja",2464,19,2483
+120402,02,"Junín, Jauja, distrito: Acolla",557,222,779
+120403,03,"Junín, Jauja, distrito: Apata",207,353,560
+120404,04,"Junín, Jauja, distrito: Ataura",106,34,140
+120405,05,"Junín, Jauja, distrito: Canchayllo",186,26,212
+120406,06,"Junín, Jauja, distrito: Curicaca",56,120,176
+120407,07,"Junín, Jauja, distrito: El Mantaro",307,18,325
+120408,08,"Junín, Jauja, distrito: Huamali",150,48,198
+120409,09,"Junín, Jauja, distrito: Huaripampa",99,3,102
+120410,10,"Junín, Jauja, distrito: Huertas",171,63,234
+120411,11,"Junín, Jauja, distrito: Janjaillo",13,22,35
+120412,12,"Junín, Jauja, distrito: Julcán",94,0,94
+120413,13,"Junín, Jauja, distrito: Leonor Ordoñez",175,33,208
+120414,14,"Junín, Jauja, distrito: Llocllapampa",87,36,123
+120415,15,"Junín, Jauja, distrito: Marco",110,48,158
+120416,16,"Junín, Jauja, distrito: Masma",77,117,194
+120417,17,"Junín, Jauja, distrito: Masma Chicche",22,82,104
+120418,18,"Junín, Jauja, distrito: Molinos",156,53,209
+120419,19,"Junín, Jauja, distrito: Monobamba",68,190,258
+120420,20,"Junín, Jauja, distrito: Muqui",105,0,105
+120421,21,"Junín, Jauja, distrito: Muquiyauyo",270,5,275
+120422,22,"Junín, Jauja, distrito: Paca",59,27,86
+120423,23,"Junín, Jauja, distrito: Paccha",68,110,178
+120424,24,"Junín, Jauja, distrito: Pancan",80,86,166
+120425,25,"Junín, Jauja, distrito: Parco",112,40,152
+120426,26,"Junín, Jauja, distrito: Pomacancha",69,85,154
+120427,27,"Junín, Jauja, distrito: Ricran",94,58,152
+120428,28,"Junín, Jauja, distrito: San Lorenzo",282,60,342
+120429,29,"Junín, Jauja, distrito: San Pedro de Chunan",63,0,63
+120430,30,"Junín, Jauja, distrito: Sausa",436,0,436
+120431,31,"Junín, Jauja, distrito: Sincos",331,237,568
+120432,32,"Junín, Jauja, distrito: Tunan Marca",79,18,97
+120433,33,"Junín, Jauja, distrito: Yauli",125,18,143
+120434,34,"Junín, Jauja, distrito: Yauyos",1231,43,1274
+120501,01,"Junín, Junín, distrito: Junín",1279,67,1346
+120502,02,"Junín, Junín, distrito: Carhuamayo",925,16,941
+120503,03,"Junín, Junín, distrito: Ondores",65,75,140
+120504,04,"Junín, Junín, distrito: Ulcumayo",100,397,497
+120601,01,"Junín, Satipo, distrito: Satipo",3841,1520,5361
+120602,02,"Junín, Satipo, distrito: Coviriali",55,881,936
+120603,03,"Junín, Satipo, distrito: Llaylla",199,661,860
+120604,04,"Junín, Satipo, distrito: Mazamari",2499,2726,5225
+120605,05,"Junín, Satipo, distrito: Pampa Hermosa",33,444,477
+120606,06,"Junín, Satipo, distrito: Pangoa",2946,4634,7580
+120607,07,"Junín, Satipo, distrito: Río Negro",702,3327,4029
+120608,08,"Junín, Satipo, distrito: Río Tambo",325,3335,3660
+120609,09,"Junín, Satipo, distrito: Vizcatan del Ene",73,731,804
+120701,01,"Junín, Tarma, distrito: Tarma",5269,563,5832
+120702,02,"Junín, Tarma, distrito: Acobamba",776,389,1165
+120703,03,"Junín, Tarma, distrito: Huaricolca",142,72,214
+120704,04,"Junín, Tarma, distrito: Huasahuasi",561,635,1196
+120705,05,"Junín, Tarma, distrito: La Unión",417,87,504
+120706,06,"Junín, Tarma, distrito: Palca",416,346,762
+120707,07,"Junín, Tarma, distrito: Palcamayo",225,157,382
+120708,08,"Junín, Tarma, distrito: San Pedro de Cajas",298,63,361
+120709,09,"Junín, Tarma, distrito: Tapo",79,454,533
+120801,01,"Junín, Yauli, distrito: La Oroya",1732,14,1746
+120802,02,"Junín, Yauli, distrito: Chacapalpa",36,39,75
+120803,03,"Junín, Yauli, distrito: Huay-Huay",174,4,178
+120804,04,"Junín, Yauli, distrito: Marcapomacocha",64,26,90
+120805,05,"Junín, Yauli, distrito: Morococha",488,75,563
+120806,06,"Junín, Yauli, distrito: Paccha",122,51,173
+120807,07,"Junín, Yauli, distrito: Santa Bárbara de Carhuacayan",87,50,137
+120808,08,"Junín, Yauli, distrito: Santa Rosa de Sacco",1004,1,1005
+120809,09,"Junín, Yauli, distrito: Suitucancha",61,28,89
+120810,10,"Junín, Yauli, distrito: Yauli",468,136,604
+120901,01,"Junín, Chupaca, distrito: Chupaca",2253,669,2922
+120902,02,"Junín, Chupaca, distrito: Ahuac",423,380,803
+120903,03,"Junín, Chupaca, distrito: Chongos Bajo",505,108,613
+120904,04,"Junín, Chupaca, distrito: Huachac",243,148,391
+120905,05,"Junín, Chupaca, distrito: Huamancaca Chico",900,180,1080
+120906,06,"Junín, Chupaca, distrito: San Juan de Iscos",119,128,247
+120907,07,"Junín, Chupaca, distrito: San Juan de Jarpa",137,198,335
+120908,08,"Junín, Chupaca, distrito: Tres de Diciembre",297,0,297
+120909,09,"Junín, Chupaca, distrito: Yanacancha",64,237,301
+130101,01,"La Libertad, Trujillo, distrito: Trujillo",46037,11,46048
+130102,02,"La Libertad, Trujillo, distrito: El Porvenir",30001,0,30001
+130103,03,"La Libertad, Trujillo, distrito: Florencia de Mora",5284,0,5284
+130104,04,"La Libertad, Trujillo, distrito: Huanchaco",10702,101,10803
+130105,05,"La Libertad, Trujillo, distrito: La Esperanza",28664,0,28664
+130106,06,"La Libertad, Trujillo, distrito: Laredo",3596,1251,4847
+130107,07,"La Libertad, Trujillo, distrito: Moche",4759,643,5402
+130108,08,"La Libertad, Trujillo, distrito: Poroto",147,309,456
+130109,09,"La Libertad, Trujillo, distrito: Salaverry",2858,6,2864
+130110,10,"La Libertad, Trujillo, distrito: Simbal",103,411,514
+130111,11,"La Libertad, Trujillo, distrito: Victor Larco Herrera",9408,0,9408
+130201,01,"La Libertad, Ascope, distrito: Ascope",595,36,631
+130202,02,"La Libertad, Ascope, distrito: Chicama",1823,122,1945
+130203,03,"La Libertad, Ascope, distrito: Chocope",940,220,1160
+130204,04,"La Libertad, Ascope, distrito: Magdalena de Cao",233,40,273
+130205,05,"La Libertad, Ascope, distrito: Paijan",3201,189,3390
+130206,06,"La Libertad, Ascope, distrito: Razuri",841,379,1220
+130207,07,"La Libertad, Ascope, distrito: Santiago de Cao",2216,47,2263
+130208,08,"La Libertad, Ascope, distrito: Casa Grande",3092,150,3242
+130301,01,"La Libertad, Bolívar, distrito: Bolívar",191,296,487
+130302,02,"La Libertad, Bolívar, distrito: Bambamarca",86,237,323
+130303,03,"La Libertad, Bolívar, distrito: Condormarca",29,152,181
+130304,04,"La Libertad, Bolívar, distrito: Longotea",78,56,134
+130305,05,"La Libertad, Bolívar, distrito: Uchumarca",81,99,180
+130306,06,"La Libertad, Bolívar, distrito: Ucuncha",26,18,44
+130401,01,"La Libertad, Chepén, distrito: Chepén",5321,324,5645
+130402,02,"La Libertad, Chepén, distrito: Pacanga",2446,480,2926
+130403,03,"La Libertad, Chepén, distrito: Pueblo Nuevo",1009,349,1358
+130501,01,"La Libertad, Julcán, distrito: Julcán",301,1042,1343
+130502,02,"La Libertad, Julcán, distrito: Calamarca",64,476,540
+130503,03,"La Libertad, Julcán, distrito: Carabamba",169,634,803
+130504,04,"La Libertad, Julcán, distrito: Huaso",60,566,626
+130601,01,"La Libertad, Otuzco, distrito: Otuzco",1621,1174,2795
+130602,02,"La Libertad, Otuzco, distrito: Agallpampa",96,1160,1256
+130604,04,"La Libertad, Otuzco, distrito: Charat",68,129,197
+130605,05,"La Libertad, Otuzco, distrito: Huaranchal",191,218,409
+130606,06,"La Libertad, Otuzco, distrito: La Cuesta",6,48,54
+130608,08,"La Libertad, Otuzco, distrito: Mache",118,198,316
+130610,10,"La Libertad, Otuzco, distrito: Paranday",12,27,39
+130611,11,"La Libertad, Otuzco, distrito: Salpo",114,500,614
+130613,13,"La Libertad, Otuzco, distrito: Sinsicap",255,518,773
+130614,14,"La Libertad, Otuzco, distrito: Usquil",406,2026,2432
+130701,01,"La Libertad, Pacasmayo, distrito: San Pedro de Lloc",1964,114,2078
+130702,02,"La Libertad, Pacasmayo, distrito: Guadalupe",4544,427,4971
+130703,03,"La Libertad, Pacasmayo, distrito: Jequetepeque",439,28,467
+130704,04,"La Libertad, Pacasmayo, distrito: Pacasmayo",3486,1,3487
+130705,05,"La Libertad, Pacasmayo, distrito: San José",1302,94,1396
+130801,01,"La Libertad, Pataz, distrito: Tayabamba",501,845,1346
+130802,02,"La Libertad, Pataz, distrito: Buldibuyo",154,304,458
+130803,03,"La Libertad, Pataz, distrito: Chillia",190,980,1170
+130804,04,"La Libertad, Pataz, distrito: Huancaspata",125,483,608
+130805,05,"La Libertad, Pataz, distrito: Huaylillas",52,74,126
+130806,06,"La Libertad, Pataz, distrito: Huayo",41,329,370
+130807,07,"La Libertad, Pataz, distrito: Ongon",13,145,158
+130808,08,"La Libertad, Pataz, distrito: Parcoy",1201,1543,2744
+130809,09,"La Libertad, Pataz, distrito: Pataz",438,889,1327
+130810,10,"La Libertad, Pataz, distrito: Pias",46,121,167
+130811,11,"La Libertad, Pataz, distrito: Santiago de Challas",119,118,237
+130812,12,"La Libertad, Pataz, distrito: Taurija",81,195,276
+130813,13,"La Libertad, Pataz, distrito: Urpay",49,145,194
+130901,01,"La Libertad, Sánchez Carrión, distrito: Huamachuco",6669,2971,9640
+130902,02,"La Libertad, Sánchez Carrión, distrito: Chugay",240,1833,2073
+130903,03,"La Libertad, Sánchez Carrión, distrito: Cochorco",113,803,916
+130904,04,"La Libertad, Sánchez Carrión, distrito: Curgos",245,698,943
+130905,05,"La Libertad, Sánchez Carrión, distrito: Marcabal",42,1206,1248
+130906,06,"La Libertad, Sánchez Carrión, distrito: Sanagoran",55,1564,1619
+130907,07,"La Libertad, Sánchez Carrión, distrito: Sarin",281,857,1138
+130908,08,"La Libertad, Sánchez Carrión, distrito: Sartimbamba",47,1341,1388
+131001,01,"La Libertad, Santiago de Chuco, distrito: Santiago de Chuco",932,1214,2146
+131002,02,"La Libertad, Santiago de Chuco, distrito: Angasmarca",211,356,567
+131003,03,"La Libertad, Santiago de Chuco, distrito: Cachicadan",313,362,675
+131004,04,"La Libertad, Santiago de Chuco, distrito: Mollebamba",83,77,160
+131005,05,"La Libertad, Santiago de Chuco, distrito: Mollepata",9,176,185
+131006,06,"La Libertad, Santiago de Chuco, distrito: Quiruvilca",836,704,1540
+131007,07,"La Libertad, Santiago de Chuco, distrito: Santa Cruz de Chuca",63,247,310
+131008,08,"La Libertad, Santiago de Chuco, distrito: Sitabamba",99,227,326
+131101,01,"La Libertad, Gran Chimú, distrito: Cascas",591,938,1529
+131102,02,"La Libertad, Gran Chimú, distrito: Lucma",65,468,533
+131103,03,"La Libertad, Gran Chimú, distrito: Marmot",51,206,257
+131104,04,"La Libertad, Gran Chimú, distrito: Sayapullo",211,522,733
+131201,01,"La Libertad, Virú, distrito: Virú",6241,1430,7671
+131202,02,"La Libertad, Virú, distrito: Chao",4708,607,5315
+131203,03,"La Libertad, Virú, distrito: Guadalupito",994,38,1032
+140101,01,"Lambayeque, Chiclayo, distrito: Chiclayo",38649,35,38684
+140102,02,"Lambayeque, Chiclayo, distrito: Chongoyape",1817,309,2126
+140103,03,"Lambayeque, Chiclayo, distrito: Eten",1639,43,1682
+140104,04,"Lambayeque, Chiclayo, distrito: Eten Puerto",275,0,275
+140105,05,"Lambayeque, Chiclayo, distrito: José Leonardo Ortiz",24066,0,24066
+140106,06,"Lambayeque, Chiclayo, distrito: La Victoria",12412,727,13139
+140107,07,"Lambayeque, Chiclayo, distrito: Lagunas",952,208,1160
+140108,08,"Lambayeque, Chiclayo, distrito: Monsefu",3273,1095,4368
+140109,09,"Lambayeque, Chiclayo, distrito: Nueva Arica",203,29,232
+140110,10,"Lambayeque, Chiclayo, distrito: Oyotun",787,120,907
+140111,11,"Lambayeque, Chiclayo, distrito: Picsi",1612,182,1794
+140112,12,"Lambayeque, Chiclayo, distrito: Pimentel",6203,594,6797
+140113,13,"Lambayeque, Chiclayo, distrito: Reque",1760,434,2194
+140114,14,"Lambayeque, Chiclayo, distrito: Santa Rosa",1736,24,1760
+140115,15,"Lambayeque, Chiclayo, distrito: Saña",1067,232,1299
+140116,16,"Lambayeque, Chiclayo, distrito: Cayalti",1489,150,1639
+140117,17,"Lambayeque, Chiclayo, distrito: Patapo",2368,410,2778
+140118,18,"Lambayeque, Chiclayo, distrito: Pomalca",2842,370,3212
+140119,19,"Lambayeque, Chiclayo, distrito: Pucala",769,121,890
+140120,20,"Lambayeque, Chiclayo, distrito: Tuman",3137,217,3354
+140201,01,"Lambayeque, Ferreñafe, distrito: Ferreñafe",4419,84,4503
+140202,02,"Lambayeque, Ferreñafe, distrito: Cañaris",41,1213,1254
+140203,03,"Lambayeque, Ferreñafe, distrito: Incahuasi",140,1336,1476
+140204,04,"Lambayeque, Ferreñafe, distrito: Manuel Antonio Mesones Muro",244,222,466
+140205,05,"Lambayeque, Ferreñafe, distrito: Pitipo",990,1286,2276
+140206,06,"Lambayeque, Ferreñafe, distrito: Pueblo Nuevo",1883,100,1983
+140301,01,"Lambayeque, Lambayeque, distrito: Lambayeque",9294,1646,10940
+140302,02,"Lambayeque, Lambayeque, distrito: Chochope",56,101,157
+140303,03,"Lambayeque, Lambayeque, distrito: Illimo",614,495,1109
+140304,04,"Lambayeque, Lambayeque, distrito: Jayanca",1179,1025,2204
+140305,05,"Lambayeque, Lambayeque, distrito: Mochumi",907,1338,2245
+140306,06,"Lambayeque, Lambayeque, distrito: Morrope",1749,5184,6933
+140307,07,"Lambayeque, Lambayeque, distrito: Motupe",2179,1818,3997
+140308,08,"Lambayeque, Lambayeque, distrito: Olmos",2022,4270,6292
+140309,09,"Lambayeque, Lambayeque, distrito: Pacora",475,525,1000
+140310,10,"Lambayeque, Lambayeque, distrito: Salas",499,909,1408
+140311,11,"Lambayeque, Lambayeque, distrito: San José",1980,199,2179
+140312,12,"Lambayeque, Lambayeque, distrito: Tucume",1202,1610,2812
+150101,01,"Lima, Lima, distrito: Lima",35394,0,35394
+150102,02,"Lima, Lima, distrito: Ancón",8603,0,8603
+150103,03,"Lima, Lima, distrito: Ate",90667,0,90667
+150104,04,"Lima, Lima, distrito: Barranco",3556,0,3556
+150105,05,"Lima, Lima, distrito: Breña",11106,0,11106
+150106,06,"Lima, Lima, distrito: Carabayllo",46803,573,47376
+150107,07,"Lima, Lima, distrito: Chaclacayo",5365,0,5365
+150108,08,"Lima, Lima, distrito: Chorrillos",45086,0,45086
+150109,09,"Lima, Lima, distrito: Cieneguilla",4846,18,4864
+150110,10,"Lima, Lima, distrito: Comas",71046,0,71046
+150111,11,"Lima, Lima, distrito: El Agustino",29320,0,29320
+150112,12,"Lima, Lima, distrito: Independencia",30420,0,30420
+150113,13,"Lima, Lima, distrito: Jesús María",8578,0,8578
+150114,14,"Lima, Lima, distrito: La Molina",18188,0,18188
+150115,15,"Lima, Lima, distrito: La Victoria",24591,0,24591
+150116,16,"Lima, Lima, distrito: Lince",6634,0,6634
+150117,17,"Lima, Lima, distrito: Los Olivos",46372,0,46372
+150118,18,"Lima, Lima, distrito: Lurigancho",34904,0,34904
+150119,19,"Lima, Lima, distrito: Lurin",12999,177,13176
+150120,20,"Lima, Lima, distrito: Magdalena del Mar",6722,0,6722
+150121,21,"Lima, Lima, distrito: Pueblo Libre",10219,0,10219
+150122,22,"Lima, Lima, distrito: Miraflores",8642,0,8642
+150123,23,"Lima, Lima, distrito: Pachacamac",16494,158,16652
+150124,24,"Lima, Lima, distrito: Pucusana",2118,0,2118
+150125,25,"Lima, Lima, distrito: Puente Piedra",51367,0,51367
+150126,26,"Lima, Lima, distrito: Punta Hermosa",1978,2,1980
+150127,27,"Lima, Lima, distrito: Punta Negra",968,0,968
+150128,28,"Lima, Lima, distrito: Rímac",23772,0,23772
+150129,29,"Lima, Lima, distrito: San Bartolo",1072,40,1112
+150130,30,"Lima, Lima, distrito: San Borja",11754,0,11754
+150131,31,"Lima, Lima, distrito: San Isidro",5609,0,5609
+150132,32,"Lima, Lima, distrito: San Juan de Lurigancho",154567,0,154567
+150133,33,"Lima, Lima, distrito: San Juan de Miraflores",50396,0,50396
+150134,34,"Lima, Lima, distrito: San Luis",7614,0,7614
+150135,35,"Lima, Lima, distrito: San Martín de Porres",93891,0,93891
+150136,36,"Lima, Lima, distrito: San Miguel",19477,0,19477
+150137,37,"Lima, Lima, distrito: Santa Anita",30366,0,30366
+150138,38,"Lima, Lima, distrito: Santa María del Mar",123,1,124
+150139,39,"Lima, Lima, distrito: Santa Rosa",3643,0,3643
+150140,40,"Lima, Lima, distrito: Santiago de Surco",40477,0,40477
+150141,41,"Lima, Lima, distrito: Surquillo",10351,0,10351
+150142,42,"Lima, Lima, distrito: Villa el Salvador",57557,0,57557
+150143,43,"Lima, Lima, distrito: Villa María del Triunfo",55998,0,55998
+150201,01,"Lima, Barranca, distrito: Barranca",8600,621,9221
+150202,02,"Lima, Barranca, distrito: Paramonga",2005,248,2253
+150203,03,"Lima, Barranca, distrito: Pativilca",1971,167,2138
+150204,04,"Lima, Barranca, distrito: Supe",2515,759,3274
+150205,05,"Lima, Barranca, distrito: Supe Puerto",1672,10,1682
+150301,01,"Lima, Cajatambo, distrito: Cajatambo",166,26,192
+150302,02,"Lima, Cajatambo, distrito: Copa",51,0,51
+150303,03,"Lima, Cajatambo, distrito: Gorgor",45,90,135
+150304,04,"Lima, Cajatambo, distrito: Huancapon",41,14,55
+150305,05,"Lima, Cajatambo, distrito: Manas",64,29,93
+150401,01,"Lima, Canta, distrito: Canta",215,12,227
+150402,02,"Lima, Canta, distrito: Arahuay",28,17,45
+150403,03,"Lima, Canta, distrito: Huamantanga",46,1,47
+150404,04,"Lima, Canta, distrito: Huaros",53,9,62
+150405,05,"Lima, Canta, distrito: Lachaqui",43,4,47
+150406,06,"Lima, Canta, distrito: San Buenaventura",38,3,41
+150407,07,"Lima, Canta, distrito: Santa Rosa de Quives",540,246,786
+150501,01,"Lima, Cañete, distrito: San Vicente de Cañete",6436,747,7183
+150502,02,"Lima, Cañete, distrito: Asia",1192,162,1354
+150503,03,"Lima, Cañete, distrito: Calango",124,111,235
+150504,04,"Lima, Cañete, distrito: Cerro Azul",996,121,1117
+150505,05,"Lima, Cañete, distrito: Chilca",2934,96,3030
+150506,06,"Lima, Cañete, distrito: Coayllo",46,38,84
+150507,07,"Lima, Cañete, distrito: Imperial",5045,164,5209
+150508,08,"Lima, Cañete, distrito: Lunahuana",409,52,461
+150509,09,"Lima, Cañete, distrito: Mala",4200,223,4423
+150510,10,"Lima, Cañete, distrito: Nuevo Imperial",3306,220,3526
+150511,11,"Lima, Cañete, distrito: Pacaran",74,144,218
+150512,12,"Lima, Cañete, distrito: Quilmana",1930,155,2085
+150513,13,"Lima, Cañete, distrito: San Antonio",479,90,569
+150514,14,"Lima, Cañete, distrito: San Luis",1722,115,1837
+150515,15,"Lima, Cañete, distrito: Santa Cruz de Flores",296,78,374
+150516,16,"Lima, Cañete, distrito: Zúñiga",110,49,159
+150601,01,"Lima, Huaral, distrito: Huaral",12768,881,13649
+150602,02,"Lima, Huaral, distrito: Atavillos Alto",40,2,42
+150603,03,"Lima, Huaral, distrito: Atavillos Bajo",56,3,59
+150604,04,"Lima, Huaral, distrito: Aucallama",1705,534,2239
+150605,05,"Lima, Huaral, distrito: Chancay",7298,468,7766
+150606,06,"Lima, Huaral, distrito: Ihuari",95,115,210
+150607,07,"Lima, Huaral, distrito: Lampian",19,1,20
+150608,08,"Lima, Huaral, distrito: Pacaraos",70,2,72
+150609,09,"Lima, Huaral, distrito: San Miguel de Acos",46,11,57
+150610,10,"Lima, Huaral, distrito: Santa Cruz de Andamarca",33,39,72
+150611,11,"Lima, Huaral, distrito: Sumbilca",30,14,44
+150612,12,"Lima, Huaral, distrito: Veintisiete de Noviembre",24,0,24
+150701,01,"Lima, Huarochirí, distrito: Matucana",367,88,455
+150702,02,"Lima, Huarochirí, distrito: Antioquia",42,89,131
+150703,03,"Lima, Huarochirí, distrito: Callahuanca",79,13,92
+150704,04,"Lima, Huarochirí, distrito: Carampoma",14,2,16
+150705,05,"Lima, Huarochirí, distrito: Chicla",276,250,526
+150706,06,"Lima, Huarochirí, distrito: Cuenca",9,29,38
+150707,07,"Lima, Huarochirí, distrito: Huachupampa",85,0,85
+150708,08,"Lima, Huarochirí, distrito: Huanza",81,5,86
+150709,09,"Lima, Huarochirí, distrito: Huarochirí",126,30,156
+150710,10,"Lima, Huarochirí, distrito: Lahuaytambo",11,15,26
+150711,11,"Lima, Huarochirí, distrito: Langa",55,58,113
+150712,12,"Lima, Huarochirí, distrito: San Pedro de Laraos",64,2,66
+150713,13,"Lima, Huarochirí, distrito: Mariatana",23,97,120
+150714,14,"Lima, Huarochirí, distrito: Ricardo Palma",752,27,779
+150715,15,"Lima, Huarochirí, distrito: San Andrés de Tupicocha",78,59,137
+150716,16,"Lima, Huarochirí, distrito: San Antonio",22,96,118
+150717,17,"Lima, Huarochirí, distrito: San Bartolomé",85,43,128
+150718,18,"Lima, Huarochirí, distrito: San Damian",117,11,128
+150719,19,"Lima, Huarochirí, distrito: San Juan de Iris",97,0,97
+150720,20,"Lima, Huarochirí, distrito: San Juan de Tantaranche",25,3,28
+150721,21,"Lima, Huarochirí, distrito: San Lorenzo de Quinti",90,17,107
+150722,22,"Lima, Huarochirí, distrito: San Mateo",445,66,511
+150723,23,"Lima, Huarochirí, distrito: San Mateo de Otao",15,110,125
+150724,24,"Lima, Huarochirí, distrito: San Pedro de Casta",56,28,84
+150725,25,"Lima, Huarochirí, distrito: San Pedro de Huancayre",14,2,16
+150726,26,"Lima, Huarochirí, distrito: Sangallaya",13,32,45
+150727,27,"Lima, Huarochirí, distrito: Santa Cruz de Cocachacra",267,22,289
+150728,28,"Lima, Huarochirí, distrito: Santa Eulalia",1592,84,1676
+150729,29,"Lima, Huarochirí, distrito: Santiago de Anchucaya",25,0,25
+150730,30,"Lima, Huarochirí, distrito: Santiago de Tuna",19,8,27
+150731,31,"Lima, Huarochirí, distrito: Santo Domingo de los Olleros",52,345,397
+150732,32,"Lima, Huarochirí, distrito: Surco",133,40,173
+150801,01,"Lima, Huaura, distrito: Huacho",8497,111,8608
+150802,02,"Lima, Huaura, distrito: Ambar",49,176,225
+150803,03,"Lima, Huaura, distrito: Caleta de Carquin",1029,5,1034
+150804,04,"Lima, Huaura, distrito: Checras",37,26,63
+150805,05,"Lima, Huaura, distrito: Hualmay",3778,10,3788
+150806,06,"Lima, Huaura, distrito: Huaura",4638,414,5052
+150807,07,"Lima, Huaura, distrito: Leoncio Prado",31,138,169
+150808,08,"Lima, Huaura, distrito: Paccho",81,53,134
+150809,09,"Lima, Huaura, distrito: Santa Leonor",46,27,73
+150810,10,"Lima, Huaura, distrito: Santa María",5043,251,5294
+150811,11,"Lima, Huaura, distrito: Sayan",2342,845,3187
+150812,12,"Lima, Huaura, distrito: Vegueta",3281,393,3674
+150901,01,"Lima, Oyón, distrito: Oyón",1061,157,1218
+150902,02,"Lima, Oyón, distrito: Andajes",17,22,39
+150903,03,"Lima, Oyón, distrito: Caujul",20,36,56
+150904,04,"Lima, Oyón, distrito: Cochamarca",27,74,101
+150905,05,"Lima, Oyón, distrito: Navan",28,36,64
+150906,06,"Lima, Oyón, distrito: Pachangara",232,39,271
+151001,01,"Lima, Yauyos, distrito: Yauyos",121,6,127
+151002,02,"Lima, Yauyos, distrito: Alis",12,136,148
+151003,03,"Lima, Yauyos, distrito: Allauca",48,46,94
+151004,04,"Lima, Yauyos, distrito: Ayaviri",52,0,52
+151005,05,"Lima, Yauyos, distrito: Azangaro",23,28,51
+151006,06,"Lima, Yauyos, distrito: Cacra",12,32,44
+151007,07,"Lima, Yauyos, distrito: Carania",10,0,10
+151008,08,"Lima, Yauyos, distrito: Catahuasi",82,29,111
+151009,09,"Lima, Yauyos, distrito: Chocos",23,46,69
+151010,10,"Lima, Yauyos, distrito: Cochas",7,0,7
+151011,11,"Lima, Yauyos, distrito: Colonia",36,52,88
+151012,12,"Lima, Yauyos, distrito: Hongos",16,3,19
+151013,13,"Lima, Yauyos, distrito: Huampara",4,0,4
+151014,14,"Lima, Yauyos, distrito: Huancaya",130,5,135
+151015,15,"Lima, Yauyos, distrito: Huangascar",50,17,67
+151016,16,"Lima, Yauyos, distrito: Huantan",43,45,88
+151017,17,"Lima, Yauyos, distrito: Huañec",26,0,26
+151018,18,"Lima, Yauyos, distrito: Laraos",26,14,40
+151019,19,"Lima, Yauyos, distrito: Lincha",6,26,32
+151020,20,"Lima, Yauyos, distrito: Madean",12,12,24
+151021,21,"Lima, Yauyos, distrito: Miraflores",6,0,6
+151022,22,"Lima, Yauyos, distrito: Omas",31,13,44
+151023,23,"Lima, Yauyos, distrito: Putinza",37,4,41
+151024,24,"Lima, Yauyos, distrito: Quinches",17,6,23
+151025,25,"Lima, Yauyos, distrito: Quinocay",14,3,17
+151026,26,"Lima, Yauyos, distrito: San Joaquín",6,1,7
+151027,27,"Lima, Yauyos, distrito: San Pedro de Pilas",12,1,13
+151028,28,"Lima, Yauyos, distrito: Tanta",56,0,56
+151029,29,"Lima, Yauyos, distrito: Tauripampa",36,6,42
+151030,30,"Lima, Yauyos, distrito: Tomas",32,36,68
+151031,31,"Lima, Yauyos, distrito: Tupe",17,9,26
+151032,32,"Lima, Yauyos, distrito: Viñac",78,77,155
+151033,33,"Lima, Yauyos, distrito: Vitis",30,1,31
+160101,01,"Loreto, Maynas, distrito: Iquitos",18978,164,19142
+160102,02,"Loreto, Maynas, distrito: Alto Nanay",58,202,260
+160103,03,"Loreto, Maynas, distrito: Fernando Lores",682,605,1287
+160104,04,"Loreto, Maynas, distrito: Indiana",455,548,1003
+160105,05,"Loreto, Maynas, distrito: Las Amazonas",263,507,770
+160106,06,"Loreto, Maynas, distrito: Mazan",459,667,1126
+160107,07,"Loreto, Maynas, distrito: Napo",439,998,1437
+160108,08,"Loreto, Maynas, distrito: Punchana",9144,587,9731
+160110,10,"Loreto, Maynas, distrito: Torres Causana",80,401,481
+160112,12,"Loreto, Maynas, distrito: Belén",7400,861,8261
+160113,13,"Loreto, Maynas, distrito: San Juan Bautista",15078,1423,16501
+160201,01,"Loreto, Alto Amazonas, distrito: Yurimaguas",9015,1472,10487
+160202,02,"Loreto, Alto Amazonas, distrito: Balsapuerto",165,1575,1740
+160205,05,"Loreto, Alto Amazonas, distrito: Jeberos",238,198,436
+160206,06,"Loreto, Alto Amazonas, distrito: Lagunas",825,431,1256
+160210,10,"Loreto, Alto Amazonas, distrito: Santa Cruz",98,325,423
+160211,11,"Loreto, Alto Amazonas, distrito: Teniente Cesar López Rojas",317,252,569
+160301,01,"Loreto, Loreto, distrito: Nauta",2404,821,3225
+160302,02,"Loreto, Loreto, distrito: Parinari",178,415,593
+160303,03,"Loreto, Loreto, distrito: Tigre",203,416,619
+160304,04,"Loreto, Loreto, distrito: Trompeteros",274,746,1020
+160305,05,"Loreto, Loreto, distrito: Urarinas",302,1149,1451
+160401,01,"Loreto, Mariscal Ramón Castilla, distrito: Ramón Castilla",1352,972,2324
+160402,02,"Loreto, Mariscal Ramón Castilla, distrito: Pebas",424,672,1096
+160403,03,"Loreto, Mariscal Ramón Castilla, distrito: Yavari",189,773,962
+160404,04,"Loreto, Mariscal Ramón Castilla, distrito: San Pablo",343,743,1086
+160501,01,"Loreto, Requena, distrito: Requena",2535,210,2745
+160502,02,"Loreto, Requena, distrito: Alto Tapiche",74,109,183
+160503,03,"Loreto, Requena, distrito: Capelo",165,66,231
+160504,04,"Loreto, Requena, distrito: Emilio San Martín",301,302,603
+160505,05,"Loreto, Requena, distrito: Maquia",227,518,745
+160506,06,"Loreto, Requena, distrito: Puinahua",236,187,423
+160507,07,"Loreto, Requena, distrito: Saquena",119,191,310
+160508,08,"Loreto, Requena, distrito: Soplin",20,31,51
+160509,09,"Loreto, Requena, distrito: Tapiche",57,38,95
+160510,10,"Loreto, Requena, distrito: Jenaro Herrera",371,81,452
+160511,11,"Loreto, Requena, distrito: Yaquerana",99,121,220
+160601,01,"Loreto, Ucayali, distrito: Contamana",2011,672,2683
+160602,02,"Loreto, Ucayali, distrito: Inahuaya",100,72,172
+160603,03,"Loreto, Ucayali, distrito: Padre Márquez",175,208,383
+160604,04,"Loreto, Ucayali, distrito: Pampa Hermosa",144,357,501
+160605,05,"Loreto, Ucayali, distrito: Sarayacu",492,759,1251
+160606,06,"Loreto, Ucayali, distrito: Vargas Guerra",488,109,597
+160701,01,"Loreto, Datem del Marañón, distrito: Barranca",1245,464,1709
+160702,02,"Loreto, Datem del Marañón, distrito: Cahuapanas",87,757,844
+160703,03,"Loreto, Datem del Marañón, distrito: Manseriche",323,652,975
+160704,04,"Loreto, Datem del Marañón, distrito: Morona",257,338,595
+160705,05,"Loreto, Datem del Marañón, distrito: Pastaza",215,383,598
+160706,06,"Loreto, Datem del Marañón, distrito: Andoas",155,1443,1598
+160801,01,"Loreto, Putumayo, distrito: Putumayo",495,75,570
+160802,02,"Loreto, Putumayo, distrito: Rosa Panduro",36,30,66
+160803,03,"Loreto, Putumayo, distrito: Teniente Manuel Clavero",77,293,370
+160804,04,"Loreto, Putumayo, distrito: Yaguas",30,160,190
+170101,01,"Madre de Dios, Tambopata, distrito: Tambopata",10980,326,11306
+170102,02,"Madre de Dios, Tambopata, distrito: Inambari",935,528,1463
+170103,03,"Madre de Dios, Tambopata, distrito: Las Piedras",1453,180,1633
+170104,04,"Madre de Dios, Tambopata, distrito: Laberinto",565,123,688
+170201,01,"Madre de Dios, Manu, distrito: Manu",142,107,249
+170202,02,"Madre de Dios, Manu, distrito: Fitzcarrald",20,162,182
+170203,03,"Madre de Dios, Manu, distrito: Madre de Dios",337,460,797
+170204,04,"Madre de Dios, Manu, distrito: Huepetuhe",782,384,1166
+170301,01,"Madre de Dios, Tahuamanu, distrito: Iñapari",230,65,295
+170302,02,"Madre de Dios, Tahuamanu, distrito: Iberia",572,35,607
+170303,03,"Madre de Dios, Tahuamanu, distrito: Tahuamanu",184,181,365
+180101,01,"Moquegua, Mariscal Nieto, distrito: Moquegua",8408,126,8534
+180102,02,"Moquegua, Mariscal Nieto, distrito: Carumas",115,83,198
+180103,03,"Moquegua, Mariscal Nieto, distrito: Cuchumbaya",30,3,33
+180104,04,"Moquegua, Mariscal Nieto, distrito: Samegua",1368,45,1413
+180105,05,"Moquegua, Mariscal Nieto, distrito: San Cristóbal",110,0,110
+180106,06,"Moquegua, Mariscal Nieto, distrito: Torata",271,248,519
+180201,01,"Moquegua, General Sánchez Cerro, distrito: Omate",185,51,236
+180202,02,"Moquegua, General Sánchez Cerro, distrito: Chojata",46,16,62
+180203,03,"Moquegua, General Sánchez Cerro, distrito: Coalaque",25,30,55
+180204,04,"Moquegua, General Sánchez Cerro, distrito: Ichuña",141,191,332
+180205,05,"Moquegua, General Sánchez Cerro, distrito: La Capilla",19,24,43
+180206,06,"Moquegua, General Sánchez Cerro, distrito: Lloque",33,7,40
+180207,07,"Moquegua, General Sánchez Cerro, distrito: Matalaque",6,8,14
+180208,08,"Moquegua, General Sánchez Cerro, distrito: Puquina",146,32,178
+180209,09,"Moquegua, General Sánchez Cerro, distrito: Quinistaquillas",23,18,41
+180210,10,"Moquegua, General Sánchez Cerro, distrito: Ubinas",74,55,129
+180211,11,"Moquegua, General Sánchez Cerro, distrito: Yunga",49,33,82
+180301,01,"Moquegua, Ilo, distrito: Ilo",8239,189,8428
+180302,02,"Moquegua, Ilo, distrito: El Algarrobal",445,0,445
+180303,03,"Moquegua, Ilo, distrito: Pacocha",337,2,339
+190101,01,"Pasco, Pasco, distrito: Chaupimarca",3825,8,3833
+190102,02,"Pasco, Pasco, distrito: Huachon",324,167,491
+190103,03,"Pasco, Pasco, distrito: Huariaca",860,50,910
+190104,04,"Pasco, Pasco, distrito: Huayllay",889,258,1147
+190105,05,"Pasco, Pasco, distrito: Ninacaca",435,154,589
+190106,06,"Pasco, Pasco, distrito: Pallanchacra",77,126,203
+190107,07,"Pasco, Pasco, distrito: Paucartambo",1059,351,1410
+190108,08,"Pasco, Pasco, distrito: San Francisco de Asís de Yarusyacan",298,271,569
+190109,09,"Pasco, Pasco, distrito: Simon Bolívar",1682,86,1768
+190110,10,"Pasco, Pasco, distrito: Ticlacayan",197,280,477
+190111,11,"Pasco, Pasco, distrito: Tinyahuarco",893,5,898
+190112,12,"Pasco, Pasco, distrito: Vicco",441,21,462
+190113,13,"Pasco, Pasco, distrito: Yanacancha",3997,261,4258
+190201,01,"Pasco, Daniel Alcides Carrión, distrito: Yanahuanca",1168,287,1455
+190202,02,"Pasco, Daniel Alcides Carrión, distrito: Chacayan",158,55,213
+190203,03,"Pasco, Daniel Alcides Carrión, distrito: Goyllarisquizga",174,29,203
+190204,04,"Pasco, Daniel Alcides Carrión, distrito: Paucar",199,37,236
+190205,05,"Pasco, Daniel Alcides Carrión, distrito: San Pedro de Pillao",123,24,147
+190206,06,"Pasco, Daniel Alcides Carrión, distrito: Santa Ana de Tusi",685,4432,5117
+190207,07,"Pasco, Daniel Alcides Carrión, distrito: Tapuc",287,14,301
+190208,08,"Pasco, Daniel Alcides Carrión, distrito: Vilcabamba",175,54,229
+190301,01,"Pasco, Oxapampa, distrito: Oxapampa",1450,556,2006
+190302,02,"Pasco, Oxapampa, distrito: Chontabamba",281,280,561
+190303,03,"Pasco, Oxapampa, distrito: Huancabamba",353,466,819
+190304,04,"Pasco, Oxapampa, distrito: Palcazu",215,565,780
+190305,05,"Pasco, Oxapampa, distrito: Pozuzo",203,359,562
+190306,06,"Pasco, Oxapampa, distrito: Puerto Bermúdez",772,1347,2119
+190307,07,"Pasco, Oxapampa, distrito: Villa Rica",1548,502,2050
+190308,08,"Pasco, Oxapampa, distrito: Constitución",918,743,1661
+200101,01,"Piura, Piura, distrito: Piura",22109,744,22853
+200104,04,"Piura, Piura, distrito: Castilla",23835,162,23997
+200105,05,"Piura, Piura, distrito: Catacaos",10014,299,10313
+200107,07,"Piura, Piura, distrito: Cura Mori",2392,96,2488
+200108,08,"Piura, Piura, distrito: El Tallan",592,39,631
+200109,09,"Piura, Piura, distrito: La Arena",4650,367,5017
+200110,10,"Piura, Piura, distrito: La Unión",5501,77,5578
+200111,11,"Piura, Piura, distrito: Las Lomas",1386,1536,2922
+200114,14,"Piura, Piura, distrito: Tambo Grande",5825,8392,14217
+200115,15,"Piura, Piura, distrito: Veintiseis de Octubre",23751,15,23766
+200201,01,"Piura, Ayabaca, distrito: Ayabaca",617,2478,3095
+200202,02,"Piura, Ayabaca, distrito: Frias",221,1747,1968
+200203,03,"Piura, Ayabaca, distrito: Jilili",11,233,244
+200204,04,"Piura, Ayabaca, distrito: Lagunas",34,530,564
+200205,05,"Piura, Ayabaca, distrito: Montero",117,547,664
+200206,06,"Piura, Ayabaca, distrito: Pacaipampa",136,1933,2069
+200207,07,"Piura, Ayabaca, distrito: Paimas",360,688,1048
+200208,08,"Piura, Ayabaca, distrito: Sapillica",113,1056,1169
+200209,09,"Piura, Ayabaca, distrito: Sicchez",77,57,134
+200210,10,"Piura, Ayabaca, distrito: Suyo",352,828,1180
+200301,01,"Piura, Huancabamba, distrito: Huancabamba",1018,2023,3041
+200302,02,"Piura, Huancabamba, distrito: Canchaque",259,452,711
+200303,03,"Piura, Huancabamba, distrito: El Carmen de la Frontera",45,1117,1162
+200304,04,"Piura, Huancabamba, distrito: Huarmaca",470,3753,4223
+200305,05,"Piura, Huancabamba, distrito: Lalaquiz",100,274,374
+200306,06,"Piura, Huancabamba, distrito: San Miguel de El Faique",225,692,917
+200307,07,"Piura, Huancabamba, distrito: Sondor",104,598,702
+200308,08,"Piura, Huancabamba, distrito: Sondorillo",39,1007,1046
+200401,01,"Piura, Morropón, distrito: Chulucanas",7708,2363,10071
+200402,02,"Piura, Morropón, distrito: Buenos Aires",797,149,946
+200403,03,"Piura, Morropón, distrito: Chalaco",80,550,630
+200404,04,"Piura, Morropón, distrito: La Matanza",1088,545,1633
+200405,05,"Piura, Morropón, distrito: Morropón",1280,264,1544
+200406,06,"Piura, Morropón, distrito: Salitral",559,250,809
+200407,07,"Piura, Morropón, distrito: San Juan de Bigote",317,228,545
+200408,08,"Piura, Morropón, distrito: Santa Catalina de Mossa",142,157,299
+200409,09,"Piura, Morropón, distrito: Santo Domingo",105,407,512
+200410,10,"Piura, Morropón, distrito: Yamango",212,677,889
+200501,01,"Piura, Paita, distrito: Paita",12029,0,12029
+200502,02,"Piura, Paita, distrito: Amotape",272,7,279
+200503,03,"Piura, Paita, distrito: Arenal",87,26,113
+200504,04,"Piura, Paita, distrito: Colan",1589,168,1757
+200505,05,"Piura, Paita, distrito: La Huaca",1402,87,1489
+200506,06,"Piura, Paita, distrito: Tamarindo",527,7,534
+200507,07,"Piura, Paita, distrito: Vichayal",415,189,604
+200601,01,"Piura, Sullana, distrito: Sullana",21745,976,22721
+200602,02,"Piura, Sullana, distrito: Bellavista",4945,0,4945
+200603,03,"Piura, Sullana, distrito: Ignacio Escudero",2351,61,2412
+200604,04,"Piura, Sullana, distrito: Lancones",74,1405,1479
+200605,05,"Piura, Sullana, distrito: Marcavelica",3343,221,3564
+200606,06,"Piura, Sullana, distrito: Miguel Checa",1128,28,1156
+200607,07,"Piura, Sullana, distrito: Querecotillo",2738,253,2991
+200608,08,"Piura, Sullana, distrito: Salitral",747,50,797
+200701,01,"Piura, Talara, distrito: Pariñas",11935,97,12032
+200702,02,"Piura, Talara, distrito: El Alto",959,0,959
+200703,03,"Piura, Talara, distrito: La Brea",1434,17,1451
+200704,04,"Piura, Talara, distrito: Lobitos",152,5,157
+200705,05,"Piura, Talara, distrito: Los Organos",1114,2,1116
+200706,06,"Piura, Talara, distrito: Mancora",1539,13,1552
+200801,01,"Piura, Sechura, distrito: Sechura",5620,202,5822
+200802,02,"Piura, Sechura, distrito: Bellavista de la Unión",612,23,635
+200803,03,"Piura, Sechura, distrito: Bernal",808,58,866
+200804,04,"Piura, Sechura, distrito: Cristo Nos Valga",363,200,563
+200805,05,"Piura, Sechura, distrito: Vice",1942,36,1978
+200806,06,"Piura, Sechura, distrito: Rinconada Llicuar",351,0,351
+210101,01,"Puno, Puno, distrito: Puno",19942,628,20570
+210102,02,"Puno, Puno, distrito: Acora",565,2280,2845
+210103,03,"Puno, Puno, distrito: Amantani",35,343,378
+210104,04,"Puno, Puno, distrito: Atuncolla",49,588,637
+210105,05,"Puno, Puno, distrito: Capachica",123,668,791
+210106,06,"Puno, Puno, distrito: Chucuito",112,694,806
+210107,07,"Puno, Puno, distrito: Coata",287,630,917
+210108,08,"Puno, Puno, distrito: Huata",82,294,376
+210109,09,"Puno, Puno, distrito: Mañazo",411,354,765
+210110,10,"Puno, Puno, distrito: Paucarcolla",80,494,574
+210111,11,"Puno, Puno, distrito: Pichacani",356,323,679
+210112,12,"Puno, Puno, distrito: Plateria",63,738,801
+210113,13,"Puno, Puno, distrito: San Antonio",53,320,373
+210114,14,"Puno, Puno, distrito: Tiquillaca",44,114,158
+210115,15,"Puno, Puno, distrito: Vilque",137,278,415
+210201,01,"Puno, Azángaro, distrito: Azángaro",3413,1203,4616
+210202,02,"Puno, Azángaro, distrito: Achaya",9,380,389
+210203,03,"Puno, Azángaro, distrito: Arapa",215,707,922
+210204,04,"Puno, Azángaro, distrito: Asillo",602,1402,2004
+210205,05,"Puno, Azángaro, distrito: Caminaca",17,370,387
+210206,06,"Puno, Azángaro, distrito: Chupa",121,660,781
+210207,07,"Puno, Azángaro, distrito: José Domingo Choquehuanca",486,185,671
+210208,08,"Puno, Azángaro, distrito: Muñani",306,606,912
+210209,09,"Puno, Azángaro, distrito: Potoni",378,231,609
+210210,10,"Puno, Azángaro, distrito: Saman",66,1099,1165
+210211,11,"Puno, Azángaro, distrito: San Anton",578,524,1102
+210212,12,"Puno, Azángaro, distrito: San José",336,334,670
+210213,13,"Puno, Azángaro, distrito: San Juan de Salinas",22,373,395
+210214,14,"Puno, Azángaro, distrito: Santiago de Pupuja",24,506,530
+210215,15,"Puno, Azángaro, distrito: Tirapata",80,270,350
+210301,01,"Puno, Carabaya, distrito: Macusani",1527,226,1753
+210302,02,"Puno, Carabaya, distrito: Ajoyani",266,74,340
+210303,03,"Puno, Carabaya, distrito: Ayapata",343,852,1195
+210304,04,"Puno, Carabaya, distrito: Coasa",542,471,1013
+210305,05,"Puno, Carabaya, distrito: Corani",381,283,664
+210306,06,"Puno, Carabaya, distrito: Crucero",1106,294,1400
+210307,07,"Puno, Carabaya, distrito: Ituata",130,942,1072
+210308,08,"Puno, Carabaya, distrito: Ollachea",310,450,760
+210309,09,"Puno, Carabaya, distrito: San Gaban",238,807,1045
+210310,10,"Puno, Carabaya, distrito: Usicayos",557,464,1021
+210401,01,"Puno, Chucuito, distrito: Juli",1137,1444,2581
+210402,02,"Puno, Chucuito, distrito: Desaguadero",1215,484,1699
+210403,03,"Puno, Chucuito, distrito: Huacullani",414,906,1320
+210404,04,"Puno, Chucuito, distrito: Kelluyo",132,808,940
+210405,05,"Puno, Chucuito, distrito: Pisacoma",238,1098,1336
+210406,06,"Puno, Chucuito, distrito: Pomata",343,1215,1558
+210407,07,"Puno, Chucuito, distrito: Zepita",308,1743,2051
+210501,01,"Puno, El Collao, distrito: Ilave",3391,2929,6320
+210502,02,"Puno, El Collao, distrito: Capazo",22,119,141
+210503,03,"Puno, El Collao, distrito: Pilcuyo",158,928,1086
+210504,04,"Puno, El Collao, distrito: Santa Rosa",204,205,409
+210505,05,"Puno, El Collao, distrito: Conduriri",96,236,332
+210601,01,"Puno, Huancané, distrito: Huancané",1144,1051,2195
+210602,02,"Puno, Huancané, distrito: Cojata",187,314,501
+210603,03,"Puno, Huancané, distrito: Huatasani",188,223,411
+210604,04,"Puno, Huancané, distrito: Inchupalla",18,302,320
+210605,05,"Puno, Huancané, distrito: Pusi",102,489,591
+210606,06,"Puno, Huancané, distrito: Rosaspata",67,403,470
+210607,07,"Puno, Huancané, distrito: Taraco",254,1468,1722
+210608,08,"Puno, Huancané, distrito: Vilque Chico",90,586,676
+210701,01,"Puno, Lampa, distrito: Lampa",853,635,1488
+210702,02,"Puno, Lampa, distrito: Cabanilla",178,607,785
+210703,03,"Puno, Lampa, distrito: Calapuja",70,133,203
+210704,04,"Puno, Lampa, distrito: Nicasio",65,241,306
+210705,05,"Puno, Lampa, distrito: Ocuviri",103,188,291
+210706,06,"Puno, Lampa, distrito: Palca",111,135,246
+210707,07,"Puno, Lampa, distrito: Paratia",167,247,414
+210708,08,"Puno, Lampa, distrito: Pucara",283,341,624
+210709,09,"Puno, Lampa, distrito: Santa Lucia",783,186,969
+210710,10,"Puno, Lampa, distrito: Vilavila",94,107,201
+210801,01,"Puno, Melgar, distrito: Ayaviri",3190,293,3483
+210802,02,"Puno, Melgar, distrito: Antauta",412,192,604
+210803,03,"Puno, Melgar, distrito: Cupi",41,234,275
+210804,04,"Puno, Melgar, distrito: Llalli",244,80,324
+210805,05,"Puno, Melgar, distrito: Macari",541,410,951
+210806,06,"Puno, Melgar, distrito: Nuñoa",683,409,1092
+210807,07,"Puno, Melgar, distrito: Orurillo",163,750,913
+210808,08,"Puno, Melgar, distrito: Santa Rosa",490,381,871
+210809,09,"Puno, Melgar, distrito: Umachiri",121,383,504
+210901,01,"Puno, Moho , distrito: Moho",413,736,1149
+210902,02,"Puno, Moho , distrito: Conima",91,236,327
+210903,03,"Puno, Moho , distrito: Huayrapata",109,186,295
+210904,04,"Puno, Moho , distrito: Tilali",79,186,265
+211001,01,"Puno, San Antonio de Putina, distrito: Putina",1669,572,2241
+211002,02,"Puno, San Antonio de Putina, distrito: Ananea",1687,144,1831
+211003,03,"Puno, San Antonio de Putina, distrito: Pedro Vilca Apaza",107,170,277
+211004,04,"Puno, San Antonio de Putina, distrito: Quilcapuncu",379,388,767
+211005,05,"Puno, San Antonio de Putina, distrito: Sina",74,145,219
+211101,01,"Puno, San Román, distrito: Juliaca",34319,1620,35939
+211102,02,"Puno, San Román, distrito: Cabana",135,509,644
+211103,03,"Puno, San Román, distrito: Cabanillas",357,289,646
+211104,04,"Puno, San Román, distrito: Caracoto",159,702,861
+211105,05,"Puno, San Román, distrito: San Miguel",10049,554,10603
+211201,01,"Puno, Sandia, distrito: Sandia",481,772,1253
+211202,02,"Puno, Sandia, distrito: Cuyocuyo",200,400,600
+211203,03,"Puno, Sandia, distrito: Limbani",253,193,446
+211204,04,"Puno, Sandia, distrito: Patambuco",32,420,452
+211205,05,"Puno, Sandia, distrito: Phara",174,546,720
+211206,06,"Puno, Sandia, distrito: Quiaca",47,282,329
+211207,07,"Puno, Sandia, distrito: San Juan del Oro",257,222,479
+211208,08,"Puno, Sandia, distrito: Yanahuaya",115,105,220
+211209,09,"Puno, Sandia, distrito: Alto Inambari",211,691,902
+211210,10,"Puno, Sandia, distrito: San Pedro de Putina Punco",233,1146,1379
+211301,01,"Puno, Yunguyo, distrito: Yunguyo",1587,1389,2976
+211302,02,"Puno, Yunguyo, distrito: Anapia",160,32,192
+211303,03,"Puno, Yunguyo, distrito: Copani",100,492,592
+211304,04,"Puno, Yunguyo, distrito: Cuturapi",98,22,120
+211305,05,"Puno, Yunguyo, distrito: Ollaraya",30,198,228
+211306,06,"Puno, Yunguyo, distrito: Tinicachi",34,41,75
+211307,07,"Puno, Yunguyo, distrito: Unicachi",34,51,85
+220101,01,"San Martín, Moyobamba, distrito: Moyobamba",8294,2232,10526
+220102,02,"San Martín, Moyobamba, distrito: Calzada",516,73,589
+220103,03,"San Martín, Moyobamba, distrito: Habana",186,42,228
+220104,04,"San Martín, Moyobamba, distrito: Jepelacio",806,1055,1861
+220105,05,"San Martín, Moyobamba, distrito: Soritor",1966,679,2645
+220106,06,"San Martín, Moyobamba, distrito: Yantalo",295,82,377
+220201,01,"San Martín, Bellavista, distrito: Bellavista",1892,72,1964
+220202,02,"San Martín, Bellavista, distrito: Alto Biavo",414,395,809
+220203,03,"San Martín, Bellavista, distrito: Bajo Biavo",260,1169,1429
+220204,04,"San Martín, Bellavista, distrito: Huallaga",80,195,275
+220205,05,"San Martín, Bellavista, distrito: San Pablo",619,238,857
+220206,06,"San Martín, Bellavista, distrito: San Rafael",679,67,746
+220301,01,"San Martín, El Dorado, distrito: San José de Sisa",1243,452,1695
+220302,02,"San Martín, El Dorado, distrito: Agua Blanca",110,81,191
+220303,03,"San Martín, El Dorado, distrito: San Martín",274,945,1219
+220304,04,"San Martín, El Dorado, distrito: Santa Rosa",219,439,658
+220305,05,"San Martín, El Dorado, distrito: Shatoja",152,184,336
+220401,01,"San Martín, Huallaga, distrito: Saposoa",793,552,1345
+220402,02,"San Martín, Huallaga, distrito: Alto Saposoa",264,208,472
+220403,03,"San Martín, Huallaga, distrito: El Eslabón",103,104,207
+220404,04,"San Martín, Huallaga, distrito: Piscoyacu",243,258,501
+220405,05,"San Martín, Huallaga, distrito: Sacanche",113,129,242
+220406,06,"San Martín, Huallaga, distrito: Tingo de Saposoa",68,5,73
+220501,01,"San Martín, Lamas, distrito: Lamas",1379,120,1499
+220502,02,"San Martín, Lamas, distrito: Alonso de Alvarado",811,875,1686
+220503,03,"San Martín, Lamas, distrito: Barranquita",383,272,655
+220504,04,"San Martín, Lamas, distrito: Caynarachi",682,465,1147
+220505,05,"San Martín, Lamas, distrito: Cuñumbuqui",185,124,309
+220506,06,"San Martín, Lamas, distrito: Pinto Recodo",285,662,947
+220507,07,"San Martín, Lamas, distrito: Rumisapa",204,184,388
+220508,08,"San Martín, Lamas, distrito: San Roque de Cumbaza",79,99,178
+220509,09,"San Martín, Lamas, distrito: Shanao",95,116,211
+220510,10,"San Martín, Lamas, distrito: Tabalosos",1007,427,1434
+220511,11,"San Martín, Lamas, distrito: Zapatero",237,345,582
+220601,01,"San Martín, Mariscal Cáceres, distrito: Juanjuí",3466,381,3847
+220602,02,"San Martín, Mariscal Cáceres, distrito: Campanilla",434,1046,1480
+220603,03,"San Martín, Mariscal Cáceres, distrito: Huicungo",476,394,870
+220604,04,"San Martín, Mariscal Cáceres, distrito: Pachiza",347,216,563
+220605,05,"San Martín, Mariscal Cáceres, distrito: Pajarillo",161,427,588
+220701,01,"San Martín, Picota, distrito: Picota",1052,96,1148
+220702,02,"San Martín, Picota, distrito: Buenos Aires",161,187,348
+220703,03,"San Martín, Picota, distrito: Caspisapa",194,36,230
+220704,04,"San Martín, Picota, distrito: Pilluana",57,4,61
+220705,05,"San Martín, Picota, distrito: Pucacaca",287,16,303
+220706,06,"San Martín, Picota, distrito: San Cristóbal",174,0,174
+220707,07,"San Martín, Picota, distrito: San Hilarión",337,129,466
+220708,08,"San Martín, Picota, distrito: Shamboyacu",244,670,914
+220709,09,"San Martín, Picota, distrito: Tingo de Ponasa",250,138,388
+220710,10,"San Martín, Picota, distrito: Tres Unidos",156,219,375
+220801,01,"San Martín, Rioja, distrito: Rioja",3053,233,3286
+220802,02,"San Martín, Rioja, distrito: Awajun",351,602,953
+220803,03,"San Martín, Rioja, distrito: Elías Soplin Vargas",2038,370,2408
+220804,04,"San Martín, Rioja, distrito: Nueva Cajamarca",5222,911,6133
+220805,05,"San Martín, Rioja, distrito: Pardo Miguel",1109,892,2001
+220806,06,"San Martín, Rioja, distrito: Posic",212,34,246
+220807,07,"San Martín, Rioja, distrito: San Fernando",262,164,426
+220808,08,"San Martín, Rioja, distrito: Yorongos",214,48,262
+220809,09,"San Martín, Rioja, distrito: Yuracyacu",415,55,470
+220901,01,"San Martín, San Martín, distrito: Tarapoto",11453,75,11528
+220902,02,"San Martín, San Martín, distrito: Alberto Leveau",36,28,64
+220903,03,"San Martín, San Martín, distrito: Cacatachi",369,63,432
+220904,04,"San Martín, San Martín, distrito: Chazuta",589,298,887
+220905,05,"San Martín, San Martín, distrito: Chipurana",168,40,208
+220906,06,"San Martín, San Martín, distrito: El Porvenir",166,64,230
+220907,07,"San Martín, San Martín, distrito: Huimbayoc",178,242,420
+220908,08,"San Martín, San Martín, distrito: Juan Guerra",414,15,429
+220909,09,"San Martín, San Martín, distrito: La Banda de Shilcayo",5895,440,6335
+220910,10,"San Martín, San Martín, distrito: Morales",5481,286,5767
+220911,11,"San Martín, San Martín, distrito: Papaplaya",89,73,162
+220912,12,"San Martín, San Martín, distrito: San Antonio",203,4,207
+220913,13,"San Martín, San Martín, distrito: Sauce",707,212,919
+220914,14,"San Martín, San Martín, distrito: Shapaja",203,22,225
+221001,01,"San Martín, Tocache, distrito: Tocache",2147,973,3120
+221002,02,"San Martín, Tocache, distrito: Nuevo Progreso",543,822,1365
+221003,03,"San Martín, Tocache, distrito: Polvora",330,927,1257
+221004,04,"San Martín, Tocache, distrito: Shunte",64,106,170
+221005,05,"San Martín, Tocache, distrito: Uchiza",1936,946,2882
+230101,01,"Tacna, Tacna, distrito: Tacna",11673,63,11736
+230102,02,"Tacna, Tacna, distrito: Alto de la Alianza",4869,21,4890
+230103,03,"Tacna, Tacna, distrito: Calana",130,261,391
+230104,04,"Tacna, Tacna, distrito: Ciudad Nueva",5445,9,5454
+230105,05,"Tacna, Tacna, distrito: Inclan",162,155,317
+230106,06,"Tacna, Tacna, distrito: Pachia",190,75,265
+230107,07,"Tacna, Tacna, distrito: Palca",85,88,173
+230108,08,"Tacna, Tacna, distrito: Pocollay",2253,72,2325
+230109,09,"Tacna, Tacna, distrito: Sama",293,32,325
+230110,10,"Tacna, Tacna, distrito: Coronel Gregorio Albarracin Lanchipa",16416,20,16436
+230111,11,"Tacna, Tacna, distrito: La Yarada los Palos",39,587,626
+230201,01,"Tacna, Candarave, distrito: Candarave",161,61,222
+230202,02,"Tacna, Candarave, distrito: Cairani",95,0,95
+230203,03,"Tacna, Candarave, distrito: Camilaca",84,8,92
+230204,04,"Tacna, Candarave, distrito: Curibaya",27,12,39
+230205,05,"Tacna, Candarave, distrito: Huanuara",28,0,28
+230206,06,"Tacna, Candarave, distrito: Quilahuani",59,10,69
+230301,01,"Tacna, Jorge Basadre, distrito: Locumba",101,144,245
+230302,02,"Tacna, Jorge Basadre, distrito: Ilabaya",317,23,340
+230303,03,"Tacna, Jorge Basadre, distrito: Ite",194,571,765
+230401,01,"Tacna, Tarata, distrito: Tarata",503,123,626
+230402,02,"Tacna, Tarata, distrito: Héroes Albarracín",6,12,18
+230403,03,"Tacna, Tarata, distrito: Estique",15,2,17
+230404,04,"Tacna, Tarata, distrito: Estique-Pampa",10,0,10
+230405,05,"Tacna, Tarata, distrito: Sitajara",18,0,18
+230406,06,"Tacna, Tarata, distrito: Susapaya",37,5,42
+230407,07,"Tacna, Tarata, distrito: Tarucachi",21,2,23
+230408,08,"Tacna, Tarata, distrito: Ticaco",42,5,47
+240101,01,"Tumbes, Tumbes, distrito: Tumbes",13324,223,13547
+240102,02,"Tumbes, Tumbes, distrito: Corrales",2680,90,2770
+240103,03,"Tumbes, Tumbes, distrito: La Cruz",1027,76,1103
+240104,04,"Tumbes, Tumbes, distrito: Pampas de Hospital",381,397,778
+240105,05,"Tumbes, Tumbes, distrito: San Jacinto",731,149,880
+240106,06,"Tumbes, Tumbes, distrito: San Juan de la Virgen",455,7,462
+240201,01,"Tumbes, Contralmirante Villar, distrito: Zorritos",1521,68,1589
+240202,02,"Tumbes, Contralmirante Villar, distrito: Casitas",41,188,229
+240203,03,"Tumbes, Contralmirante Villar, distrito: Canoas de Punta Sal",670,129,799
+240301,01,"Tumbes, Zarumilla, distrito: Zarumilla",2650,86,2736
+240302,02,"Tumbes, Zarumilla, distrito: Aguas Verdes",2361,31,2392
+240303,03,"Tumbes, Zarumilla, distrito: Matapalo",362,77,439
+240304,04,"Tumbes, Zarumilla, distrito: Papayal",538,226,764
+250101,01,"Ucayali, Coronel Portillo, distrito: Calleria",18751,624,19375
+250102,02,"Ucayali, Coronel Portillo, distrito: Campoverde",821,1112,1933
+250103,03,"Ucayali, Coronel Portillo, distrito: Iparia",150,1009,1159
+250104,04,"Ucayali, Coronel Portillo, distrito: Masisea",375,877,1252
+250105,05,"Ucayali, Coronel Portillo, distrito: Yarinacocha",13580,510,14090
+250106,06,"Ucayali, Coronel Portillo, distrito: Nueva Requena",289,307,596
+250107,07,"Ucayali, Coronel Portillo, distrito: Manantay",11734,226,11960
+250201,01,"Ucayali, Atalaya, distrito: Raymondi",2025,2229,4254
+250202,02,"Ucayali, Atalaya, distrito: Sepahua",389,429,818
+250203,03,"Ucayali, Atalaya, distrito: Tahuania",237,715,952
+250204,04,"Ucayali, Atalaya, distrito: Yurua",107,181,288
+250301,01,"Ucayali, Padre Abad, distrito: Padre Abad",2987,721,3708
+250302,02,"Ucayali, Padre Abad, distrito: Irazola",950,455,1405
+250303,03,"Ucayali, Padre Abad, distrito: Curimana",389,516,905
+250304,04,"Ucayali, Padre Abad, distrito: Neshuya",501,507,1008
+250305,05,"Ucayali, Padre Abad, distrito: Alexander Von Humboldt",522,159,681
+250401,01,"Ucayali, Purús, distrito: Purús",133,175,308

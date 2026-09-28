@@ -1,0 +1,21 @@
+FUENTE: SUNEDU – Plataforma Nacional de Datos Abiertos (descargado el 2026-09-27 con el navegador integrado; valores sin modificar)
+
+1) sunedu_programas_universidades_corte20240828.csv
+   Dataset: https://www.datosabiertos.gob.pe/dataset/sunedu-programas-acad%C3%A9micos
+   Archivo: https://www.datosabiertos.gob.pe/sites/default/files/Programas%20de%20Universidades_8.csv
+   8 112 filas programa-local, 26 columnas, separador '|', codificación latin-1. FECHA_CORTE 2024-08-28.
+   96 universidades licenciadas; 3 592 programas de pregrado y 4 520 de posgrado.
+   Trae latitud/longitud del local y la clase de programa (CODIGO/NOMBRE_CLASE_PROGRAMA_N2) para agrupar por familia de carreras.
+
+2) sunedu_licenciamiento_institucional_corte20240828.csv
+   Dataset: https://www.datosabiertos.gob.pe/dataset/sunedu-licenciamiento-institucional
+   Archivo: https://www.datosabiertos.gob.pe/sites/default/files/Licenciamiento%20Institucional_18.csv
+   143 universidades: 96 licencia otorgada, 45 licencia denegada, 2 no presentadas. Separador '|', UTF-8.
+   Incluye ubigeo y coordenadas de la sede principal (no de las filiales de las universidades denegadas).
+
+3) sunedu_carnes_universitarios_2018.csv
+   Dataset: https://www.datosabiertos.gob.pe/dataset/sunedu-carn%C3%A9s-universitarios
+   Archivo: https://www.datosabiertos.gob.pe/sites/default/files/Carnes%20Universitarios%202018.csv (descargado el 2026-09-27)
+   5 362 filas universidad × filial × programa, 170 universidades, 1 114 910 carnés emitidos en 2018. Separador '|', latin-1.
+   Uso: sedes y filiales de las universidades luego denegadas (44 de 45) y sus programas antes del licenciamiento.
+   Los carnés son un indicador de actividad (carnés emitidos), no la matrícula total.

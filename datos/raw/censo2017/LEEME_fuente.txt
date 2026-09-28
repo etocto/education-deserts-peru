@@ -1,0 +1,24 @@
+FUENTE: INEI – Censos Nacionales 2017 (XII de Población, VII de Vivienda y III de Comunidades Indígenas),
+base REDATAM CPV2017DI, consultada el 2026-09-27 con el Procesador Estadístico en línea:
+https://censos2017.inei.gob.pe/bininei/RpWebEngine.exe/Portal?BASE=CPV2017DI&lang=esp
+
+Cada archivo de redatam/ es una lista de áreas (AREALIST) por distrito (1 874) con los conteos por categoría.
+Programa REDATAM+SP usado (se cambia la variable y el universo):
+  RUNDEF Job
+   SELECTION ALL
+   UNIVERSE POBLACIO.C5P41 >= 15 AND POBLACIO.C5P41 <= 29
+  TABLE T1
+   AS AREALIST
+   OF DISTRITO, DISTRITO.CCDI, DISTRITO.NCCDI, POBLACIO.C5P25
+
+Archivo                               Variable                                   Universo
+cpv2017_autoid_15_29.csv              C5P25 autoidentificación étnica            15 a 29 años
+cpv2017_lengua_15_29.csv              C5P11 lengua materna                       15 a 29 años
+cpv2017_nivel_25mas.csv               C5P13NIV último nivel aprobado             25 años o más
+cpv2017_area_total.csv                PAREA área urbana/rural                    toda la población
+cpv2017_area_17_24.csv                PAREA                                      17 a 24 años
+cpv2017_asiste_nivel_17_24.csv        C5P13NIV                                   17 a 24 años que asisten (C5P14 = 1)
+cpv2017_asiste_lugar_17_24.csv        C5P15 institución en el mismo u otro distrito  17 a 24 años que asisten
+
+Controles: población total 29 381 884 (cifra oficial censada); 15-29 años 7 317 534; 25+ años 16 696 619.
+Categorías (etiquetas del diccionario REDATAM): ver encabezados de cada archivo.

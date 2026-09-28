@@ -1,0 +1,101 @@
+# Configuración del proyecto "Desiertos universitarios en el Perú"
+# Todas las rutas son relativas a la raíz del proyecto.
+
+rutas:
+  raw: datos/raw
+  interim: datos/interim
+  processed: datos/processed
+  tablas: salidas/tablas
+  figuras: salidas/figuras
+  mapas: salidas/mapas
+  modelos: salidas/modelos
+  manuscrito_figuras: manuscrito_mdpi/figuras   # figuras que usa el manuscrito para Education Sciences
+  manuscrito_tablas: manuscrito/tablas
+
+archivos:
+  sunedu_programas: datos/raw/sunedu/sunedu_programas_universidades_corte20240828.csv
+  sunedu_licenciamiento: datos/raw/sunedu/sunedu_licenciamiento_institucional_corte20240828.csv
+  escale_padron: datos/raw/escale/padron_censo2025_secundaria_F0_nacional.csv
+  escale_matricula: datos/raw/escale/matricula_grado_censo2025_secundaria_F0_nacional.csv
+  escale_superior_no_univ: datos/raw/escale/padron_censo2025_superior_no_universitaria_nacional.csv
+  pobreza: datos/raw/inei/pobreza/mapa_pobreza_2018_distrital.csv
+  limites_distrital: datos/raw/limites/inei_limite_distrital_cpv2017.geojson
+  limites_provincial: datos/raw/limites/inei_limite_provincial_cpv2017.geojson
+  limites_departamental: datos/raw/limites/inei_limite_departamental_cpv2017.geojson
+  censo2017_agregado: datos/interim/censo2017_distrital.csv   # lo crea src/03_censo2017_covariables.py
+
+accesibilidad:
+  # Radios (km, distancia en línea recta) para contar programas cercanos y definir desiertos.
+  radios_km: [30, 60, 100]
+  radio_desierto_km: 60          # sin ningún programa de la familia a menos de este radio = desierto
+  # 2SFCA con decaimiento gaussiano
+  d0_km: 60                      # radio de captación
+  tipo_decaimiento: gaussiano    # gaussiano | escalon
+  # Factor para aproximar distancia por carretera desde la línea recta (análisis de sensibilidad)
+  factor_sinuosidad: [1.0, 1.3, 1.6]
+
+escenarios:
+  # "post": universidades licenciadas (corte SUNEDU 2024-08-28)
+  # "pre": licenciadas + sedes principales de universidades con licencia denegada (aproximación a la oferta antes del licenciamiento)
+  - post
+  - pre
+
+modelos:
+  semilla: 2026
+  cv_grupos: departamento        # validación cruzada espacial por departamento
+  xgboost:
+    n_estimators: 600
+    max_depth: 4
+    learning_rate: 0.03
+    subsample: 0.8
+    colsample_bytree: 0.8
+  kmeans_k: [3, 4, 5, 6]
+
+localizacion:
+  # Problema de máxima cobertura: elegir p distritos para abrir un programa de la familia f
+  p_nuevos: [5, 10, 20]
+  radio_cobertura_km: 60
+
+censo2017:
+  # Tablas por distrito obtenidas del REDATAM en línea del INEI (base CPV2017DI); ver datos/raw/censo2017/LEEME_fuente.txt
+  carpeta_redatam: datos/raw/censo2017/redatam
+
+tiempos:
+  # Red de OpenStreetMap (Geofabrik). Velocidades medias supuestas (km/h) por tipo de vía; ajustables.
+  archivo_pbf: datos/raw/osm/peru-latest.osm.pbf
+  incluir_rios: true             # ríos (waterway=river) como aproximación al transporte fluvial en la Amazonía
+  rios_departamentos: [LORETO, UCAYALI, MADRE DE DIOS, AMAZONAS, SAN MARTIN]   # solo aquí se navega por río
+  conexion_rio_via_km: 0.5       # un nodo fluvial a menos de esta distancia de una vía se une a ella (embarcadero)
+  transbordo_min: 15             # espera/transbordo al pasar de la vía al bote o viceversa
+  velocidad_acceso_kmh: 5        # tramo a pie entre el colegio/local y la vía más cercana
+  t0_min: 90                     # umbral de captación del 2SFCA con tiempos
+  umbral_desierto_min: 90        # sin programa a menos de 90 min = desierto (sensibilidad: 60 y 120)
+  velocidades_kmh:
+    motorway: 90
+    trunk: 80
+    primary: 70
+    secondary: 55
+    tertiary: 45
+    unclassified: 35
+    residential: 25
+    living_street: 15
+    service: 15
+    track: 15
+    road: 30
+    motorway_link: 50
+    trunk_link: 45
+    primary_link: 40
+    secondary_link: 35
+    tertiary_link: 30
+    river: 12                    # bote a motor (peque-peque) aguas arriba/abajo, valor medio
+    ferry: 15
+
+costos:
+  # Supuestos para el análisis de costo-efectividad de las nuevas sedes (paso 14). Todos en soles corrientes.
+  inversion_sede_soles: [6000000, 33000000]      # rango: UNSA filial Camaná (~S/6 M, 2021, ~300 alumnos)
+                                                 # y UNH pabellón de ingeniería (~S/33 M) como cota alta de una sede completa
+  gasto_corriente_alumno_anual: [18016, 49220]   # CAPPES (2026), gasto por alumno 2024: universidades grandes vs pequeñas
+  vida_util_anios: 30                            # para anualizar la inversión
+  tasa_descuento: 0.08                           # tasa social de descuento (supuesto; ajustar a la vigente del MEF)
+  duracion_carrera_anios: 5
+  retencion: 0.7                                 # fracción de ingresantes que permanece (supuesto)

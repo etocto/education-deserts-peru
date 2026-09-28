@@ -1,0 +1,4 @@
+modelo,b_pobreza,se_pobreza,p_pobreza,b_rural,se_rural,p_rural,b_pct_autoid_indigena,se_pct_autoid_indigena,p_pct_autoid_indigena,b_log_quinto,se_log_quinto,p_log_quinto,moran_residuos,LM_lag,LM_error,robust_LM_lag,robust_LM_error,rho,p_rho,lambda
+OLS,-0.0094,0.0043,0.029,-0.006,0.0015,0.0001,-0.0025,0.0021,0.229,0.2699,0.0349,0.0,0.6979,2300.4329,2073.9605,231.8776,5.4052,,,
+SAR (ML_Lag),-0.0035,0.0018,0.0582,-0.0014,0.0007,0.0291,-0.0018,0.0009,0.0445,0.0659,0.015,0.0,,,,,,0.9178,0.0,
+SEM (ML_Error),-0.0048,0.0021,0.0208,-0.0008,0.0006,0.1933,-0.0023,0.0011,0.0424,0.0708,0.018,0.0001,,,,,,,,0.9437

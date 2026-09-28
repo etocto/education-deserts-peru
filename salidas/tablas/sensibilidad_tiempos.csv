@@ -1,0 +1,181 @@
+escenario,familia,umbral_min,pct_desierto,quinto_desierto
+base,Total,60,16.03,86131
+base,Total,90,10.2,54817
+base,Total,120,7.01,37677
+base,Educación,60,26.98,145017
+base,Educación,90,20.05,107747
+base,Educación,120,13.75,73892
+base,Artes y humanidades,60,43.02,231226
+base,Artes y humanidades,90,36.35,195383
+base,Artes y humanidades,120,29.2,156917
+base,"Ciencias sociales, periodismo y derecho",60,22.79,122474
+base,"Ciencias sociales, periodismo y derecho",90,16.53,88823
+base,"Ciencias sociales, periodismo y derecho",120,11.56,62149
+base,Administración y negocios,60,18.7,100510
+base,Administración y negocios,90,12.59,67663
+base,Administración y negocios,120,8.57,46042
+base,"Ciencias naturales, matemáticas e informática",60,24.97,134216
+base,"Ciencias naturales, matemáticas e informática",90,19.14,102844
+base,"Ciencias naturales, matemáticas e informática",120,13.59,73048
+base,"Ingeniería, industria y construcción",60,20.53,110341
+base,"Ingeniería, industria y construcción",90,13.72,73723
+base,"Ingeniería, industria y construcción",120,9.6,51602
+base,Agropecuaria y ambiente,60,17.57,94423
+base,Agropecuaria y ambiente,90,11.51,61871
+base,Agropecuaria y ambiente,120,7.75,41677
+base,Salud y bienestar,60,22.77,122380
+base,Salud y bienestar,90,15.91,85507
+base,Salud y bienestar,120,10.94,58820
+base,Servicios,60,35.06,188450
+base,Servicios,90,26.4,141864
+base,Servicios,120,18.51,99509
+vias_x0.75,Total,60,19.77,106236
+vias_x0.75,Total,90,14.01,75302
+vias_x0.75,Total,120,10.12,54380
+vias_x0.75,Educación,60,31.82,171039
+vias_x0.75,Educación,90,25.16,135228
+vias_x0.75,Educación,120,19.98,107403
+vias_x0.75,Artes y humanidades,60,46.18,248221
+vias_x0.75,Artes y humanidades,90,41.77,224496
+vias_x0.75,Artes y humanidades,120,36.27,194924
+vias_x0.75,"Ciencias sociales, periodismo y derecho",60,27.22,146277
+vias_x0.75,"Ciencias sociales, periodismo y derecho",90,21.02,112972
+vias_x0.75,"Ciencias sociales, periodismo y derecho",120,16.47,88527
+vias_x0.75,Administración y negocios,60,23.36,125537
+vias_x0.75,Administración y negocios,90,17.15,92185
+vias_x0.75,Administración y negocios,120,12.53,67317
+vias_x0.75,"Ciencias naturales, matemáticas e informática",60,29.26,157252
+vias_x0.75,"Ciencias naturales, matemáticas e informática",90,23.71,127405
+vias_x0.75,"Ciencias naturales, matemáticas e informática",120,19.08,102535
+vias_x0.75,"Ingeniería, industria y construcción",60,24.89,133755
+vias_x0.75,"Ingeniería, industria y construcción",90,18.44,99082
+vias_x0.75,"Ingeniería, industria y construcción",120,13.67,73446
+vias_x0.75,Agropecuaria y ambiente,60,21.86,117475
+vias_x0.75,Agropecuaria y ambiente,90,15.68,84258
+vias_x0.75,Agropecuaria y ambiente,120,11.42,61399
+vias_x0.75,Salud y bienestar,60,27.19,146121
+vias_x0.75,Salud y bienestar,90,21.08,113273
+vias_x0.75,Salud y bienestar,120,15.86,85216
+vias_x0.75,Servicios,60,39.46,212073
+vias_x0.75,Servicios,90,33.57,180442
+vias_x0.75,Servicios,120,26.29,141281
+vias_x1.25,Total,60,12.57,67567
+vias_x1.25,Total,90,7.83,42109
+vias_x1.25,Total,120,4.77,25657
+vias_x1.25,Educación,60,23.91,128525
+vias_x1.25,Educación,90,15.01,80665
+vias_x1.25,Educación,120,9.9,53184
+vias_x1.25,Artes y humanidades,60,40.88,219732
+vias_x1.25,Artes y humanidades,90,31.02,166723
+vias_x1.25,Artes y humanidades,120,24.29,130554
+vias_x1.25,"Ciencias sociales, periodismo y derecho",60,19.59,105301
+vias_x1.25,"Ciencias sociales, periodismo y derecho",90,12.52,67271
+vias_x1.25,"Ciencias sociales, periodismo y derecho",120,7.74,41598
+vias_x1.25,Administración y negocios,60,15.55,83584
+vias_x1.25,Administración y negocios,90,9.37,50344
+vias_x1.25,Administración y negocios,120,5.83,31314
+vias_x1.25,"Ciencias naturales, matemáticas e informática",60,22.22,119435
+vias_x1.25,"Ciencias naturales, matemáticas e informática",90,14.87,79935
+vias_x1.25,"Ciencias naturales, matemáticas e informática",120,9.9,53190
+vias_x1.25,"Ingeniería, industria y construcción",60,16.67,89575
+vias_x1.25,"Ingeniería, industria y construcción",90,10.45,56159
+vias_x1.25,"Ingeniería, industria y construcción",120,7.02,37750
+vias_x1.25,Agropecuaria y ambiente,60,14.14,76016
+vias_x1.25,Agropecuaria y ambiente,90,8.62,46354
+vias_x1.25,Agropecuaria y ambiente,120,5.53,29723
+vias_x1.25,Salud y bienestar,60,19.5,104826
+vias_x1.25,Salud y bienestar,90,12.03,64631
+vias_x1.25,Salud y bienestar,120,7.79,41874
+vias_x1.25,Servicios,60,32.21,173127
+vias_x1.25,Servicios,90,20.2,108559
+vias_x1.25,Servicios,120,13.86,74505
+rio_10.6,Total,60,16.03,86142
+rio_10.6,Total,90,10.2,54833
+rio_10.6,Total,120,7.05,37889
+rio_10.6,Educación,60,26.98,145028
+rio_10.6,Educación,90,20.05,107749
+rio_10.6,Educación,120,13.75,73905
+rio_10.6,Artes y humanidades,60,43.02,231226
+rio_10.6,Artes y humanidades,90,36.35,195383
+rio_10.6,Artes y humanidades,120,29.2,156917
+rio_10.6,"Ciencias sociales, periodismo y derecho",60,22.79,122474
+rio_10.6,"Ciencias sociales, periodismo y derecho",90,16.53,88825
+rio_10.6,"Ciencias sociales, periodismo y derecho",120,11.56,62149
+rio_10.6,Administración y negocios,60,18.7,100510
+rio_10.6,Administración y negocios,90,12.59,67679
+rio_10.6,Administración y negocios,120,8.57,46058
+rio_10.6,"Ciencias naturales, matemáticas e informática",60,24.97,134227
+rio_10.6,"Ciencias naturales, matemáticas e informática",90,19.14,102852
+rio_10.6,"Ciencias naturales, matemáticas e informática",120,13.59,73064
+rio_10.6,"Ingeniería, industria y construcción",60,20.53,110352
+rio_10.6,"Ingeniería, industria y construcción",90,13.72,73731
+rio_10.6,"Ingeniería, industria y construcción",120,9.6,51602
+rio_10.6,Agropecuaria y ambiente,60,17.57,94434
+rio_10.6,Agropecuaria y ambiente,90,11.51,61873
+rio_10.6,Agropecuaria y ambiente,120,7.79,41860
+rio_10.6,Salud y bienestar,60,22.77,122391
+rio_10.6,Salud y bienestar,90,15.91,85509
+rio_10.6,Salud y bienestar,120,10.95,58836
+rio_10.6,Servicios,60,35.06,188450
+rio_10.6,Servicios,90,26.4,141864
+rio_10.6,Servicios,120,18.51,99509
+rio_18.0,Total,60,16.02,86082
+rio_18.0,Total,90,10.18,54729
+rio_18.0,Total,120,6.94,37301
+rio_18.0,Educación,60,26.98,145009
+rio_18.0,Educación,90,20.04,107717
+rio_18.0,Educación,120,13.73,73773
+rio_18.0,Artes y humanidades,60,43.02,231226
+rio_18.0,Artes y humanidades,90,36.35,195383
+rio_18.0,Artes y humanidades,120,29.19,156908
+rio_18.0,"Ciencias sociales, periodismo y derecho",60,22.79,122463
+rio_18.0,"Ciencias sociales, periodismo y derecho",90,16.52,88793
+rio_18.0,"Ciencias sociales, periodismo y derecho",120,11.55,62076
+rio_18.0,Administración y negocios,60,18.7,100481
+rio_18.0,Administración y negocios,90,12.58,67610
+rio_18.0,Administración y negocios,120,8.54,45880
+rio_18.0,"Ciencias naturales, matemáticas e informática",60,24.97,134208
+rio_18.0,"Ciencias naturales, matemáticas e informática",90,19.13,102802
+rio_18.0,"Ciencias naturales, matemáticas e informática",120,13.58,72972
+rio_18.0,"Ingeniería, industria y construcción",60,20.53,110341
+rio_18.0,"Ingeniería, industria y construcción",90,13.71,73667
+rio_18.0,"Ingeniería, industria y construcción",120,9.59,51525
+rio_18.0,Agropecuaria y ambiente,60,17.56,94400
+rio_18.0,Agropecuaria y ambiente,90,11.5,61816
+rio_18.0,Agropecuaria y ambiente,120,7.69,41317
+rio_18.0,Salud y bienestar,60,22.77,122380
+rio_18.0,Salud y bienestar,90,15.91,85484
+rio_18.0,Salud y bienestar,120,10.93,58742
+rio_18.0,Servicios,60,35.06,188450
+rio_18.0,Servicios,90,26.4,141864
+rio_18.0,Servicios,120,18.51,99500
+sin_rios,Total,60,16.25,87352
+sin_rios,Total,90,10.49,56377
+sin_rios,Total,120,7.36,39537
+sin_rios,Educación,60,27.1,145646
+sin_rios,Educación,90,20.19,108524
+sin_rios,Educación,120,13.93,74856
+sin_rios,Artes y humanidades,60,43.04,231323
+sin_rios,Artes y humanidades,90,36.39,195599
+sin_rios,Artes y humanidades,120,29.23,157119
+sin_rios,"Ciencias sociales, periodismo y derecho",60,22.83,122724
+sin_rios,"Ciencias sociales, periodismo y derecho",90,16.62,89316
+sin_rios,"Ciencias sociales, periodismo y derecho",120,11.7,62888
+sin_rios,Administración y negocios,60,18.85,101302
+sin_rios,Administración y negocios,90,12.81,68825
+sin_rios,Administración y negocios,120,8.85,47541
+sin_rios,"Ciencias naturales, matemáticas e informática",60,25.03,134515
+sin_rios,"Ciencias naturales, matemáticas e informática",90,19.23,103346
+sin_rios,"Ciencias naturales, matemáticas e informática",120,13.73,73813
+sin_rios,"Ingeniería, industria y construcción",60,20.59,110649
+sin_rios,"Ingeniería, industria y construcción",90,13.82,74278
+sin_rios,"Ingeniería, industria y construcción",120,9.74,52372
+sin_rios,Agropecuaria y ambiente,60,17.78,95557
+sin_rios,Agropecuaria y ambiente,90,11.8,63413
+sin_rios,Agropecuaria y ambiente,120,8.06,43320
+sin_rios,Salud y bienestar,60,22.82,122650
+sin_rios,Salud y bienestar,90,16.03,86148
+sin_rios,Salud y bienestar,120,11.06,59463
+sin_rios,Servicios,60,35.08,188547
+sin_rios,Servicios,90,26.44,142080
+sin_rios,Servicios,120,18.56,99766

@@ -1,0 +1,17 @@
+FUENTE: Minedu – ESCALE, Censo Educativo 2025 (descargado el 2026-09-27 con el navegador integrado; valores sin modificar)
+Carpeta oficial: https://escale.minedu.gob.pe/uee/-/document_library_display/GMv7/view/10632985
+
+1) padron_censo2025_secundaria_F0_nacional.csv  (15 700 servicios activos, 30 columnas, '|')
+   Origen: 00_Padron.zip -> Padron.dbf (112 724 registros). Filtro: NIV_MOD = F0 (secundaria de menores).
+   Se excluyeron columnas de datos personales o de contacto (director, teléfono, correo, RUC, promotor).
+   Incluye coordenadas (NLAT_IE, NLONG_IE), ubigeo (CODGEO), área censal y total de alumnos (TALUM = 2 998 063).
+
+2) matricula_grado_censo2025_secundaria_F0_nacional.csv  (15 700 servicios, '|')
+   Origen: 01_Matricula_01.zip -> Matricula_01.dbf (178 425 registros), cuadro C201, NIV_MOD = F0.
+   Suma de D01..D10 sobre todos los TIPDATO por COD_MOD+ANEXO. G5_H + G5_M = 5.º grado.
+   Control: total 2 998 063 (= TALUM del padrón); 5.º grado nacional 537 451; Puno 20 487.
+
+3) padron_censo2025_superior_no_universitaria_nacional.csv  (934 servicios, '|')
+   Mismo padrón, NIV_MOD K0 (pedagógico, 133), T0 (tecnológico, 769) y M0 (artística, 32).
+
+Diccionario: https://escale.minedu.gob.pe/documents/10156/10632985/00_Diccionario+de+datos_CE_2025.pdf

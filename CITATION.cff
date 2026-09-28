@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Education deserts after university licensing in Peru: code and data"
+type: software
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+repository-code: "https://github.com/etocto/education-deserts-peru"
+keywords:
+  - education deserts
+  - geography of opportunity
+  - higher education access
+  - university licensing
+  - travel time
+  - Peru
+authors:
+  - family-names: Tocto-Cano
+    given-names: Esteban
+    orcid: "https://orcid.org/0000-0003-4729-4192"
+    email: estocan@upeu.edu.pe
+    affiliation: "Universidad Peruana Unión, Juliaca, Peru"
+  - family-names: Condori-Coaquira
+    given-names: Angel Rosendo
+    orcid: "https://orcid.org/0000-0003-4681-4272"
+    affiliation: "Universidad Peruana Unión, Juliaca, Peru"
+  - family-names: Mamani Morales
+    given-names: Rosa Linda
+    affiliation: "Universidad Peruana Unión, Juliaca, Peru"
+  - family-names: Humpiri-Flores
+    given-names: Milton Edward
+    orcid: "https://orcid.org/0009-0006-9189-0994"
+    affiliation: "Universidad Peruana Unión, Juliaca, Peru"

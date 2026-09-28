@@ -1,0 +1,15 @@
+{
+  "title": "Education deserts after university licensing in Peru: code and data",
+  "upload_type": "software",
+  "description": "<p>Python pipeline, public source data and derived datasets that reproduce every table and figure of the article <em>Education Deserts after University Licensing: Geographic and Field-Specific Access to Undergraduate Programs in Peru</em>. It measures university deserts by field of study with straight-line distance and road and river travel time, estimates their territorial correlates and association with participation, simulates the effect of the SUNEDU license denials, and solves a maximal covering location model.</p>",
+  "creators": [
+    {"name": "Tocto-Cano, Esteban", "affiliation": "Universidad Peruana Unión", "orcid": "0000-0003-4729-4192"},
+    {"name": "Condori-Coaquira, Angel Rosendo", "affiliation": "Universidad Peruana Unión", "orcid": "0000-0003-4681-4272"},
+    {"name": "Mamani Morales, Rosa Linda", "affiliation": "Universidad Peruana Unión"},
+    {"name": "Humpiri-Flores, Milton Edward", "affiliation": "Universidad Peruana Unión", "orcid": "0009-0006-9189-0994"}
+  ],
+  "keywords": ["education deserts", "geography of opportunity", "higher education access", "university licensing", "travel time", "Peru"],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng"
+}

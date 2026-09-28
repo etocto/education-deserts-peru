@@ -1,0 +1,29 @@
+# --- Entorno de Python ---
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# --- Datos grandes que se descargan o se regeneran con los scripts ---
+datos/raw/osm/*.pbf
+datos/processed/*
+# ...excepto los tiempos de viaje, que dependen del extracto de OSM de la fecha de descarga
+!datos/processed/tiempos_colegios.csv
+!datos/processed/accesibilidad_tiempo_distritos.csv
+!datos/processed/sensibilidad_colegios.csv.gz
+
+# --- Manuscrito: se publica en el repositorio cuando el artículo sea aceptado ---
+manuscrito/
+manuscrito_mdpi/
+*.zip
+*.pdf
+
+# --- Literatura con derechos de terceros (PDF y exportaciones de Scopus con resúmenes) ---
+literatura/pdf/
+literatura/scopus_exports/
+literatura/cribado_*.csv
+
+# --- Notas internas del proyecto ---
+NOTAS_INTERNAS.md

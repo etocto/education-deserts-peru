@@ -1,0 +1,6 @@
+FUENTE: INEI (2020). Mapa de Pobreza Monetaria Provincial y Distrital 2018.
+https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1718/Libro.pdf  (303 págs.)
+Extraído el 2026-09-27: Anexo N° 2 (págs. 96-151), texto por filas con pdf.js -> mapa_pobreza_2018_anexo2_texto.tsv
+mapa_pobreza_2018_distrital.csv: 1 874 distritos; ubigeo, sufijo de agrupamiento, población proyectada 2020,
+intervalo de confianza al 95 % de la pobreza monetaria total, ubicación (ranking) y punto medio del intervalo (calculado).
+Control: población total 32 625 948.

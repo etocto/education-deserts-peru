@@ -1,0 +1,11 @@
+familia,pct_base,pct_min,pct_max,cv_pct,rango_rank,pct_estable,pct_siempre_desierto,pct_estable_rio,pct_siempre_desierto_rio
+Total,10.2,7.83,14.01,17.3,0,93.59,7.83,99.69,10.18
+Educación,20.05,15.01,25.16,14.59,0,89.72,15.0,99.85,20.04
+Artes y humanidades,36.35,31.02,41.77,8.53,0,89.23,31.02,99.96,36.35
+"Ciencias sociales, periodismo y derecho",16.53,12.52,21.02,14.78,1,91.43,12.51,99.9,16.52
+Administración y negocios,12.59,9.37,17.15,17.64,0,92.04,9.36,99.77,12.58
+"Ciencias naturales, matemáticas e informática",19.14,14.87,23.71,13.29,0,91.1,14.87,99.9,19.13
+"Ingeniería, industria y construcción",13.72,10.45,18.44,16.67,0,91.94,10.45,99.89,13.71
+Agropecuaria y ambiente,11.51,8.62,15.68,17.49,0,92.74,8.62,99.7,11.5
+Salud y bienestar,15.91,12.03,21.08,16.28,1,90.89,12.02,99.88,15.91
+Servicios,26.4,20.2,33.57,14.55,0,86.6,20.2,99.96,26.4
