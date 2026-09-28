@@ -67,11 +67,14 @@ def main():
     ins = pd.read_csv(ruta("tablas") / "institutos_en_desiertos.csv").set_index("familia")
     asis = pd.read_csv(ruta("tablas") / "asistencia_modelos.csv")
     coef = asis[(asis.dependiente == "asiste") & (asis.acceso == "desierto")].coef.iloc[0] * 100
+    oster = pd.read_csv(ruta("tablas") / "oster_asistencia.csv")          # paso 10b: estimación corregida (Oster)
+    coef_oster = oster[oster.acceso == "desierto"].beta_corregido_delta1.iloc[0] * 100
+    brecha_min, brecha_max = sorted([abs(coef_oster), abs(coef)])        # rango 5-7 pp, como en el resumen y la Tabla 9
     cifras = [
         ("18,074", "students in hidden deserts:\nwithin 60 km but >90 min away (poorest group)"),
-        (f"{abs(coef):.1f} pp", "lower higher-education attendance\nin full deserts (youth 17-24)"),
+        (f"{brecha_min:.0f}\u2013{brecha_max:.0f} pp", "lower higher-education attendance\nin full deserts (youth 17-24)"),
         (f"-{lic.loc['Total', 'caida_pct_oferta_60km']:.1f}%", "nearby supply after 45 license\ndenials; poorer districts pushed into deserts"),
-        (f"{ins.loc['Total', 'pct_con_instituto']:.0f}%", "of students in deserts have a (mostly public)\ninstitute within 60 km: a pathway to degrees"),
+        (f"{ins.loc['Total', 'pct_con_instituto']:.0f}%", "of students with no university within 60 km\nhave a (mostly public) institute nearby"),
     ]
     for k, (num, txt) in enumerate(cifras):
         y = 0.78 - k * 0.19
