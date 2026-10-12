@@ -228,7 +228,7 @@ def tablas_fase1(tot):
                                    f"{p1(rb.loc[f, 'pct_min'])}--{p1(rb.loc[f, 'pct_max'])}", p1(rb.loc[f, "pct_estable"])] for f in ORDEN],
              [r"\textbf{Field}", r"\textbf{60 min}", r"\textbf{90 min}", r"\textbf{120 min}", r"\textbf{\makecell{90 min, range\\across speeds}}",
               r"\textbf{\makecell{Classified\\identically (\%)}}"], r"p{4.2cm}rrrrr",
-             r"Columns 2--4: share of final-year students (\%) beyond each travel-time threshold at base speeds. Column 5: range of the 90-minute share across six speed scenarios (road speeds $\times$0.75, $\times$1.25 and alternative boat speeds). Column 6: share of students classified identically (in or out of a 90-minute desert) in all six scenarios.")
+             r"Columns 2--4: share of final-year students (\%) beyond each travel-time threshold at base speeds. Column 5: range of the 90-minute share across six speed scenarios: base, road speeds $\times$0.75 and $\times$1.25, boats at 10.6 and 18.0 km/h, and roads only (no river network). Column 6: share of students classified identically (in or out of a 90-minute desert) in all six scenarios.")
 
     # calibración de velocidades (paso 32)
     cv = pd.read_csv(T / "calibracion_velocidades.csv")
@@ -357,7 +357,7 @@ def tablas_fase1(tot):
                r"\toprule", r"\textbf{Sec.} & \textbf{Figure cited in the article} & \textbf{Value} & \textbf{Output table (repository)} \\", r"\midrule", r"\endhead",
                r"\bottomrule", r"\multicolumn{4}{p{0.95\textwidth}}{\footnotesize Values computed from unrounded outputs and rounded once, half up: percentages to one decimal and counts to integers. Section numbers refer to the article.}\\", r"\endlastfoot"]
         for r in c.itertuples():
-            lin.append(" & ".join([r.seccion, r.cifra.replace("%", r"\%").replace("...", r"\ldots"), r.valor, r.fuente.replace("_", r"\_").replace("; ", r"; \newline ")]) + r" \\")
+            lin.append(" & ".join([r.seccion, r.cifra.replace("%", r"\%").replace("...", r"\ldots"), r.valor, r.fuente.replace("_", r"\_\allowbreak{}").replace("; ", r"; \newline ")]) + r" \\")
         lin += [r"\end{longtable}", r"\endgroup"]
         (DEST / "tabS_cifras.tex").write_text("\n".join(lin) + "\n", encoding="utf-8")
         print("  -> tabS_cifras")
@@ -430,9 +430,12 @@ def tablas_v3():
         ub = pd.read_csv(T / "filiales_ubicacion_alternativa.csv")
         n_osm = int(ub.metodo_osm.str.startswith("OSM").sum())
         n_fil = int((ub.metodo_osm != "sede (SUNEDU)").sum())
+        lejos = ub[ub.metodo_osm != "sede (SUNEDU)"].drop_duplicates("ubigeo").sort_values("km_a_punto_distrito", ascending=False)
+        km_pu = lejos.loc[lejos.ubigeo.astype(str).str.zfill(6) == "250101", "km_a_punto_distrito"].max()
+        km_pm = lejos.loc[lejos.ubigeo.astype(str).str.zfill(6) == "170101", "km_a_punto_distrito"].max()
         escribir("tabS_filiales", filas, [r"\textbf{Field}", r"\textbf{Branch location}", r"\textbf{\makecell{Licensing-related,\\2024 supply}}",
                                            r"\textbf{\makecell{Adding six\\relicensed}}", r"\textbf{\makecell{Puno,\\2024 supply}}"], "llrrr",
-                 rf"Final-year students in licensing-related deserts by distance under alternative locations of the 2018 branches of denied universities (headquarters keep SUNEDU's coordinates). OpenStreetMap locality: populated place with the branch's city name inside its district ({n_osm} of {n_fil} branches matched; the rest keep the base location). $\pm$5 km: branches shifted 5 km in eight directions.", primera_regla=0)
+                 rf"Final-year students in licensing-related deserts by distance under alternative locations of the 2018 branches of denied universities (headquarters keep SUNEDU's coordinates). OpenStreetMap locality: populated place with the branch's city name inside its district ({n_osm} of {n_fil} branches matched; the rest keep the base location). $\pm$5 km: branches shifted 5 km in eight directions. District representative point: it falls far from the branch's city in large Amazonian districts ({km_pu:.0f} km from Pucallpa and {km_pm:.0f} km from Puerto Maldonado), so it is not a plausible location there; the fall in services with relicensed universities under this alternative reflects that displacement.", primera_regla=0)
     # M4: logit fraccional, errores espaciales
     le = T / "logit_fraccional_espacial.csv"
     if le.exists():

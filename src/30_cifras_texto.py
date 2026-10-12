@@ -46,7 +46,7 @@ def main():
         ("Secondary schools", "Schools in districts created after 2017 (reassigned by location)", int((col.ubigeo_censal != col.ubigeo_2025).sum()) if "ubigeo_censal" in col else np.nan),
         ("Districts", "Districts (2017 geography) with final-year students", int((base_d.quinto > 0).sum())),
         ("University supply", "Undergraduate programmes of licensed universities open to secondary graduates", len(prog)),
-        ("University supply", "... classified by SUNEDU class / by keyword / corrected manually", " / ".join(str(int((prog.familia_origen == k).sum())) for k in ["N2", "regla", "manual"])),
+        ("University supply", "... classified by SUNEDU class / by keyword / corrected manually", " / ".join(f"{int((prog.familia_origen == k).sum()):,}" for k in ["N2", "regla", "manual"])),
         ("University supply", "Campuses with coordinates (public / private)", f"{len(locs)} ({int((locs.gestion == 'PUBLICO').sum())} / {int((locs.gestion == 'PRIVADO').sum())})"),
         ("Non-university supply", "Higher education institutes (technological / pedagogical / arts)", f"{len(ins)} ({int((ins.D_NIV_MOD == 'Instituto Superior Tecnológico').sum())} / {int((ins.D_NIV_MOD == 'Instituto Superior Pedagógico').sum())} / {int((ins.D_NIV_MOD == 'Escuela Formación Artística').sum())})"),
         ("Non-university supply", "... public", int(ins.D_GESTION.str.startswith("Pública").sum())),
@@ -55,12 +55,14 @@ def main():
     flujo += [("Denied universities (2018)", "Universities with a denied licence in the open data (28 August 2024)", 45),
               ("Denied universities (2018)", "... with records in the 2018 identity-card register", int(den0.codigo_entidad.nunique())),
               ("Denied universities (2018)", "Headquarters and branches located (districts)", f"{len(den0)} ({den0.ubigeo.nunique()})"),
+              ("Denied universities (2018)", "... headquarters / branches (two universities have only branches in the register)",
+               f"{int(den0.id_local.str.endswith('-SEDE').sum())} / {int((~den0.id_local.str.endswith('-SEDE')).sum())}"),
               ("Denied universities (2018)", "Undergraduate programmes at those sites", int(den0.n_programas.sum()))]
     fl = pd.DataFrame(flujo, columns=["bloque", "unidad", "n"])
     guardar(fl, "flujo_unidades.csv", "tablas")
     add("4.1", "Active regular secondary schools with coordinates", ent(len(col)), "demanda_colegios.csv")
     add("4.1", "Undergraduate programmes of licensed universities", ent(len(prog)), "oferta_programas_pregrado.csv")
-    add("4.1", "... without an official field class (assigned by keyword) / corrected manually",
+    add("4.1", "... without an official field class: assigned by keyword / manually",
         f"{int((prog.familia_origen == 'regla').sum())} / {int((prog.familia_origen == 'manual').sum())}", "oferta_programas_pregrado.csv")
     add("4.1", "Campuses of licensed universities (public / private)", f"{len(locs)} ({int((locs.gestion == 'PUBLICO').sum())} / {int((locs.gestion == 'PRIVADO').sum())})", "oferta_locales.csv")
     add("4.1", "Higher education institutes (technological / pedagogical / arts; public)",
@@ -110,7 +112,6 @@ def main():
     por_dep = d.groupby("departamento").apply(lambda x: 100 * x.quinto[x.structural].sum() / x.quinto.sum())
     for dep_ in ["MADRE DE DIOS", "LORETO"]:
         add("5.3", f"Structural deserts, share of final-year students in {dep_.title().replace(' De ', ' de ')} (%)", pct(por_dep[dep_]), "accesibilidad_colegios.csv; tiempos_colegios.csv")
-    add("5.3", "Licensing-related by distance, Puno, also beyond 90 min (students)", ent(d.quinto[d.lic_ambos & (d.departamento == "PUNO")].sum()), "accesibilidad_colegios.csv; tiempos_colegios.csv")
 
     # --- 5.3 Efecto del licenciamiento
     f = pd.read_csv(T / "efecto_licenciamiento_familias.csv").set_index("familia")
@@ -122,7 +123,7 @@ def main():
     nd = pd.read_csv(T / "efecto_licenciamiento_distritos.csv", dtype={"ubigeo": str})
     base = pd.read_csv(ruta("processed") / "distritos_base.csv", dtype={"ubigeo": str})
     base = base[base.quinto > 0]
-    add("5.3", "Districts with schools that have a programme within 60 km only in the reconstructed scenario", ent(len(nd)), "efecto_licenciamiento_distritos.csv")
+    add("5.3", "Districts with schools that have no licensed programme within 60 km but had one in the reconstructed scenario", ent(len(nd)), "efecto_licenciamiento_distritos.csv")
     add("5.3", "Mean poverty of those districts (%)", pct(nd.pobreza_punto_medio.mean()), "efecto_licenciamiento_distritos.csv")
     add("5.3", "Mean poverty of the other districts (%)", pct(base[~base.ubigeo.isin(nd.ubigeo)].pobreza_punto_medio.mean()), "distritos_base.csv")
     r = pd.read_csv(T / "escenario_relicenciadas.csv").set_index("familia")
@@ -138,19 +139,21 @@ def main():
         a2 = a2[(a2.escenario == "post") & (a2.factor_sinuosidad == 1.0)].merge(r, on=["COD_MOD", "ANEXO"])
         for fam, en in [("Educación", "education"), ("Ciencias naturales, matemáticas e informática", "natural sciences and ICT")]:
             z = a2[(a2.familia == fam) & (a2.desierto == 1)]
-            add("6.2", f"Students in {en} deserts in highland or Amazonian schools (%)", pct(100 * z.quinto[z.region_natural != "costa"].sum() / z.quinto.sum()), "accesibilidad_colegios.csv; relieve_colegios.csv")
+            add("6.2", f"Students in {en} deserts (60 km) in highland or Amazonian schools (%)", pct(100 * z.quinto[z.region_natural != "costa"].sum() / z.quinto.sum()), "accesibilidad_colegios.csv; relieve_colegios.csv")
         z = a2[a2.familia == "Total"]
         add("6.2", "All final-year students in highland or Amazonian schools (%)", pct(100 * z.quinto[z.region_natural != "costa"].sum() / z.quinto.sum()), "relieve_colegios.csv")
 
     # --- 5.4 Institutos
     i = pd.read_csv(T / "institutos_en_desiertos.csv").set_index("familia")
-    add("5.4", "Students in any-field deserts with a higher education institute within 60 km (%)", pct(i.loc["Total", "pct_con_instituto"]), "institutos_en_desiertos.csv")
+    add("5.4", "Students in any-field deserts (60 km) with a higher education institute within 60 km (%)", pct(i.loc["Total", "pct_con_instituto"]), "institutos_en_desiertos.csv")
     add("5.4", "... with a public institute (%)", pct(i.loc["Total", "pct_con_instituto_publico"]), "institutos_en_desiertos.csv")
-    add("5.4", "Students in education deserts with a pedagogical institute within 60 km (%)", pct(i.loc["Educación", "pct_con_instituto"]), "institutos_en_desiertos.csv")
+    add("5.4", "Students in education deserts (60 km) with a pedagogical institute within 60 km (%)", pct(i.loc["Educación", "pct_con_instituto"]), "institutos_en_desiertos.csv")
     add("5.4", "... with a public pedagogical institute (%)", pct(i.loc["Educación", "pct_con_instituto_publico"]), "institutos_en_desiertos.csv")
-    add("5.4", "Students in arts deserts with an arts school within 60 km (%)", pct(i.loc["Artes y humanidades", "pct_con_instituto"]), "institutos_en_desiertos.csv")
+    add("5.4", "Students in arts deserts (60 km) with an arts school within 60 km (%)", pct(i.loc["Artes y humanidades", "pct_con_instituto"]), "institutos_en_desiertos.csv")
 
     t = pd.DataFrame(filas)
+    clave = t.seccion.map(lambda x: 100 * int(x.split(".")[0]) + int(x.split(".")[1]))
+    t = t.iloc[np.argsort(clave.to_numpy(), kind="stable")].reset_index(drop=True)   # en el orden del artículo
     guardar(t, "cifras_texto.csv", "tablas")
     print(t.to_string(index=False))
 

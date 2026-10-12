@@ -10,6 +10,8 @@ Salida: datos/manual/muestra_verificacion_manual.csv
 """
 from __future__ import annotations
 
+import sys
+
 import numpy as np
 import pandas as pd
 
@@ -44,6 +46,9 @@ def main(n_por_grupo: int = 5):
                         "verificado_distancia": "", "verificado_tiempo_plausible": "", "verificado_categoria": "", "nota": ""})
     assert np.allclose(out.distancia_km, out.distancia_recalculada_km, atol=0.1), "la distancia guardada no coincide con la recalculada"
     p = RAIZ / "datos/manual/muestra_verificacion_manual.csv"
+    if p.exists() and "--forzar" not in sys.argv:
+        print(f"{p.relative_to(RAIZ)} ya existe y está verificada a mano; no se sobrescribe (usar --forzar)")
+        return
     out.to_csv(p, index=False, encoding="utf-8")
     print(f"muestra de verificación: {p.relative_to(RAIZ)} ({len(out)} colegios)")
     print(out[["colegio", "departamento", "distancia_km", "tiempo_modelado_min", "origen"]].to_string(index=False))

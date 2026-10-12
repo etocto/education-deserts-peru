@@ -12,9 +12,8 @@ import importlib.util
 from array import array
 
 import numpy as np
-from scipy.sparse import coo_matrix
 
-from utils import CFG, RAIZ, ruta
+from utils import CFG, RAIZ, matriz_minimos, ruta
 
 T = CFG["tiempos"]
 R_KM = 6371.0088
@@ -120,7 +119,7 @@ def grafo_desde(lat, a, b, d, tp, tipos, vel, puertos):
         aa, bb, t = np.r_[aa, puertos[0]], np.r_[bb, puertos[1]], np.r_[t, puertos[2]]
     t = np.maximum(t, 1e-6)
     n = len(lat)
-    return coo_matrix((np.r_[t, t], (np.r_[aa, bb], np.r_[bb, aa])), shape=(n, n)).tocsr()
+    return matriz_minimos(np.r_[aa, bb], np.r_[bb, aa], np.r_[t, t], n)
 
 
 def construir_red(path, vel=None):

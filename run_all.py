@@ -3,6 +3,7 @@
     python run_all.py 4 5        # solo los pasos indicados
     python run_all.py 26 24      # fase 1: tiempos a la oferta 2018 (N3) y tablas
     python run_all.py 36 34 37 35 38 28 30 24   # revisión v3: relieve, calibración por región, filiales, campos
+    python rehacer_tiempos_v4.py # revisión v4: rehace todos los tiempos tras corregir la red y compara cifras
     python run_all.py 4b 4d      # opcional: recalcula los tiempos de viaje con un extracto nuevo de OSM
                                  # (descarga ~250 MB y tarda 30-60 min; los resultados del artículo ya están
                                  #  en datos/processed/tiempos_colegios.csv y sensibilidad_colegios.csv.gz)
@@ -36,7 +37,7 @@ PASOS = {
     "35": "35_sensibilidad_filiales.py", "38": "38_correspondencia_campos.py",
     "24": "24_tablas_manuscrito.py",   # al final: escribe las tablas LaTeX a partir de todas las salidas
 }
-OPCIONALES = {"0", "4b", "4d", "26", "31", "32", "36", "37"}   # no se ejecutan por defecto
+OPCIONALES = {"0", "4b", "4d", "22", "26", "31", "32", "36", "37"}   # no se ejecutan por defecto (22: la muestra ya verificada no se vuelve a sortear)
 
 if __name__ == "__main__":
     elegidos = sys.argv[1:] or [k for k in PASOS if k not in OPCIONALES]

@@ -14,7 +14,7 @@ COD_MOD,departamento,muestra,google_min,modelado_min,modelado_sin_calibrar_min,r
 0525733,CAJAMARCA,calibración (LOOCV),230.0,319.4,155.7,selva,38.9
 0536201,PIURA,calibración (LOOCV),220.0,255.5,124.2,sierra,16.1
 1307487,AMAZONAS,calibración (LOOCV),3.0,3.2,1.9,selva,6.7
-0600098,MADRE DE DIOS,calibración (LOOCV),215.0,219.0,107.4,selva,1.9
+0600098,MADRE DE DIOS,calibración (LOOCV),215.0,218.8,107.4,selva,1.8
 0478065,PUNO,calibración (LOOCV),5.0,4.9,3.0,sierra,-2.0
 1310168,ANCASH,calibración (LOOCV),48.0,20.1,10.4,sierra,-58.1
 0522813,LIMA,calibración (LOOCV),18.0,13.3,7.0,costa,-26.1
@@ -30,7 +30,7 @@ COD_MOD,departamento,muestra,google_min,modelado_min,modelado_sin_calibrar_min,r
 1594555,SAN MARTIN,calibración (LOOCV),160.0,217.3,105.8,selva,35.8
 0571042,PIURA,calibración (LOOCV),405.0,298.6,147.1,costa,-26.3
 1693464,UCAYALI,calibración (LOOCV),10.0,8.4,4.4,selva,-16.0
-1756857,CUSCO,calibración (LOOCV),75.0,86.1,42.3,sierra,14.8
+1756857,CUSCO,calibración (LOOCV),75.0,86.6,42.3,sierra,15.5
 0923516,UCAYALI,calibración (LOOCV),19.0,18.0,9.1,selva,-5.3
 1632660,CALLAO,calibración (LOOCV),58.0,37.5,18.9,costa,-35.3
 1790286,CAJAMARCA,calibración (LOOCV),180.0,147.1,72.2,selva,-18.3

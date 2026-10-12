@@ -1,40 +1,40 @@
 familia,cat,quinto,pct_quinto,pobreza,rural,indigena,lengua_originaria
-Total,none,429470.0,79.9087,16.602,9.903,22.9013,10.5103
+Total,none,429659.0,79.9438,16.6018,9.9072,22.9086,10.5151
 Total,policy,4781.0,0.8896,44.1584,60.0798,82.6541,76.9446
 Total,structural,42965.0,7.9942,37.2432,53.9005,39.4932,26.3362
-Total,topographic,60235.0,11.2075,41.8761,58.1526,36.8403,29.7146
-Educación,none,364044.0,67.7353,15.22,7.1374,23.3401,10.3491
+Total,topographic,60046.0,11.1724,41.9569,58.2747,36.8315,29.7404
+Educación,none,364066.0,67.7394,15.2202,7.1383,23.3389,10.3486
 Educación,policy,15393.0,2.8641,33.5991,44.6276,22.1426,18.5979
 Educación,structural,105239.0,19.5811,32.9205,42.6314,29.9281,19.8043
-Educación,topographic,52775.0,9.8195,36.7844,49.0229,40.9136,31.551
+Educación,topographic,52753.0,9.8154,36.7922,49.0341,40.9288,31.5633
 Artes y humanidades,none,287130.0,53.4244,14.1013,4.4109,21.4807,8.9109
 Artes y humanidades,structural,220108.0,40.9541,28.9657,35.2197,30.7389,19.3423
 Artes y humanidades,topographic,30213.0,5.6215,34.3982,44.3614,40.1435,32.6722
-"Ciencias sociales, periodismo y derecho",none,388170.0,72.2243,14.8088,6.9157,21.9234,9.4633
+"Ciencias sociales, periodismo y derecho",none,388263.0,72.2416,14.8178,6.9255,21.9185,9.4611
 "Ciencias sociales, periodismo y derecho",policy,8028.0,1.4937,39.6872,60.1504,34.1198,19.3835
 "Ciencias sociales, periodismo y derecho",structural,85234.0,15.8589,38.6072,51.6735,36.8319,26.6186
-"Ciencias sociales, periodismo y derecho",topographic,56019.0,10.4231,37.5971,49.7557,39.6867,30.4422
-Administración y negocios,none,408600.0,76.0255,15.6602,8.4247,21.747,9.4542
+"Ciencias sociales, periodismo y derecho",topographic,55926.0,10.4058,37.573,49.7588,39.7503,30.4918
+Administración y negocios,none,409403.0,76.1749,15.6745,8.4367,21.7188,9.4388
 Administración y negocios,policy,4741.0,0.8821,46.3378,56.1379,66.5467,49.7905
 Administración y negocios,structural,55534.0,10.3328,37.1298,52.4745,42.9751,30.9152
-Administración y negocios,topographic,68576.0,12.7595,40.5879,54.4846,37.3098,28.9785
-"Ciencias naturales, matemáticas e informática",none,376935.0,70.1338,14.8504,6.7204,22.058,9.5318
+Administración y negocios,topographic,67773.0,12.6101,40.7967,54.958,37.6647,29.303
+"Ciencias naturales, matemáticas e informática",none,377715.0,70.279,14.8664,6.7365,22.0278,9.5154
 "Ciencias naturales, matemáticas e informática",policy,13955.0,2.5965,21.8107,31.5053,29.032,15.1315
 "Ciencias naturales, matemáticas e informática",structural,93191.0,17.3394,38.4275,51.2918,37.0732,26.514
-"Ciencias naturales, matemáticas e informática",topographic,53370.0,9.9302,37.1116,48.8329,36.9496,28.6345
-"Ingeniería, industria y construcción",none,400341.0,74.4888,15.8252,8.6113,21.7246,9.4468
+"Ciencias naturales, matemáticas e informática",topographic,52590.0,9.7851,37.3267,49.3417,37.3873,29.0358
+"Ingeniería, industria y construcción",none,400345.0,74.4896,15.8253,8.6114,21.7244,9.4468
 "Ingeniería, industria y construcción",policy,4136.0,0.7696,6.269,5.5296,30.1489,13.1839
 "Ingeniería, industria y construcción",structural,71649.0,13.3313,36.6229,49.2005,42.2999,30.3744
-"Ingeniería, industria y construcción",topographic,61325.0,11.4103,40.4136,54.8461,37.4039,29.1942
-Agropecuaria y ambiente,none,416801.0,77.5514,16.2596,9.3343,22.8355,10.3061
+"Ingeniería, industria y construcción",topographic,61321.0,11.4096,40.4145,54.8488,37.4062,29.1961
+Agropecuaria y ambiente,none,416833.0,77.5574,16.2607,9.3348,22.8341,10.3054
 Agropecuaria y ambiente,policy,815.0,0.1516,42.695,64.9676,81.8803,63.2813
 Agropecuaria y ambiente,structural,55374.0,10.3031,36.2899,50.2263,40.0651,28.5227
-Agropecuaria y ambiente,topographic,64461.0,11.9938,40.9926,56.3784,36.3523,29.1112
-Salud y bienestar,none,387815.0,72.1582,15.3602,7.4968,21.1607,8.9689
+Agropecuaria y ambiente,topographic,64429.0,11.9879,40.9975,56.3986,36.3682,29.1247
+Salud y bienestar,none,387824.0,72.1599,15.3603,7.497,21.1603,8.9687
 Salud y bienestar,policy,5073.0,0.9439,14.0999,17.641,35.2938,19.4998
 Salud y bienestar,structural,81374.0,15.1407,35.3163,48.3254,46.2224,32.7492
-Salud y bienestar,topographic,63189.0,11.7572,40.5367,54.2761,31.646,24.7035
-Servicios,none,322334.0,59.9746,14.543,5.7437,21.0184,8.6356
+Salud y bienestar,topographic,63180.0,11.7555,40.5395,54.2812,31.65,24.7068
+Servicios,none,322963.0,60.0916,14.5198,5.7435,20.9913,8.6219
 Servicios,policy,26892.0,5.0036,15.5831,11.9462,9.9374,8.2198
 Servicios,structural,136670.0,25.4293,33.359,42.2839,38.5646,25.0099
-Servicios,topographic,51555.0,9.5925,34.8714,46.695,35.5672,26.7756
+Servicios,topographic,50926.0,9.4755,35.2699,47.2021,35.9187,27.0865

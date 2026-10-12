@@ -34,3 +34,8 @@ literatura/cribado_*.csv
 
 # --- Notas internas del proyecto ---
 NOTAS_INTERNAS.md
+
+# revisión v4
+salidas_antes_v4/
+.pytest_cache/
+salidas/cambios_v4.csv

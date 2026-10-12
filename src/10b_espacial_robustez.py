@@ -25,7 +25,7 @@ import numpy as np
 import pandas as pd
 import statsmodels.formula.api as smf
 
-from utils import RAIZ, guardar, haversine_matriz, ruta
+from utils import ajustar_nb, RAIZ, guardar, haversine_matriz, ruta
 
 warnings.filterwarnings("ignore")
 
@@ -115,13 +115,13 @@ def errores_alternativos(d_nb, d_as):
                          ("departamento", dict(cov_type="cluster", cov_kwds={"groups": pd.factorize(dd.dpto)[0]})),
                          ("dos vías (provincia y departamento)", dict(cov_type="cluster", cov_kwds={"groups": np.c_[pd.factorize(dd.prov)[0], pd.factorize(dd.dpto)[0]]}))]:
         try:
-            m = smf.negativebinomial(f, data=dd).fit(disp=0, maxiter=300, **kw)
+            m = ajustar_nb(f, dd, **kw)
             for v in ["pobreza", "rural", "pct_autoid_indigena"]:
                 filas.append({"modelo": "binomial negativa", "errores": etiqueta, "variable": v,
                               "coef": m.params[v], "irr": np.exp(m.params[v]), "ee": m.bse[v], "p": m.pvalues[v]})
         except Exception as e:  # noqa: BLE001
             print(f"NB {etiqueta}: {e}")
-    m = smf.negativebinomial(f, data=dd).fit(disp=0, maxiter=300)
+    m = ajustar_nb(f, dd)
     alpha = m.params["alpha"]
     Xdf = m.model.exog
     names = m.model.exog_names

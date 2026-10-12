@@ -28,7 +28,7 @@ import numpy as np
 import pandas as pd
 import statsmodels.formula.api as smf
 
-from utils import CFG, RAIZ, guardar, ruta
+from utils import ajustar_nb, CFG, RAIZ, guardar, ruta
 
 warnings.filterwarnings("ignore")
 S = CFG["modelos"]["semilla"]
@@ -122,7 +122,7 @@ def residuos_nb():
     dd = d.dropna(subset=["y_Total", "pobreza", "rural", *m5.EXTRA_PRINCIPAL]).copy()
     dd["y"] = dd.y_Total.round().astype(int)
     x = " + ".join(["log_quinto", "pobreza", "rural", *m5.EXTRA_PRINCIPAL, "C(dpto)"])
-    m = smf.negativebinomial(f"y ~ {x}", data=dd).fit(disp=0, maxiter=300)
+    m = ajustar_nb(f"y ~ {x}", dd)
     mu = m.predict(dd)
     alpha = m.params["alpha"]
     pearson = (dd.y - mu) / np.sqrt(mu + alpha * mu ** 2)
@@ -153,7 +153,7 @@ def robustez_espacial(ids, i, j):
                              ("cluster departamento", base, "dpto"),
                              ("SLX (rezagos espaciales)", base + " + W_pobreza + W_rural + W_pct_autoid_indigena", "prov")]:
         dd = d.dropna(subset=["W_pobreza", "W_rural", "W_pct_autoid_indigena"]) if "W_" in x else d
-        m = smf.negativebinomial(f"y ~ {x}", data=dd).fit(disp=0, maxiter=300, cov_type="cluster",
+        m = ajustar_nb(f"y ~ {x}", dd, cov_type="cluster",
                                                              cov_kwds={"groups": pd.factorize(dd[grupo])[0]})
         fila = {"modelo": nombre, "n": int(m.nobs)}
         for v in ["log_quinto", "pobreza", "rural", "pct_autoid_indigena", "pct_afro", "pct_sin_superior",

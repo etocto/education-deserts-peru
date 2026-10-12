@@ -63,3 +63,42 @@ def test_grupos_excluyentes_fase1():
         D_, Dp_, T_ = bool(D), bool(Dp), bool(T)
         grupos = [D_ and Dp_ and T_, D_ and not Dp_ and T_, (not D_) and T_, D_ and not T_]
         assert sum(grupos) == (1 if (D_ or T_) else 0)
+
+
+# ---------------------------------------------------------------- revisión v4 (obs. M2): duplicados en la red
+def _m04b():
+    spec = importlib.util.spec_from_file_location("m04b", Path(__file__).resolve().parents[1] / "src" / "04b_tiempos_viaje.py")
+    m = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(m)
+    return m
+
+
+def test_matriz_minimos_conserva_el_tramo_mas_corto():
+    from utils import matriz_minimos
+    g = matriz_minimos([0, 0, 1], [1, 1, 2], [5.0, 3.0, 2.0], 3)
+    assert g[0, 1] == 3.0 and g[1, 2] == 2.0
+
+
+def test_dos_locales_en_el_mismo_nodo_no_suman_acceso():
+    from utils import matriz_minimos
+    m = _m04b()
+    g = matriz_minimos([0, 1], [1, 0], [10.0, 10.0], 2)
+    uno = m.tiempos_desde_fuentes(g, np.array([0]), np.array([2.0]))
+    dos = m.tiempos_desde_fuentes(g, np.array([0, 0]), np.array([2.0, 3.0]))
+    assert np.allclose(uno, dos) and np.isclose(dos[1], 12.0)
+
+
+def test_mas_oferta_nunca_alarga_el_tiempo():
+    from utils import matriz_minimos
+    m = _m04b()
+    rng = np.random.default_rng(1)
+    n = 60
+    a, b = rng.integers(0, n, 300), rng.integers(0, n, 300)
+    w = rng.uniform(1, 9, 300)
+    g = matriz_minimos(np.r_[a, b], np.r_[b, a], np.r_[w, w], n)
+    post = rng.choice(n, 5, replace=False)
+    rel = np.r_[post, rng.choice(n, 5)]          # puede repetir nodos de post
+    pre = np.r_[rel, rng.choice(n, 10)]
+    acc = lambda k: np.full(len(k), 1.5)        # noqa: E731
+    t_post, t_rel, t_pre = (m.tiempos_desde_fuentes(g, k, acc(k)) for k in (post, rel, pre))
+    assert np.all(t_pre <= t_rel + 1e-9) and np.all(t_rel <= t_post + 1e-9)

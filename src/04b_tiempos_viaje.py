@@ -35,11 +35,10 @@ import sys
 import numpy as np
 import pandas as pd
 import requests
-from scipy.sparse import coo_matrix
 from scipy.sparse.csgraph import dijkstra
 from sklearn.neighbors import BallTree
 
-from utils import CFG, FAMILIAS, RAIZ, guardar, peso_decaimiento, ruta
+from utils import CFG, FAMILIAS, RAIZ, guardar, matriz_minimos, peso_decaimiento, ruta
 
 T = CFG["tiempos"]
 PBF = RAIZ / T["archivo_pbf"]
@@ -159,7 +158,7 @@ def construir_grafo(vias):
     pf, pv, pt = enlaces_puerto(lat, lon, fluvial, vial)
     a, b, t = np.r_[np.array(a, int), pf], np.r_[np.array(b, int), pv], np.r_[np.array(t), pt]
     t = np.maximum(t, 1e-6)   # csgraph ignora pesos cero
-    g = coo_matrix((np.r_[t, t], (np.r_[a, b], np.r_[b, a])), shape=(n, n)).tocsr()
+    g = matriz_minimos(np.r_[a, b], np.r_[b, a], np.r_[t, t], n)   # mínimo, no suma, de tramos paralelos
     print(f"grafo: {n:,} nodos, {len(t):,} tramos")
     return g, lat, lon
 
@@ -179,7 +178,7 @@ def tiempos_desde_fuentes(g, nodos_fuente, acceso_fuente, limite=np.inf):
     filas = np.r_[gc.row, np.full(len(nodos_fuente), n)]
     cols = np.r_[gc.col, nodos_fuente]
     pesos = np.r_[gc.data, np.maximum(acceso_fuente, 1e-6)]
-    gg = coo_matrix((pesos, (filas, cols)), shape=(n + 1, n + 1)).tocsr()
+    gg = matriz_minimos(filas, cols, pesos, n + 1)   # si dos locales comparten nodo, cuenta el acceso más corto
     return dijkstra(gg, directed=True, indices=n, limit=limite)[:n]
 
 

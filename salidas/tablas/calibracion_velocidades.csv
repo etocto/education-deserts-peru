@@ -1,4 +1,4 @@
 modelo,pares,factor,error_medio_min,error_absoluto_medio_min,error_relativo_mediano_pct,pct_dentro_30pct,pearson,acuerdo_umbral_90min_pct
-sin calibrar,37,1.0,-66.6882,66.6882,-47.1198,2.7027,0.9634,78.3784
-calibrado (dentro de muestra),37,0.4875,7.5174,20.7386,6.1341,83.7838,0.9642,100.0
-calibrado (LOOCV),37,0.4875,7.6253,21.2097,6.1341,83.7838,0.9624,100.0
+sin calibrar,37,1.0,-66.6906,66.6906,-47.1198,2.7027,0.9634,78.3784
+calibrado (dentro de muestra),37,0.4875,7.5126,20.7338,6.1341,83.7838,0.9642,100.0
+calibrado (LOOCV),37,0.4875,7.6324,21.2168,6.1341,83.7838,0.9623,100.0

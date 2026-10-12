@@ -25,9 +25,8 @@ import sys
 
 import numpy as np
 import pandas as pd
-from scipy.sparse import coo_matrix
 
-from utils import CFG, FAMILIAS, FAMILIAS_EN, RAIZ, guardar, ruta
+from utils import CFG, FAMILIAS, FAMILIAS_EN, RAIZ, guardar, matriz_minimos, ruta
 
 _spec = importlib.util.spec_from_file_location("t4b", RAIZ / "src" / "04b_tiempos_viaje.py")
 t4b = importlib.util.module_from_spec(_spec)
@@ -78,7 +77,7 @@ def grafo(n, a, b, d, tp, tipos, vel, puertos):
     if "river" in vel:   # embarcaderos solo si hay ríos en el escenario
         aa, bb, t = np.r_[aa, puertos[0]], np.r_[bb, puertos[1]], np.r_[t, puertos[2]]
     t = np.maximum(t, 1e-6)
-    return coo_matrix((np.r_[t, t], (np.r_[aa, bb], np.r_[bb, aa])), shape=(n, n)).tocsr()
+    return matriz_minimos(np.r_[aa, bb], np.r_[bb, aa], np.r_[t, t], n)
 
 
 def escenarios():

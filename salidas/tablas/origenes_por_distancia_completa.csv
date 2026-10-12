@@ -1,20 +1,20 @@
 familia,oferta,origen,alumnos,pct_del_desierto
-Total,post,structural,42965,39.7894
+Total,post,structural,42965,39.8592
 Total,post,distance_only,0,0.0
-Total,post,licensing,4781,4.4276
-Total,post,topographic,60235,55.783
-Total,rel,structural,42965,39.9485
+Total,post,licensing,4781,4.4354
+Total,post,topographic,60046,55.7054
+Total,rel,structural,42965,40.0188
 Total,rel,distance_only,0,0.0
-Total,rel,licensing,2352,2.1869
-Total,rel,topographic,62234,57.8646
-Educación,post,structural,105239,60.689
+Total,rel,licensing,2352,2.1907
+Total,rel,topographic,62045,57.7905
+Educación,post,structural,105239,60.6967
 Educación,post,distance_only,0,0.0
-Educación,post,licensing,15393,8.8768
-Educación,post,topographic,52775,30.4342
-Educación,rel,structural,105239,63.1979
+Educación,post,licensing,15393,8.8779
+Educación,post,topographic,52753,30.4254
+Educación,rel,structural,105239,63.2062
 Educación,rel,distance_only,0,0.0
-Educación,rel,licensing,8781,5.2731
-Educación,rel,topographic,52503,31.529
+Educación,rel,licensing,8781,5.2738
+Educación,rel,topographic,52481,31.5199
 Artes y humanidades,post,structural,220108,87.9303
 Artes y humanidades,post,distance_only,0,0.0
 Artes y humanidades,post,licensing,0,0.0
@@ -23,59 +23,59 @@ Artes y humanidades,rel,structural,220108,87.9303
 Artes y humanidades,rel,distance_only,0,0.0
 Artes y humanidades,rel,licensing,0,0.0
 Artes y humanidades,rel,topographic,30213,12.0697
-"Ciencias sociales, periodismo y derecho",post,structural,85234,57.0963
+"Ciencias sociales, periodismo y derecho",post,structural,85234,57.1319
 "Ciencias sociales, periodismo y derecho",post,distance_only,0,0.0
-"Ciencias sociales, periodismo y derecho",post,licensing,8028,5.3778
-"Ciencias sociales, periodismo y derecho",post,topographic,56019,37.5259
-"Ciencias sociales, periodismo y derecho",rel,structural,85234,59.1882
+"Ciencias sociales, periodismo y derecho",post,licensing,8028,5.3811
+"Ciencias sociales, periodismo y derecho",post,topographic,55926,37.4869
+"Ciencias sociales, periodismo y derecho",rel,structural,85234,59.2372
 "Ciencias sociales, periodismo y derecho",rel,distance_only,0,0.0
-"Ciencias sociales, periodismo y derecho",rel,licensing,3407,2.3659
-"Ciencias sociales, periodismo y derecho",rel,topographic,55364,38.4459
-Administración y negocios,post,structural,55534,43.0994
+"Ciencias sociales, periodismo y derecho",rel,licensing,3407,2.3678
+"Ciencias sociales, periodismo y derecho",rel,topographic,55245,38.395
+Administración y negocios,post,structural,55534,43.3697
 Administración y negocios,post,distance_only,0,0.0
-Administración y negocios,post,licensing,4741,3.6794
-Administración y negocios,post,topographic,68576,53.2212
-Administración y negocios,rel,structural,55534,44.0634
+Administración y negocios,post,licensing,4741,3.7025
+Administración y negocios,post,topographic,67773,52.9278
+Administración y negocios,rel,structural,55534,44.346
 Administración y negocios,rel,distance_only,0,0.0
-Administración y negocios,rel,licensing,4508,3.5769
-Administración y negocios,rel,topographic,65990,52.3597
-"Ciencias naturales, matemáticas e informática",post,structural,93191,58.0571
+Administración y negocios,rel,licensing,4508,3.5998
+Administración y negocios,rel,topographic,65187,52.0542
+"Ciencias naturales, matemáticas e informática",post,structural,93191,58.3406
 "Ciencias naturales, matemáticas e informática",post,distance_only,0,0.0
-"Ciencias naturales, matemáticas e informática",post,licensing,13955,8.6938
-"Ciencias naturales, matemáticas e informática",post,topographic,53370,33.249
-"Ciencias naturales, matemáticas e informática",rel,structural,93191,62.486
+"Ciencias naturales, matemáticas e informática",post,licensing,13955,8.7363
+"Ciencias naturales, matemáticas e informática",post,topographic,52590,32.9231
+"Ciencias naturales, matemáticas e informática",rel,structural,93191,62.8145
 "Ciencias naturales, matemáticas e informática",rel,distance_only,0,0.0
-"Ciencias naturales, matemáticas e informática",rel,licensing,2528,1.6951
-"Ciencias naturales, matemáticas e informática",rel,topographic,53420,35.8189
-"Ingeniería, industria y construcción",post,structural,71649,52.2566
+"Ciencias naturales, matemáticas e informática",rel,licensing,2528,1.704
+"Ciencias naturales, matemáticas e informática",rel,topographic,52640,35.4815
+"Ingeniería, industria y construcción",post,structural,71649,52.2581
 "Ingeniería, industria y construcción",post,distance_only,0,0.0
 "Ingeniería, industria y construcción",post,licensing,4136,3.0166
-"Ingeniería, industria y construcción",post,topographic,61325,44.7269
-"Ingeniería, industria y construcción",rel,structural,71649,52.8116
+"Ingeniería, industria y construcción",post,topographic,61321,44.7252
+"Ingeniería, industria y construcción",rel,structural,71649,52.8132
 "Ingeniería, industria y construcción",rel,distance_only,0,0.0
-"Ingeniería, industria y construcción",rel,licensing,2610,1.9238
-"Ingeniería, industria y construcción",rel,topographic,61410,45.2646
-Agropecuaria y ambiente,post,structural,55374,45.8964
+"Ingeniería, industria y construcción",rel,licensing,2610,1.9239
+"Ingeniería, industria y construcción",rel,topographic,61406,45.263
+Agropecuaria y ambiente,post,structural,55374,45.9086
 Agropecuaria y ambiente,post,distance_only,0,0.0
-Agropecuaria y ambiente,post,licensing,815,0.6755
-Agropecuaria y ambiente,post,topographic,64461,53.4281
-Agropecuaria y ambiente,rel,structural,55374,45.8964
+Agropecuaria y ambiente,post,licensing,815,0.6757
+Agropecuaria y ambiente,post,topographic,64429,53.4157
+Agropecuaria y ambiente,rel,structural,55374,45.9086
 Agropecuaria y ambiente,rel,distance_only,0,0.0
-Agropecuaria y ambiente,rel,licensing,786,0.6515
-Agropecuaria y ambiente,rel,topographic,64490,53.4521
-Salud y bienestar,post,structural,81374,54.3813
+Agropecuaria y ambiente,rel,licensing,786,0.6516
+Agropecuaria y ambiente,rel,topographic,64458,53.4398
+Salud y bienestar,post,structural,81374,54.3846
 Salud y bienestar,post,distance_only,0,0.0
-Salud y bienestar,post,licensing,5073,3.3902
-Salud y bienestar,post,topographic,63189,42.2285
-Salud y bienestar,rel,structural,81374,56.1223
+Salud y bienestar,post,licensing,5073,3.3904
+Salud y bienestar,post,topographic,63180,42.225
+Salud y bienestar,rel,structural,81374,56.1258
 Salud y bienestar,rel,distance_only,0,0.0
-Salud y bienestar,rel,licensing,1794,1.2373
-Salud y bienestar,rel,topographic,61826,42.6404
-Servicios,post,structural,136670,63.5329
+Salud y bienestar,rel,licensing,1794,1.2374
+Salud y bienestar,rel,topographic,61817,42.6368
+Servicios,post,structural,136670,63.7192
 Servicios,post,distance_only,0,0.0
-Servicios,post,licensing,26892,12.5011
-Servicios,post,topographic,51555,23.966
-Servicios,rel,structural,136670,68.1381
+Servicios,post,licensing,26892,12.5378
+Servicios,post,topographic,50926,23.7431
+Servicios,rel,structural,136670,68.3524
 Servicios,rel,distance_only,0,0.0
-Servicios,rel,licensing,10319,5.1446
-Servicios,rel,topographic,53589,26.7173
+Servicios,rel,licensing,10319,5.1608
+Servicios,rel,topographic,52960,26.4868

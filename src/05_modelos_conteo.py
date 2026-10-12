@@ -20,7 +20,7 @@ import statsmodels.formula.api as smf
 
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-from utils import FAMILIAS, FAMILIAS_EN, guardar, ruta
+from utils import ajustar_nb, FAMILIAS, FAMILIAS_EN, guardar, ruta
 
 
 def datos_distritales(radio: int = 60) -> pd.DataFrame:
@@ -56,7 +56,7 @@ def main(extra_vars=EXTRA_PRINCIPAL, sufijo="", efectos_fijos=True):
         dd = d.dropna(subset=[yv, "pobreza", "rural", *extra]).copy()
         dd["y"] = dd[yv].round().astype(int)
         try:
-            m = smf.negativebinomial(f"y ~ {x}", data=dd).fit(disp=0, maxiter=300, cov_type="cluster",
+            m = ajustar_nb(f"y ~ {x}", dd, cov_type="cluster",
                                                                  cov_kwds={"groups": pd.factorize(dd.prov)[0]})
         except Exception as e:  # noqa: BLE001  (p. ej., familia sin variación)
             print(f"{fam}: no convergió ({e}); se usa Poisson con errores robustos")

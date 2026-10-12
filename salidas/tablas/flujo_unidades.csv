@@ -5,11 +5,12 @@ Secondary schools,Final-year students,537451
 Secondary schools,Schools in districts created after 2017 (reassigned by location),47
 Districts,Districts (2017 geography) with final-year students,1827
 University supply,Undergraduate programmes of licensed universities open to secondary graduates,3587
-University supply,... classified by SUNEDU class / by keyword / corrected manually,3325 / 239 / 23
+University supply,... classified by SUNEDU class / by keyword / corrected manually,"3,325 / 239 / 23"
 University supply,Campuses with coordinates (public / private),353 (177 / 176)
 Non-university supply,Higher education institutes (technological / pedagogical / arts),934 (769 / 133 / 32)
 Non-university supply,... public,459
 Denied universities (2018),Universities with a denied licence in the open data (28 August 2024),45
 Denied universities (2018),... with records in the 2018 identity-card register,44
 Denied universities (2018),Headquarters and branches located (districts),101 (53)
+Denied universities (2018),... headquarters / branches (two universities have only branches in the register),42 / 59
 Denied universities (2018),Undergraduate programmes at those sites,741

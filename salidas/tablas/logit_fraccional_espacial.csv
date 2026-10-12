@@ -49,53 +49,53 @@ distancia,dentro,agrupado (principal),>= 10 alumnos,pct_autoid_indigena,1.06936,
 distancia,dentro,agrupado (principal),>= 10 alumnos,pct_afro,-5.36734,4.22615,0.20407,1651
 distancia,dentro,agrupado (principal),>= 10 alumnos,pct_sin_superior,-3.90961,1.92076,0.04181,1651
 distancia,dentro,agrupado (principal),>= 10 alumnos,log_quinto,-2.6161,1.45403,0.07199,1651
-tiempo,entre,agrupado (principal),todos,pobreza,4.76169,1.73275,0.00599,1827
-tiempo,entre,agrupado (principal),todos,rural,2.21853,0.64532,0.00059,1827
-tiempo,entre,agrupado (principal),todos,pct_autoid_indigena,-0.45789,0.79938,0.56678,1827
-tiempo,entre,agrupado (principal),todos,pct_afro,-5.40094,7.019,0.44161,1827
-tiempo,entre,agrupado (principal),todos,pct_sin_superior,2.06994,2.68842,0.44133,1827
-tiempo,entre,agrupado (principal),todos,log_quinto,-4.8636,1.67315,0.00365,1827
-tiempo,entre,Conley 60 km,todos,pobreza,4.76169,1.33664,0.00037,1827
-tiempo,entre,Conley 60 km,todos,rural,2.21853,0.46893,0.0,1827
-tiempo,entre,Conley 60 km,todos,pct_autoid_indigena,-0.45789,0.68142,0.50161,1827
-tiempo,entre,Conley 60 km,todos,pct_afro,-5.40094,5.28141,0.30648,1827
-tiempo,entre,Conley 60 km,todos,pct_sin_superior,2.06994,1.8885,0.27305,1827
-tiempo,entre,Conley 60 km,todos,log_quinto,-4.8636,1.33622,0.00027,1827
-tiempo,entre,Conley 100 km,todos,pobreza,4.76169,1.48047,0.0013,1827
-tiempo,entre,Conley 100 km,todos,rural,2.21853,0.51276,2e-05,1827
-tiempo,entre,Conley 100 km,todos,pct_autoid_indigena,-0.45789,0.73487,0.53323,1827
-tiempo,entre,Conley 100 km,todos,pct_afro,-5.40094,5.69373,0.34284,1827
-tiempo,entre,Conley 100 km,todos,pct_sin_superior,2.06994,2.0837,0.32052,1827
-tiempo,entre,Conley 100 km,todos,log_quinto,-4.8636,1.41464,0.00059,1827
-tiempo,entre,I de Moran de los residuos,todos,residuos,0.52759,,0.001,1827
-tiempo,entre,agrupado (principal),>= 10 alumnos,pobreza,5.15754,1.77163,0.0036,1651
-tiempo,entre,agrupado (principal),>= 10 alumnos,rural,2.29655,0.64993,0.00041,1651
-tiempo,entre,agrupado (principal),>= 10 alumnos,pct_autoid_indigena,-0.39542,0.78428,0.61413,1651
-tiempo,entre,agrupado (principal),>= 10 alumnos,pct_afro,-4.60188,6.98056,0.50974,1651
-tiempo,entre,agrupado (principal),>= 10 alumnos,pct_sin_superior,2.26445,2.78013,0.41535,1651
-tiempo,entre,agrupado (principal),>= 10 alumnos,log_quinto,-4.13709,1.98333,0.03698,1651
-tiempo,dentro,agrupado (principal),todos,pobreza,5.55706,1.37421,5e-05,1827
-tiempo,dentro,agrupado (principal),todos,rural,2.05548,0.39554,0.0,1827
-tiempo,dentro,agrupado (principal),todos,pct_autoid_indigena,-0.52197,0.81186,0.52027,1827
-tiempo,dentro,agrupado (principal),todos,pct_afro,-8.10454,3.52445,0.02148,1827
-tiempo,dentro,agrupado (principal),todos,pct_sin_superior,0.79198,1.86118,0.67046,1827
-tiempo,dentro,agrupado (principal),todos,log_quinto,-5.15961,1.29539,7e-05,1827
-tiempo,dentro,Conley 60 km,todos,pobreza,5.55706,1.37782,6e-05,1827
-tiempo,dentro,Conley 60 km,todos,rural,2.05548,0.40181,0.0,1827
-tiempo,dentro,Conley 60 km,todos,pct_autoid_indigena,-0.52197,0.78688,0.50711,1827
-tiempo,dentro,Conley 60 km,todos,pct_afro,-8.10454,3.49836,0.02052,1827
-tiempo,dentro,Conley 60 km,todos,pct_sin_superior,0.79198,1.66896,0.63512,1827
-tiempo,dentro,Conley 60 km,todos,log_quinto,-5.15961,1.22293,2e-05,1827
-tiempo,dentro,Conley 100 km,todos,pobreza,5.55706,1.51825,0.00025,1827
-tiempo,dentro,Conley 100 km,todos,rural,2.05548,0.41809,0.0,1827
-tiempo,dentro,Conley 100 km,todos,pct_autoid_indigena,-0.52197,0.79421,0.51104,1827
-tiempo,dentro,Conley 100 km,todos,pct_afro,-8.10454,3.71519,0.02915,1827
-tiempo,dentro,Conley 100 km,todos,pct_sin_superior,0.79198,1.8127,0.66218,1827
-tiempo,dentro,Conley 100 km,todos,log_quinto,-5.15961,1.2454,3e-05,1827
-tiempo,dentro,I de Moran de los residuos,todos,residuos,0.47413,,0.001,1827
-tiempo,dentro,agrupado (principal),>= 10 alumnos,pobreza,5.7038,1.49212,0.00013,1651
-tiempo,dentro,agrupado (principal),>= 10 alumnos,rural,2.12426,0.40579,0.0,1651
-tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_autoid_indigena,-0.22211,0.90545,0.80622,1651
-tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_afro,-6.87122,3.61969,0.05766,1651
-tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_sin_superior,0.40801,2.04561,0.84191,1651
-tiempo,dentro,agrupado (principal),>= 10 alumnos,log_quinto,-5.12674,1.42197,0.00031,1651
+tiempo,entre,agrupado (principal),todos,pobreza,4.82596,1.71897,0.00499,1827
+tiempo,entre,agrupado (principal),todos,rural,2.20577,0.6497,0.00069,1827
+tiempo,entre,agrupado (principal),todos,pct_autoid_indigena,-0.4436,0.80008,0.57927,1827
+tiempo,entre,agrupado (principal),todos,pct_afro,-5.30826,7.02885,0.45012,1827
+tiempo,entre,agrupado (principal),todos,pct_sin_superior,2.14859,2.71996,0.42957,1827
+tiempo,entre,agrupado (principal),todos,log_quinto,-4.78495,1.64479,0.00362,1827
+tiempo,entre,Conley 60 km,todos,pobreza,4.82596,1.33589,0.0003,1827
+tiempo,entre,Conley 60 km,todos,rural,2.20577,0.46929,0.0,1827
+tiempo,entre,Conley 60 km,todos,pct_autoid_indigena,-0.4436,0.68001,0.51418,1827
+tiempo,entre,Conley 60 km,todos,pct_afro,-5.30826,5.27886,0.31462,1827
+tiempo,entre,Conley 60 km,todos,pct_sin_superior,2.14859,1.89379,0.25656,1827
+tiempo,entre,Conley 60 km,todos,log_quinto,-4.78495,1.33321,0.00033,1827
+tiempo,entre,Conley 100 km,todos,pobreza,4.82596,1.48085,0.00112,1827
+tiempo,entre,Conley 100 km,todos,rural,2.20577,0.51335,2e-05,1827
+tiempo,entre,Conley 100 km,todos,pct_autoid_indigena,-0.4436,0.73307,0.5451,1827
+tiempo,entre,Conley 100 km,todos,pct_afro,-5.30826,5.68822,0.35072,1827
+tiempo,entre,Conley 100 km,todos,pct_sin_superior,2.14859,2.09553,0.30521,1827
+tiempo,entre,Conley 100 km,todos,log_quinto,-4.78495,1.41071,0.00069,1827
+tiempo,entre,I de Moran de los residuos,todos,residuos,0.52547,,0.001,1827
+tiempo,entre,agrupado (principal),>= 10 alumnos,pobreza,5.20501,1.75801,0.00307,1651
+tiempo,entre,agrupado (principal),>= 10 alumnos,rural,2.28558,0.65379,0.00047,1651
+tiempo,entre,agrupado (principal),>= 10 alumnos,pct_autoid_indigena,-0.3827,0.78448,0.62566,1651
+tiempo,entre,agrupado (principal),>= 10 alumnos,pct_afro,-4.54513,6.97265,0.5145,1651
+tiempo,entre,agrupado (principal),>= 10 alumnos,pct_sin_superior,2.31573,2.80227,0.40859,1651
+tiempo,entre,agrupado (principal),>= 10 alumnos,log_quinto,-4.07091,1.95602,0.03741,1651
+tiempo,dentro,agrupado (principal),todos,pobreza,5.59313,1.3773,5e-05,1827
+tiempo,dentro,agrupado (principal),todos,rural,2.03266,0.40047,0.0,1827
+tiempo,dentro,agrupado (principal),todos,pct_autoid_indigena,-0.49,0.81618,0.54827,1827
+tiempo,dentro,agrupado (principal),todos,pct_afro,-7.91782,3.55485,0.02593,1827
+tiempo,dentro,agrupado (principal),todos,pct_sin_superior,0.82926,1.87703,0.65864,1827
+tiempo,dentro,agrupado (principal),todos,log_quinto,-5.10716,1.29147,8e-05,1827
+tiempo,dentro,Conley 60 km,todos,pobreza,5.59313,1.38054,5e-05,1827
+tiempo,dentro,Conley 60 km,todos,rural,2.03266,0.40152,0.0,1827
+tiempo,dentro,Conley 60 km,todos,pct_autoid_indigena,-0.49,0.78715,0.53362,1827
+tiempo,dentro,Conley 60 km,todos,pct_afro,-7.91782,3.51245,0.02418,1827
+tiempo,dentro,Conley 60 km,todos,pct_sin_superior,0.82926,1.66737,0.61895,1827
+tiempo,dentro,Conley 60 km,todos,log_quinto,-5.10716,1.22271,3e-05,1827
+tiempo,dentro,Conley 100 km,todos,pobreza,5.59313,1.52121,0.00024,1827
+tiempo,dentro,Conley 100 km,todos,rural,2.03266,0.41951,0.0,1827
+tiempo,dentro,Conley 100 km,todos,pct_autoid_indigena,-0.49,0.79593,0.53813,1827
+tiempo,dentro,Conley 100 km,todos,pct_afro,-7.91782,3.73398,0.03397,1827
+tiempo,dentro,Conley 100 km,todos,pct_sin_superior,0.82926,1.81903,0.64848,1827
+tiempo,dentro,Conley 100 km,todos,log_quinto,-5.10716,1.24404,4e-05,1827
+tiempo,dentro,I de Moran de los residuos,todos,residuos,0.47351,,0.001,1827
+tiempo,dentro,agrupado (principal),>= 10 alumnos,pobreza,5.73747,1.49191,0.00012,1651
+tiempo,dentro,agrupado (principal),>= 10 alumnos,rural,2.10742,0.40982,0.0,1651
+tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_autoid_indigena,-0.18769,0.90756,0.83616,1651
+tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_afro,-6.77437,3.6302,0.06203,1651
+tiempo,dentro,agrupado (principal),>= 10 alumnos,pct_sin_superior,0.42304,2.0545,0.83686,1651
+tiempo,dentro,agrupado (principal),>= 10 alumnos,log_quinto,-5.08449,1.41824,0.00034,1651

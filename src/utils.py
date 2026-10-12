@@ -9,6 +9,13 @@ import numpy as np
 import pandas as pd
 import yaml
 
+try:   # figuras PDF con fuentes TrueType (Type 42) en lugar de Type 3 de mapa de bits (revisión v4, m6)
+    import matplotlib
+    matplotlib.rcParams["pdf.fonttype"] = 42
+    matplotlib.rcParams["ps.fonttype"] = 42
+except ImportError:
+    pass
+
 RAIZ = Path(__file__).resolve().parents[1]
 CFG = yaml.safe_load(open(RAIZ / "config.yaml", encoding="utf-8"))
 
@@ -43,6 +50,46 @@ def haversine_matriz(lat1, lon1, lat2, lon2) -> np.ndarray:
     la2, lo2 = np.radians(np.asarray(lat2, float))[None, :], np.radians(np.asarray(lon2, float))[None, :]
     a = np.sin((la2 - la1) / 2) ** 2 + np.cos(la1) * np.cos(la2) * np.sin((lo2 - lo1) / 2) ** 2
     return 2 * R_TIERRA_KM * np.arcsin(np.sqrt(np.clip(a, 0, 1)))
+
+
+def matriz_minimos(filas, cols, pesos, n):
+    """Matriz dispersa CSR (n x n) que conserva el MÍNIMO de las entradas repetidas (revisión v4, obs. M2).
+
+    coo_matrix(...).tocsr() SUMA las entradas duplicadas: dos tramos paralelos entre los mismos nodos, o dos locales
+    anclados al mismo nodo, darían un tiempo igual a la suma de ambos en lugar del más corto.
+    """
+    from scipy.sparse import csr_matrix
+    filas, cols, pesos = (np.asarray(x) for x in (filas, cols, pesos))
+    o = np.lexsort((pesos, cols, filas))
+    filas, cols, pesos = filas[o], cols[o], pesos[o]
+    primero = np.r_[True, (filas[1:] != filas[:-1]) | (cols[1:] != cols[:-1])]
+    return csr_matrix((pesos[primero], (filas[primero], cols[primero])), shape=(n, n))
+
+
+def ajustar_nb(formula: str, data: pd.DataFrame, **kw_fit):
+    """Binomial negativa (NB2) con arranque en la Poisson y cambio de optimizador si no converge (revisión v4).
+
+    Newton desde los valores por defecto de statsmodels falla en algunas plataformas (hessiana no invertible).
+    Se arranca en los coeficientes de una Poisson y alpha = 0.5, y se prueba newton, bfgs y nm+bfgs; se acepta el
+    primer ajuste que converge con errores estándar finitos. kw_fit pasa cov_type, cov_kwds, etc.
+    """
+    import statsmodels.api as sm
+    import statsmodels.formula.api as smf
+    pois = smf.glm(formula, data=data, family=sm.families.Poisson()).fit()
+    inicio = np.r_[pois.params.to_numpy(), 0.5]
+    modelo = smf.negativebinomial(formula, data=data)
+    for metodo in ("newton", "bfgs", "nm"):
+        try:
+            if metodo == "nm":
+                previo = modelo.fit(start_params=inicio, method="nm", maxiter=20000, disp=0)
+                m = modelo.fit(start_params=previo.params, method="bfgs", maxiter=5000, disp=0, **kw_fit)
+            else:
+                m = modelo.fit(start_params=inicio, method=metodo, maxiter=5000, disp=0, **kw_fit)
+        except Exception:  # noqa: BLE001
+            continue
+        if m.mle_retvals.get("converged", False) and np.all(np.isfinite(np.asarray(m.bse))):
+            return m
+    raise RuntimeError(f"la binomial negativa no convergió: {formula}")
 
 
 def peso_decaimiento(d: np.ndarray, d0: float, tipo: str = "gaussiano") -> np.ndarray:

@@ -95,3 +95,12 @@ Si 36 no puede descargar las teselas, 34 y 37 usan la región por departamento (
 Salidas: salidas/tablas/relieve_por_origen.csv, relieve_terciles.csv, relieve_modelo.csv, calibracion_por_region.csv,
 factores_regionales.csv, sensibilidad_factor_regional.csv, origenes_factor_regional.csv, filiales_sensibilidad.csv,
 filiales_ubicacion_alternativa.csv, correspondencia_campos.csv, logit_fraccional_espacial.csv, flujo_unidades.csv.
+
+## Revisión v4 (12 de octubre de 2026)
+
+- **M2, corrección de la red.** `coo_matrix(...).tocsr()` sumaba las entradas repetidas: dos locales anclados al mismo nodo sumaban su acceso a pie y dos tramos paralelos sumaban su tiempo, de modo que añadir oferta podía alargar un tiempo (5,108 filas con t_pre > t_rel). `utils.matriz_minimos` conserva el mínimo; se usa en `04b`, `04d` y `red_liviana`. Pruebas en `tests/test_utils.py`.
+- **Rehacer los tiempos:** `python rehacer_tiempos_v4.py` (2-3 horas). Respalda las salidas en `salidas_antes_v4/`, corre 32, 4b, 4d, 26, 37, 33 --modelo y 36, luego el flujo por defecto (termina en 24), y escribe `salidas/cambios_v4.csv` con cada cifra que cambia.
+- El paso 22 ya no se ejecuta por defecto ni sobrescribe la muestra verificada a mano (usar `--forzar`).
+- `30_cifras_texto.py`: Tabla S37 en el orden del artículo, denominadores «(60 km)», definición de los 64 distritos, sedes y filiales en el flujo, sin la fila 2,342.
+- `24_tablas_manuscrito.py`: nota de la Tabla S2 (punto representativo de distrito) y de la Tabla S7 (seis escenarios); nombres de archivo con corte en la Tabla S37.
+- `utils.py`: figuras PDF de matplotlib con fuentes TrueType.

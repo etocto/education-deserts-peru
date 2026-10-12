@@ -1,14 +1,14 @@
 escenario,familia,colegios_que_cambian,alumnos_que_cambian
-sin_rios,Administración y negocios,33,754
-sin_rios,Agropecuaria y ambiente,49,974
+sin_rios,Administración y negocios,49,1557
+sin_rios,Agropecuaria y ambiente,51,1006
 sin_rios,Artes y humanidades,0,0
-sin_rios,"Ciencias naturales, matemáticas e informática",12,220
-sin_rios,"Ciencias sociales, periodismo y derecho",9,118
-sin_rios,Educación,32,659
-sin_rios,"Ingeniería, industria y construcción",11,143
-sin_rios,Salud y bienestar,9,106
+sin_rios,"Ciencias naturales, matemáticas e informática",28,1000
+sin_rios,"Ciencias sociales, periodismo y derecho",12,211
+sin_rios,Educación,35,681
+sin_rios,"Ingeniería, industria y construcción",12,147
+sin_rios,Salud y bienestar,11,115
 sin_rios,Servicios,0,0
-sin_rios,Total,55,1080
+sin_rios,Total,57,1112
 rio_10.6,Administración y negocios,0,0
 rio_10.6,Agropecuaria y ambiente,0,0
 rio_10.6,Artes y humanidades,0,0
@@ -20,7 +20,7 @@ rio_10.6,Salud y bienestar,0,0
 rio_10.6,Servicios,0,0
 rio_10.6,Total,0,0
 rio_18.0,Administración y negocios,7,26
-rio_18.0,Agropecuaria y ambiente,5,46
+rio_18.0,Agropecuaria y ambiente,10,347
 rio_18.0,Artes y humanidades,0,0
 rio_18.0,"Ciencias naturales, matemáticas e informática",4,25
 rio_18.0,"Ciencias sociales, periodismo y derecho",4,18
@@ -28,24 +28,24 @@ rio_18.0,Educación,6,38
 rio_18.0,"Ingeniería, industria y construcción",3,18
 rio_18.0,Salud y bienestar,3,18
 rio_18.0,Servicios,0,0
-rio_18.0,Total,10,74
-vias_x0.75,Administración y negocios,848,25075
-vias_x0.75,Agropecuaria y ambiente,826,21550
+rio_18.0,Total,15,375
+vias_x0.75,Administración y negocios,861,25761
+vias_x0.75,Agropecuaria y ambiente,827,21554
 vias_x0.75,Artes y humanidades,501,20199
-vias_x0.75,"Ciencias naturales, matemáticas e informática",726,23024
-vias_x0.75,"Ciencias sociales, periodismo y derecho",718,22970
-vias_x0.75,Educación,701,22695
-vias_x0.75,"Ingeniería, industria y construcción",884,25807
-vias_x0.75,Salud y bienestar,783,25092
-vias_x0.75,Servicios,751,30839
-vias_x0.75,Total,939,25024
-vias_x1.25,Administración y negocios,751,21164
-vias_x1.25,Agropecuaria y ambiente,779,20770
+vias_x0.75,"Ciencias naturales, matemáticas e informática",740,23715
+vias_x0.75,"Ciencias sociales, periodismo y derecho",721,23063
+vias_x0.75,Educación,703,22712
+vias_x0.75,"Ingeniería, industria y construcción",885,25811
+vias_x0.75,Salud y bienestar,785,25101
+vias_x0.75,Servicios,754,31468
+vias_x0.75,Total,910,24027
+vias_x1.25,Administración y negocios,746,20539
+vias_x1.25,Agropecuaria y ambiente,783,20803
 vias_x1.25,Artes y humanidades,398,13979
-vias_x1.25,"Ciencias naturales, matemáticas e informática",665,20846
-vias_x1.25,"Ciencias sociales, periodismo y derecho",674,20664
-vias_x1.25,Educación,686,20482
-vias_x1.25,"Ingeniería, industria y construcción",782,20713
-vias_x1.25,Salud y bienestar,743,21829
-vias_x1.25,Servicios,579,20087
-vias_x1.25,Total,750,17370
+vias_x1.25,"Ciencias naturales, matemáticas e informática",658,20190
+vias_x1.25,"Ciencias sociales, periodismo y derecho",678,20667
+vias_x1.25,Educación,684,20464
+vias_x1.25,"Ingeniería, industria y construcción",784,20744
+vias_x1.25,Salud y bienestar,744,21844
+vias_x1.25,Servicios,576,19458
+vias_x1.25,Total,749,17266
