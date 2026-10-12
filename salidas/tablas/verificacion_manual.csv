@@ -1,0 +1,21 @@
+COD_MOD,ANEXO,colegio,departamento,distrito,origen,coord_en_distrito,local_en_distrito,distancia_km,distancia_geodesica_km,mismo_local_mas_cercano,distancia_denegada_2018_km,tiempo_modelado_min,tiempo_modelado_al_local_min,tiempo_google_min,km_google,sinuosidad_google,error_rel_pct,origen_recalculado,origen_con_google,verificado_distancia,verificado_tiempo_plausible,verificado_categoria,nota
+0640029,0,SANTIAGO ANTUNEZ DE MAYOLO,ANCASH,ACZO,licensing,1,1,60.8,60.83,1,40.76,284.0,290.5,290.0,167.0,2.75,0.2,licensing,licensing,1,1.0,1,
+1128651,0,VIRGEN DE LA NATIVIDAD,ANCASH,LUCMA,licensing,1,1,66.0,65.71,1,25.9,307.0,307.0,290.0,171.0,2.6,5.9,licensing,licensing,1,1.0,1,
+1370618,0,84331,ANCASH,SAN JUAN,licensing,1,1,87.8,87.66,1,57.27,404.0,494.4,640.0,241.0,2.75,-22.8,licensing,licensing,1,1.0,1,
+0632711,0,VIRGEN DEL SOCORRO,ANCASH,POMABAMBA,licensing,1,1,76.2,75.84,1,38.72,362.0,362.3,360.0,198.0,2.61,0.6,licensing,licensing,1,1.0,1,
+1540236,0,SAN JUAN,PUNO,ANTAUTA,licensing,1,1,84.2,84.31,1,48.68,231.0,248.7,130.0,121.0,1.44,91.3,licensing,licensing,1,0.0,1,error de tiempo +91%
+1673060,0,SHERADON BRYCE SCIENCIE SCHOOL,AREQUIPA,CERRO COLORADO,none,1,1,7.3,7.24,1,8.55,20.0,20.1,28.5,11.3,1.56,-29.5,none,none,1,1.0,1,
+0697060,0,SAN MIGUEL,JUNIN,CHUPACA,none,1,0,7.2,7.23,1,11.13,24.0,28.1,29.5,12.0,1.66,-4.7,none,none,1,1.0,1,local fuera del distrito declarado
+1654078,0,JESUS OBRERO DE OLLANTAY,LIMA,SAN JUAN DE MIRAFLORES,none,1,1,1.7,1.75,1,1.71,11.0,10.9,23.0,5.2,2.97,-52.6,none,none,1,0.0,1,error de tiempo -53%
+1054394,0,5179 LOS PINOS,LIMA,PUENTE PIEDRA,none,1,0,5.7,5.66,1,10.41,13.0,16.6,21.0,7.9,1.4,-21.0,none,none,1,1.0,1,local fuera del distrito declarado
+1722529,0,VANGUARDIA ESTUDIANTIL,LIMA,ATE,none,1,1,1.5,1.54,1,0.74,6.0,6.6,9.0,2.4,1.56,-26.7,none,none,1,1.0,1,
+1780204,0,84325,ANCASH,CUSCA,structural,1,1,64.5,64.38,1,78.54,305.0,476.4,600.0,402.0,6.24,-20.6,structural,structural,1,1.0,1,
+1332766,0,INDUSTRIAL TUPAC AMARU II,AYACUCHO,SAN PEDRO,structural,1,1,90.1,90.17,1,146.74,323.0,323.3,290.0,189.0,2.1,11.5,structural,structural,1,1.0,1,
+1543644,0,32537,HUANUCO,PUCAYACU,structural,1,1,74.8,74.45,1,144.47,163.0,163.2,130.0,93.3,1.25,25.5,structural,structural,1,1.0,1,
+1778257,0,14970,PIURA,SECHURA,structural,1,1,82.3,81.86,1,82.69,184.0,186.1,,,,,structural,structural,1,,1,Google no calcula ruta en auto
+1079888,0,0641 RICARDO PALMA SORIANO,SAN MARTIN,UCHIZA,structural,1,1,109.6,109.1,1,134.1,236.0,236.1,190.0,153.0,1.4,24.3,structural,structural,1,1.0,1,
+1374719,0,PALLCCAS,AYACUCHO,CHUNGUI,topographic,1,0,44.0,43.79,1,44.24,336.0,335.7,430.0,220.0,5.02,-21.9,topographic,topographic,1,1.0,1,local fuera del distrito declarado
+1440916,0,MARIA ANDREA PARADO JAYO,AYACUCHO,PARAS,topographic,1,1,51.5,51.28,1,70.11,179.0,179.5,160.0,83.3,1.62,12.2,topographic,topographic,1,1.0,1,
+1531714,0,JOSE MARIA ARGUEDAS,CAJAMARCA,HUASMIN,topographic,1,1,19.8,19.86,1,41.62,142.0,176.9,170.0,67.7,3.41,4.1,topographic,topographic,1,1.0,1,
+1719665,0,00953,SAN MARTIN,MOYOBAMBA,topographic,1,1,47.4,47.33,1,95.98,138.0,137.8,,,,,topographic,sin ruta en Google,1,,1,Google no calcula ruta en auto
+0922476,0,65037 WALDEMAR SORIA RODRIGUEZ,UCAYALI,CURIMANA,topographic,1,1,55.9,55.93,1,56.02,125.0,142.7,105.0,83.7,1.5,35.9,topographic,topographic,1,0.0,1,error de tiempo +36%

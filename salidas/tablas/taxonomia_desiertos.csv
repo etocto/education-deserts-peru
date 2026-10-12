@@ -1,40 +1,40 @@
 familia,cat,quinto,pct_quinto,pobreza,rural,indigena,lengua_originaria
-Total,none,471631.0,87.75,18.69,13.97,24.28,12.22
-Total,policy,4781.0,0.89,44.16,60.08,82.65,76.94
-Total,structural,42965.0,7.99,37.24,53.9,39.49,26.34
-Total,topographic,18074.0,3.36,46.45,64.63,33.28,29.96
-Educación,none,403940.0,75.16,17.07,10.71,24.96,12.16
-Educación,policy,15393.0,2.86,33.6,44.63,22.14,18.6
-Educación,structural,105239.0,19.58,32.92,42.63,29.93,19.8
-Educación,topographic,12879.0,2.4,45.66,66.58,44.44,40.31
-Artes y humanidades,none,311132.0,57.89,15.49,7.12,22.57,10.3
-Artes y humanidades,structural,220108.0,40.95,28.97,35.22,30.74,19.34
-Artes y humanidades,topographic,6211.0,1.16,43.46,63.08,57.86,55.03
-"Ciencias sociales, periodismo y derecho",none,431027.0,80.2,16.79,10.61,23.6,11.28
-"Ciencias sociales, periodismo y derecho",policy,8028.0,1.49,39.69,60.15,34.12,19.38
-"Ciencias sociales, periodismo y derecho",structural,85234.0,15.86,38.61,51.67,36.83,26.62
-"Ciencias sociales, periodismo y derecho",topographic,13162.0,2.45,47.0,68.15,42.61,39.42
-Administración y negocios,none,457854.0,85.19,18.02,12.81,23.48,11.4
-Administración y negocios,policy,4741.0,0.88,46.34,56.14,66.55,49.79
-Administración y negocios,structural,55534.0,10.33,37.13,52.47,42.98,30.92
-Administración y negocios,topographic,19322.0,3.6,48.14,68.03,35.82,32.67
-"Ciencias naturales, matemáticas e informática",none,418247.0,77.82,16.78,10.35,23.48,11.19
-"Ciencias naturales, matemáticas e informática",policy,13955.0,2.6,21.81,31.51,29.03,15.13
-"Ciencias naturales, matemáticas e informática",structural,93191.0,17.34,38.43,51.29,37.07,26.51
-"Ciencias naturales, matemáticas e informática",topographic,12058.0,2.24,46.6,67.14,38.8,36.65
-"Ingeniería, industria y construcción",none,447025.0,83.18,18.16,13.01,23.32,11.29
-"Ingeniería, industria y construcción",policy,4136.0,0.77,6.27,5.53,30.15,13.18
-"Ingeniería, industria y construcción",structural,71649.0,13.33,36.62,49.2,42.3,30.37
-"Ingeniería, industria y construcción",topographic,14641.0,2.72,47.58,67.87,38.84,36.03
-Agropecuaria y ambiente,none,463320.0,86.21,18.55,13.69,24.19,12.07
-Agropecuaria y ambiente,policy,815.0,0.15,42.69,64.97,81.88,63.28
-Agropecuaria y ambiente,structural,55374.0,10.3,36.29,50.23,40.07,28.52
-Agropecuaria y ambiente,topographic,17942.0,3.34,45.99,65.76,36.35,32.35
-Salud y bienestar,none,435995.0,81.12,17.86,12.16,22.34,10.55
-Salud y bienestar,policy,5073.0,0.94,14.1,17.64,35.29,19.5
-Salud y bienestar,structural,81374.0,15.14,35.32,48.33,46.22,32.75
-Salud y bienestar,topographic,15009.0,2.79,48.84,68.97,31.1,29.15
-Servicios,none,360778.0,67.13,16.35,9.54,22.06,10.02
-Servicios,policy,26892.0,5.0,15.58,11.95,9.94,8.22
-Servicios,structural,136670.0,25.43,33.36,42.28,38.56,25.01
-Servicios,topographic,13111.0,2.44,44.69,62.21,49.56,41.86
+Total,none,429470.0,79.9087,16.602,9.903,22.9013,10.5103
+Total,policy,4781.0,0.8896,44.1584,60.0798,82.6541,76.9446
+Total,structural,42965.0,7.9942,37.2432,53.9005,39.4932,26.3362
+Total,topographic,60235.0,11.2075,41.8761,58.1526,36.8403,29.7146
+Educación,none,364044.0,67.7353,15.22,7.1374,23.3401,10.3491
+Educación,policy,15393.0,2.8641,33.5991,44.6276,22.1426,18.5979
+Educación,structural,105239.0,19.5811,32.9205,42.6314,29.9281,19.8043
+Educación,topographic,52775.0,9.8195,36.7844,49.0229,40.9136,31.551
+Artes y humanidades,none,287130.0,53.4244,14.1013,4.4109,21.4807,8.9109
+Artes y humanidades,structural,220108.0,40.9541,28.9657,35.2197,30.7389,19.3423
+Artes y humanidades,topographic,30213.0,5.6215,34.3982,44.3614,40.1435,32.6722
+"Ciencias sociales, periodismo y derecho",none,388170.0,72.2243,14.8088,6.9157,21.9234,9.4633
+"Ciencias sociales, periodismo y derecho",policy,8028.0,1.4937,39.6872,60.1504,34.1198,19.3835
+"Ciencias sociales, periodismo y derecho",structural,85234.0,15.8589,38.6072,51.6735,36.8319,26.6186
+"Ciencias sociales, periodismo y derecho",topographic,56019.0,10.4231,37.5971,49.7557,39.6867,30.4422
+Administración y negocios,none,408600.0,76.0255,15.6602,8.4247,21.747,9.4542
+Administración y negocios,policy,4741.0,0.8821,46.3378,56.1379,66.5467,49.7905
+Administración y negocios,structural,55534.0,10.3328,37.1298,52.4745,42.9751,30.9152
+Administración y negocios,topographic,68576.0,12.7595,40.5879,54.4846,37.3098,28.9785
+"Ciencias naturales, matemáticas e informática",none,376935.0,70.1338,14.8504,6.7204,22.058,9.5318
+"Ciencias naturales, matemáticas e informática",policy,13955.0,2.5965,21.8107,31.5053,29.032,15.1315
+"Ciencias naturales, matemáticas e informática",structural,93191.0,17.3394,38.4275,51.2918,37.0732,26.514
+"Ciencias naturales, matemáticas e informática",topographic,53370.0,9.9302,37.1116,48.8329,36.9496,28.6345
+"Ingeniería, industria y construcción",none,400341.0,74.4888,15.8252,8.6113,21.7246,9.4468
+"Ingeniería, industria y construcción",policy,4136.0,0.7696,6.269,5.5296,30.1489,13.1839
+"Ingeniería, industria y construcción",structural,71649.0,13.3313,36.6229,49.2005,42.2999,30.3744
+"Ingeniería, industria y construcción",topographic,61325.0,11.4103,40.4136,54.8461,37.4039,29.1942
+Agropecuaria y ambiente,none,416801.0,77.5514,16.2596,9.3343,22.8355,10.3061
+Agropecuaria y ambiente,policy,815.0,0.1516,42.695,64.9676,81.8803,63.2813
+Agropecuaria y ambiente,structural,55374.0,10.3031,36.2899,50.2263,40.0651,28.5227
+Agropecuaria y ambiente,topographic,64461.0,11.9938,40.9926,56.3784,36.3523,29.1112
+Salud y bienestar,none,387815.0,72.1582,15.3602,7.4968,21.1607,8.9689
+Salud y bienestar,policy,5073.0,0.9439,14.0999,17.641,35.2938,19.4998
+Salud y bienestar,structural,81374.0,15.1407,35.3163,48.3254,46.2224,32.7492
+Salud y bienestar,topographic,63189.0,11.7572,40.5367,54.2761,31.646,24.7035
+Servicios,none,322334.0,59.9746,14.543,5.7437,21.0184,8.6356
+Servicios,policy,26892.0,5.0036,15.5831,11.9462,9.9374,8.2198
+Servicios,structural,136670.0,25.4293,33.359,42.2839,38.5646,25.0099
+Servicios,topographic,51555.0,9.5925,34.8714,46.695,35.5672,26.7756

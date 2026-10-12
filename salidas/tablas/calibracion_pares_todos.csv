@@ -1,0 +1,56 @@
+COD_MOD,departamento,muestra,google_min,modelado_min,modelado_sin_calibrar_min,region,error_pct
+0549188,PUNO,calibración (LOOCV),310.0,392.9,191.6,sierra,26.7
+0576942,PIURA,calibración (LOOCV),160.0,131.4,64.8,costa,-17.9
+0286336,LIMA,calibración (LOOCV),240.0,267.7,131.2,sierra,11.5
+1593342,SAN MARTIN,calibración (LOOCV),100.0,133.7,65.4,selva,33.7
+1573583,CAJAMARCA,calibración (LOOCV),150.0,151.8,75.5,sierra,1.2
+0823112,LA LIBERTAD,calibración (LOOCV),80.0,85.6,42.3,costa,7.0
+0766105,LIMA,calibración (LOOCV),150.0,150.3,73.6,sierra,0.2
+0536193,CAJAMARCA,calibración (LOOCV),160.0,142.2,69.8,selva,-11.1
+1613843,MADRE DE DIOS,calibración (LOOCV),3.0,3.6,2.5,selva,20.0
+1757608,LIMA,calibración (LOOCV),7.0,4.4,2.5,costa,-37.1
+1324052,SAN MARTIN,calibración (LOOCV),120.0,150.0,73.3,selva,25.0
+1641455,LA LIBERTAD,calibración (LOOCV),28.0,26.9,14.1,sierra,-3.9
+0525733,CAJAMARCA,calibración (LOOCV),230.0,319.4,155.7,selva,38.9
+0536201,PIURA,calibración (LOOCV),220.0,255.5,124.2,sierra,16.1
+1307487,AMAZONAS,calibración (LOOCV),3.0,3.2,1.9,selva,6.7
+0600098,MADRE DE DIOS,calibración (LOOCV),215.0,219.0,107.4,selva,1.9
+0478065,PUNO,calibración (LOOCV),5.0,4.9,3.0,sierra,-2.0
+1310168,ANCASH,calibración (LOOCV),48.0,20.1,10.4,sierra,-58.1
+0522813,LIMA,calibración (LOOCV),18.0,13.3,7.0,costa,-26.1
+1161082,PASCO,calibración (LOOCV),300.0,297.2,145.6,selva,-0.9
+1696103,AMAZONAS,calibración (LOOCV),70.0,86.1,42.1,selva,23.0
+1646223,ANCASH,calibración (LOOCV),265.0,296.5,144.9,sierra,11.9
+0583468,AMAZONAS,calibración (LOOCV),60.0,63.7,31.4,selva,6.2
+0537506,JUNIN,calibración (LOOCV),24.0,28.1,14.2,sierra,17.1
+1434281,JUNIN,calibración (LOOCV),55.0,64.5,34.0,selva,17.3
+0580498,LAMBAYEQUE,calibración (LOOCV),195.0,199.4,97.7,costa,2.3
+0275776,AYACUCHO,calibración (LOOCV),220.0,243.5,119.8,sierra,10.7
+1459171,LA LIBERTAD,calibración (LOOCV),400.0,439.1,215.0,sierra,9.8
+1594555,SAN MARTIN,calibración (LOOCV),160.0,217.3,105.8,selva,35.8
+0571042,PIURA,calibración (LOOCV),405.0,298.6,147.1,costa,-26.3
+1693464,UCAYALI,calibración (LOOCV),10.0,8.4,4.4,selva,-16.0
+1756857,CUSCO,calibración (LOOCV),75.0,86.1,42.3,sierra,14.8
+0923516,UCAYALI,calibración (LOOCV),19.0,18.0,9.1,selva,-5.3
+1632660,CALLAO,calibración (LOOCV),58.0,37.5,18.9,costa,-35.3
+1790286,CAJAMARCA,calibración (LOOCV),180.0,147.1,72.2,selva,-18.3
+0733386,TUMBES,calibración (LOOCV),120.0,141.3,69.0,costa,17.8
+0657411,AMAZONAS,calibración (LOOCV),260.0,256.9,125.7,selva,-1.2
+0640029,ANCASH,verificación (fuera de muestra),290.0,290.5,,sierra,0.2
+1128651,ANCASH,verificación (fuera de muestra),290.0,307.0,,sierra,5.9
+1370618,ANCASH,verificación (fuera de muestra),640.0,494.4,,sierra,-22.8
+0632711,ANCASH,verificación (fuera de muestra),360.0,362.3,,sierra,0.6
+1540236,PUNO,verificación (fuera de muestra),130.0,248.7,,sierra,91.3
+1673060,AREQUIPA,verificación (fuera de muestra),28.5,20.1,,sierra,-29.5
+0697060,JUNIN,verificación (fuera de muestra),29.5,28.1,,sierra,-4.7
+1654078,LIMA,verificación (fuera de muestra),23.0,10.9,,costa,-52.6
+1054394,LIMA,verificación (fuera de muestra),21.0,16.6,,costa,-21.0
+1722529,LIMA,verificación (fuera de muestra),9.0,6.6,,costa,-26.7
+1780204,ANCASH,verificación (fuera de muestra),600.0,476.4,,sierra,-20.6
+1332766,AYACUCHO,verificación (fuera de muestra),290.0,323.3,,sierra,11.5
+1543644,HUANUCO,verificación (fuera de muestra),130.0,163.2,,selva,25.5
+1079888,SAN MARTIN,verificación (fuera de muestra),190.0,236.1,,selva,24.3
+1374719,AYACUCHO,verificación (fuera de muestra),430.0,335.7,,sierra,-21.9
+1440916,AYACUCHO,verificación (fuera de muestra),160.0,179.5,,sierra,12.2
+1531714,CAJAMARCA,verificación (fuera de muestra),170.0,176.9,,sierra,4.1
+0922476,UCAYALI,verificación (fuera de muestra),105.0,142.7,,selva,35.9

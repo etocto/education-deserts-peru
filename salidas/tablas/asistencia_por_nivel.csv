@@ -1,0 +1,5 @@
+resultado,media_ponderada,coef_desierto_pp_por_punto,ee,p,brecha_100_vs_0_pp,r2,n
+cualquiera,45.9716,-0.068,0.0087,0.0,-6.8035,0.8908,1827
+superior,28.401,-0.0606,0.007,0.0,-6.056,0.9139,1827
+universitaria,19.0648,-0.0524,0.0068,0.0,-5.2385,0.9043,1827
+no_universitaria,9.3362,-0.0082,0.0048,0.0872,-0.8175,0.48,1827

@@ -15,3 +15,4 @@ pulp>=2.7,<4    # PuLP 4 cambió la API y ya no trae el solver CBC
 osmium>=3.6   # solo para el paso 4b (tiempos de viaje)
 libpysal>=4.10   # matriz W y modelos espaciales (pasos 10b)
 spreg>=1.5
+pillow           # teselas de elevación (paso 36)

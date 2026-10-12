@@ -1,0 +1,51 @@
+familia,origen,version,alumnos,colegios,poverty,rural,indigenous,indigenous_tongue,departamento_principal,pct_topografico_no_conectado
+Total,structural,todos,42965,2209,37.2432,53.9005,39.4932,26.3362,,2.8206
+Total,topographic,todos,60235,3541,41.8761,58.1526,36.8403,29.7146,,2.8206
+Total,topographic,sin_no_conectados,58536,3401,41.8647,58.1113,36.8192,29.7431,,2.8206
+Total,topographic,solo_no_conectados,1699,140,42.2713,59.5766,37.5665,28.7323,LORETO,2.8206
+Total,licensing,todos,4781,207,44.1584,60.0798,82.6541,76.9446,,2.8206
+Educación,structural,todos,105239,4444,32.9205,42.6314,29.9281,19.8043,,2.0142
+Educación,topographic,todos,52775,2715,36.7844,49.0229,40.9136,31.551,,2.0142
+Educación,topographic,sin_no_conectados,51712,2623,36.701,48.784,41.0335,31.6692,,2.0142
+Educación,topographic,solo_no_conectados,1063,92,40.842,60.6477,35.0799,25.8023,LORETO,2.0142
+Educación,licensing,todos,15393,583,33.5991,44.6276,22.1426,18.5979,,2.0142
+Artes y humanidades,structural,todos,220108,8259,28.9657,35.2197,30.7389,19.3423,,0.5196
+Artes y humanidades,topographic,todos,30213,1298,34.3982,44.3614,40.1435,32.6722,,0.5196
+Artes y humanidades,topographic,sin_no_conectados,30056,1284,34.3199,44.2128,40.0605,32.6555,,0.5196
+Artes y humanidades,topographic,solo_no_conectados,157,14,49.3892,72.7992,56.0344,35.8797,HUANUCO,0.5196
+Artes y humanidades,licensing,todos,0,0,,,,,,0.5196
+"Ciencias sociales, periodismo y derecho",structural,todos,85234,4064,38.6072,51.6735,36.8319,26.6186,,1.2299
+"Ciencias sociales, periodismo y derecho",topographic,todos,56019,2856,37.5971,49.7557,39.6867,30.4422,,1.2299
+"Ciencias sociales, periodismo y derecho",topographic,sin_no_conectados,55330,2792,37.6037,49.7672,39.8284,30.5549,,1.2299
+"Ciencias sociales, periodismo y derecho",topographic,solo_no_conectados,689,64,37.0639,48.8313,28.306,21.3963,LORETO,1.2299
+"Ciencias sociales, periodismo y derecho",licensing,todos,8028,386,39.6872,60.1504,34.1198,19.3835,,1.2299
+Administración y negocios,structural,todos,55534,2871,37.1298,52.4745,42.9751,30.9152,,1.7455
+Administración y negocios,topographic,todos,68576,3658,40.5879,54.4846,37.3098,28.9785,,1.7455
+Administración y negocios,topographic,sin_no_conectados,67379,3557,40.5904,54.4853,37.3348,28.9839,,1.7455
+Administración y negocios,topographic,solo_no_conectados,1197,101,40.4487,54.4456,35.9026,28.6725,LORETO,1.7455
+Administración y negocios,licensing,todos,4741,195,46.3378,56.1379,66.5467,49.7905,,1.7455
+"Ciencias naturales, matemáticas e informática",structural,todos,93191,4396,38.4275,51.2918,37.0732,26.514,,1.1261
+"Ciencias naturales, matemáticas e informática",topographic,todos,53370,2655,37.1116,48.8329,36.9496,28.6345,,1.1261
+"Ciencias naturales, matemáticas e informática",topographic,sin_no_conectados,52769,2598,37.115,48.834,37.0359,28.6968,,1.1261
+"Ciencias naturales, matemáticas e informática",topographic,solo_no_conectados,601,57,36.8186,48.733,29.368,23.1623,LORETO,1.1261
+"Ciencias naturales, matemáticas e informática",licensing,todos,13955,485,21.8107,31.5053,29.032,15.1315,,1.1261
+"Ingeniería, industria y construcción",structural,todos,71649,3430,36.6229,49.2005,42.2999,30.3744,,1.4236
+"Ingeniería, industria y construcción",topographic,todos,61325,3339,40.4136,54.8461,37.4039,29.1942,,1.4236
+"Ingeniería, industria y construcción",topographic,sin_no_conectados,60452,3261,40.4198,54.8773,37.5319,29.3006,,1.4236
+"Ingeniería, industria y construcción",topographic,solo_no_conectados,873,78,39.979,52.6845,28.5406,21.8242,LORETO,1.4236
+"Ingeniería, industria y construcción",licensing,todos,4136,86,6.269,5.5296,30.1489,13.1839,,1.4236
+Agropecuaria y ambiente,structural,todos,55374,2693,36.2899,50.2263,40.0651,28.5227,,1.9857
+Agropecuaria y ambiente,topographic,todos,64461,3587,40.9926,56.3784,36.3523,29.1112,,1.9857
+Agropecuaria y ambiente,topographic,sin_no_conectados,63181,3479,40.9808,56.3218,36.2355,29.024,,1.9857
+Agropecuaria y ambiente,topographic,solo_no_conectados,1280,108,41.5745,59.1743,42.1211,33.4147,LORETO,1.9857
+Agropecuaria y ambiente,licensing,todos,815,52,42.695,64.9676,81.8803,63.2813,,1.9857
+Salud y bienestar,structural,todos,81374,3840,35.3163,48.3254,46.2224,32.7492,,1.1141
+Salud y bienestar,topographic,todos,63189,3285,40.5367,54.2761,31.646,24.7035,,1.1141
+Salud y bienestar,topographic,sin_no_conectados,62485,3218,40.549,54.3138,31.7566,24.7909,,1.1141
+Salud y bienestar,topographic,solo_no_conectados,704,67,39.4482,50.9339,21.8324,16.9474,LORETO,1.1141
+Salud y bienestar,licensing,todos,5073,173,14.0999,17.641,35.2938,19.4998,,1.1141
+Servicios,structural,todos,136670,5792,33.359,42.2839,38.5646,25.0099,,0.611
+Servicios,topographic,todos,51555,2288,34.8714,46.695,35.5672,26.7756,,0.611
+Servicios,topographic,sin_no_conectados,51240,2260,34.8006,46.6145,35.528,26.7663,,0.611
+Servicios,topographic,solo_no_conectados,315,28,46.3903,59.7948,41.9484,28.2784,HUANUCO,0.611
+Servicios,licensing,todos,26892,648,15.5831,11.9462,9.9374,8.2198,,0.611

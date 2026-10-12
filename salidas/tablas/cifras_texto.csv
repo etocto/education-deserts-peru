@@ -1,0 +1,36 @@
+seccion,cifra,valor,fuente
+4.1,Active regular secondary schools with coordinates,"15,700",demanda_colegios.csv
+4.1,Undergraduate programmes of licensed universities,"3,587",oferta_programas_pregrado.csv
+4.1,... without an official field class (assigned by keyword) / corrected manually,239 / 23,oferta_programas_pregrado.csv
+4.1,Campuses of licensed universities (public / private),353 (177 / 176),oferta_locales.csv
+4.1,Higher education institutes (technological / pedagogical / arts; public),934 (769 / 133 / 32; 459),padron superior no universitaria (ESCALE)
+4.2,"Spearman correlation, uncalibrated modelled vs. Google Maps times (37 pairs)",0.98,calibracion_pares.csv
+4.3,Headquarters and branches of denied universities located (2018),101,oferta_locales_denegadas_2018.csv
+4.3,Denied universities with 2018 records,44,oferta_locales_denegadas_2018.csv
+4.3,Districts with those sites,53,oferta_locales_denegadas_2018.csv
+4.3,Undergraduate programmes at those sites (2018),741,oferta_locales_denegadas_2018.csv
+4.3,Licensed universities with branches in 2018,33,filiales_licenciadas_2018_vs_2024.csv
+4.3,... of which in fewer departments in 2024,0,filiales_licenciadas_2018_vs_2024.csv
+4.2,"Median modelled travel time, connected schools whose nearest programme is 55--65 km away (minutes)",211,accesibilidad_colegios.csv; tiempos_colegios.csv
+5.1,"Topographic-desert students in Loreto, unconnected schools",730,topografico_departamentos.csv
+5.1,Topographic-desert students in Cajamarca,"9,644",topografico_departamentos.csv
+5.3,"Structural deserts, share of final-year students in Madre de Dios (%)",34.2,accesibilidad_colegios.csv; tiempos_colegios.csv
+5.3,"Structural deserts, share of final-year students in Loreto (%)",26.1,accesibilidad_colegios.csv; tiempos_colegios.csv
+5.3,"Licensing-related by distance, Puno, also beyond 90 min (students)","2,342",accesibilidad_colegios.csv; tiempos_colegios.csv
+5.3,"Fewer programmes within 60 km, licensed vs. reconstructed, average student (%)",10.7,efecto_licenciamiento_familias.csv
+5.3,Students with at least one programme within 60 km present only in the reconstructed scenario (%),80.3,efecto_licenciamiento_familias.csv
+5.3,"Lower nearby supply in the licensed scenario, Moquegua (%)",59.2,efecto_licenciamiento_departamentos.csv
+5.3,"Lower nearby supply in the licensed scenario, Puno (%)",49.0,efecto_licenciamiento_departamentos.csv
+5.3,Districts with schools that have a programme within 60 km only in the reconstructed scenario,64,efecto_licenciamiento_distritos.csv
+5.3,Mean poverty of those districts (%),45.5,efecto_licenciamiento_distritos.csv
+5.3,Mean poverty of the other districts (%),33.9,distritos_base.csv
+5.3,Campuses of the six relicensed universities in 2018,25,oferta_locales_denegadas_2018.csv
+5.3,Programmes of the six relicensed universities in 2018,178,oferta_locales_denegadas_2018.csv
+6.2,Students in education deserts in highland or Amazonian schools (%),71.2,accesibilidad_colegios.csv; relieve_colegios.csv
+6.2,Students in natural sciences and ICT deserts in highland or Amazonian schools (%),78.3,accesibilidad_colegios.csv; relieve_colegios.csv
+6.2,All final-year students in highland or Amazonian schools (%),46.2,relieve_colegios.csv
+5.4,Students in any-field deserts with a higher education institute within 60 km (%),86.0,institutos_en_desiertos.csv
+5.4,... with a public institute (%),85.8,institutos_en_desiertos.csv
+5.4,Students in education deserts with a pedagogical institute within 60 km (%),71.5,institutos_en_desiertos.csv
+5.4,... with a public pedagogical institute (%),62.0,institutos_en_desiertos.csv
+5.4,Students in arts deserts with an arts school within 60 km (%),29.8,institutos_en_desiertos.csv

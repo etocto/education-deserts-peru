@@ -1,0 +1,51 @@
+familia,alternativa,lic_2024,lic_con_relicenciadas,lic_2024_puno,lic_relicenciadas_puno
+Total,A. base,4781,2352,2342,2342
+Total,B. localidad OSM,4807,2361,2342,2342
+Total,C. punto del distrito,5689,3229,2682,2668
+Total,"D. ±5 km, robusto",4499,2238,2236,2236
+Total,"D. ±5 km, máximo",7505,3793,2993,2993
+Educación,A. base,15393,8781,55,33
+Educación,B. localidad OSM,15680,8492,55,0
+Educación,C. punto del distrito,18721,10439,772,33
+Educación,"D. ±5 km, robusto",14047,7431,42,0
+Educación,"D. ±5 km, máximo",19456,10417,183,42
+Artes y humanidades,A. base,0,0,0,0
+Artes y humanidades,B. localidad OSM,0,0,0,0
+Artes y humanidades,C. punto del distrito,0,0,0,0
+Artes y humanidades,"D. ±5 km, robusto",0,0,0,0
+Artes y humanidades,"D. ±5 km, máximo",0,0,0,0
+"Ciencias sociales, periodismo y derecho",A. base,8028,3407,733,711
+"Ciencias sociales, periodismo y derecho",B. localidad OSM,8394,3418,733,678
+"Ciencias sociales, periodismo y derecho",C. punto del distrito,12205,6842,1602,863
+"Ciencias sociales, periodismo y derecho","D. ±5 km, robusto",7277,2670,677,635
+"Ciencias sociales, periodismo y derecho","D. ±5 km, máximo",12321,5947,1293,1152
+Administración y negocios,A. base,4741,4508,3190,3190
+Administración y negocios,B. localidad OSM,4798,4529,3190,3187
+Administración y negocios,C. punto del distrito,6144,4953,3534,2817
+Administración y negocios,"D. ±5 km, robusto",4254,3951,3083,2956
+Administración y negocios,"D. ±5 km, máximo",7882,6478,3843,3843
+"Ciencias naturales, matemáticas e informática",A. base,13955,2528,0,0
+"Ciencias naturales, matemáticas e informática",B. localidad OSM,14272,2531,0,0
+"Ciencias naturales, matemáticas e informática",C. punto del distrito,14674,2597,13,13
+"Ciencias naturales, matemáticas e informática","D. ±5 km, robusto",13720,2519,0,0
+"Ciencias naturales, matemáticas e informática","D. ±5 km, máximo",15846,3055,64,64
+"Ingeniería, industria y construcción",A. base,4136,2610,0,0
+"Ingeniería, industria y construcción",B. localidad OSM,4186,2642,0,0
+"Ingeniería, industria y construcción",C. punto del distrito,2383,759,25,25
+"Ingeniería, industria y construcción","D. ±5 km, robusto",4049,2560,0,0
+"Ingeniería, industria y construcción","D. ±5 km, máximo",6344,4112,65,65
+Agropecuaria y ambiente,A. base,815,786,678,678
+Agropecuaria y ambiente,B. localidad OSM,843,814,678,678
+Agropecuaria y ambiente,C. punto del distrito,1152,1123,844,844
+Agropecuaria y ambiente,"D. ±5 km, robusto",768,739,635,635
+Agropecuaria y ambiente,"D. ±5 km, máximo",1972,1943,1113,1113
+Salud y bienestar,A. base,5073,1794,733,733
+Salud y bienestar,B. localidad OSM,5126,1822,733,733
+Salud y bienestar,C. punto del distrito,6743,3382,1602,1602
+Salud y bienestar,"D. ±5 km, robusto",4968,1730,677,677
+Salud y bienestar,"D. ±5 km, máximo",8508,4515,1293,1293
+Servicios,A. base,26892,10319,990,990
+Servicios,B. localidad OSM,26979,10406,990,990
+Servicios,C. punto del distrito,18158,1585,1003,1003
+Servicios,"D. ±5 km, robusto",26600,10027,990,990
+Servicios,"D. ±5 km, máximo",27829,11256,1054,1054

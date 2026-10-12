@@ -1,0 +1,7 @@
+grupo,mean,std
+"Size (log students, log population)",0.2513,0.0731
+Adults without higher education,0.1559,0.0217
+Rurality,0.1013,0.0514
+"Indigenous (self-identification, mother tongue)",0.01,0.0186
+Afro-Peruvian,-0.0071,0.0174
+Poverty,-0.0111,0.0091

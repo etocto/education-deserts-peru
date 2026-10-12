@@ -70,16 +70,21 @@ def main():
     guardar(resumen.round(1).reset_index(), "tipologia_nombres.csv", "tablas")
     print(resumen.round(1).to_string())
 
-    g = lim.merge(t[["ubigeo", "grupo"]], on="ubigeo", how="left")
+    g = lim.merge(t[["ubigeo", "grupo"]], on="ubigeo", how="left").to_crs(32718)
     g["tipo"] = g.grupo.map(nombres)
+    dep_utm = dep.to_crs(32718)
     fig, ax = plt.subplots(figsize=(6, 8))
     g[g.tipo.isna()].plot(ax=ax, color="#e2e8f0", linewidth=0)
     for tipo, col in COLORES.items():
         g[g.tipo == tipo].plot(ax=ax, color=col, linewidth=0)
-    dep.boundary.plot(ax=ax, color="white", linewidth=0.4)
+    dep_utm.boundary.plot(ax=ax, color="white", linewidth=0.4)
     ax.legend(handles=[Patch(color=c, label=k) for k, c in COLORES.items() if k in set(nombres)] +
               [Patch(color="#e2e8f0", label="No final-year students")], loc="lower left", fontsize=8, frameon=False)
     ax.set_axis_off()
+    x0, x1 = ax.get_xlim(); y0, y1 = ax.get_ylim()   # escala gráfica de 200 km (arriba a la derecha)
+    xs, ys = x1 - 0.06 * (x1 - x0) - 200000, y1 - 0.05 * (y1 - y0)
+    ax.plot([xs, xs + 200000], [ys, ys], color="#333333", lw=2, solid_capstyle="butt")
+    ax.text(xs + 100000, ys + 0.012 * (y1 - y0), "200 km", ha="center", va="bottom", fontsize=7, color="#333333")
     guardar_fig("fig_tipologia_mapa.png")
 
     # ---------------- localización óptima

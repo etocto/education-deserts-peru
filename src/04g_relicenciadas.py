@@ -46,7 +46,7 @@ def main():
     t = pd.DataFrame(filas).pivot(index="familia", columns="escenario", values="pct_desierto")[list(escenarios)]
     t["recuperado_pp"] = t.post - t.post_relicenciadas
     t["share_perdida_recuperada"] = 100 * t.recuperado_pp / (t.post - t.pre).replace(0, np.nan)
-    guardar(t.round(2).reset_index(), "escenario_relicenciadas.csv", "tablas")
+    guardar(t.round(4).reset_index(), "escenario_relicenciadas.csv", "tablas")
     print(t.round(1).to_string())
     salen = desierto_total["post"] & ~desierto_total["post_relicenciadas"]
     print(f"alumnos que salen del desierto total con las relicenciadas: {int(q[salen].sum())} "

@@ -1,0 +1,4 @@
+modelo,hiperparametros,busqueda,semilla
+Linear,{'fit_intercept': True},none (fixed a priori),2026
+RandomForest,"{'max_depth': None, 'min_samples_leaf': 5, 'n_estimators': 500}",none (fixed a priori),2026
+XGBoost,"{'colsample_bytree': 0.8, 'learning_rate': 0.03, 'max_depth': 4, 'n_estimators': 600, 'subsample': 0.8}",none (fixed a priori),2026

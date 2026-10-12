@@ -13,10 +13,17 @@ datos/processed/*
 !datos/processed/tiempos_colegios.csv
 !datos/processed/accesibilidad_tiempo_distritos.csv
 !datos/processed/sensibilidad_colegios.csv.gz
+!datos/processed/tiempos_colegios_escenarios.csv
+!datos/processed/tiempos_colegios_factor_regional.csv
+!datos/processed/relieve_colegios.csv
+
+# --- Teselas de elevación (se descargan con el paso 36) ---
+datos/raw/dem/
 
 # --- Manuscrito: se publica en el repositorio cuando el artículo sea aceptado ---
 manuscrito/
 manuscrito_mdpi/
+manuscrito_hep/
 *.zip
 *.pdf
 

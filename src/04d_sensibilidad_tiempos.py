@@ -95,7 +95,8 @@ def escenarios():
 def main(solo_total: bool = False):
     if not t4b.PBF.exists():
         raise FileNotFoundError("Falta el .pbf: corre primero python src/04b_tiempos_viaje.py")
-    lat, lon, a, b, d, tp, tipos, puertos = aristas(t4b.leer_pbf(t4b.PBF))
+    from red_liviana import aristas_compactas   # misma red que 4b con poca memoria
+    lat, lon, a, b, d, tp, tipos, puertos = aristas_compactas(t4b.PBF)
     col = pd.read_csv(ruta("processed") / "demanda_colegios.csv", dtype={"COD_MOD": str, "ANEXO": str, "ubigeo": str})
     loc = pd.read_csv(ruta("processed") / "oferta_locales.csv").dropna(subset=["lat", "lon"])
     q = col.quinto.fillna(0).to_numpy()
@@ -122,10 +123,10 @@ def main(solo_total: bool = False):
               f"{[f['pct_desierto'] for f in filas if f['escenario'] == nombre and f['familia'] == 'Total' and f['umbral_min'] == 90][0]:.1f} %")
     res = pd.DataFrame(filas)
     if solo_total:   # la corrida rápida no sobrescribe la completa ni la tabla del manuscrito
-        guardar(res.round(2), "sensibilidad_tiempos_rapido.csv", "tablas")
+        guardar(res.round(4), "sensibilidad_tiempos_rapido.csv", "tablas")
         print(res[res.umbral_min == 90].round(1).to_string(index=False))
         return
-    guardar(res.round(2), "sensibilidad_tiempos.csv", "tablas")
+    guardar(res.round(4), "sensibilidad_tiempos.csv", "tablas")
     pc = pd.concat(por_colegio, ignore_index=True)
     pc.to_csv(ruta("processed") / "sensibilidad_colegios.csv.gz", index=False)
     print(f"  -> datos/processed/sensibilidad_colegios.csv.gz ({len(pc):,} filas)")

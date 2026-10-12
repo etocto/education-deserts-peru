@@ -1,0 +1,6 @@
+modelo,region,factor,pares,error_medio_min,error_absoluto_medio_min,error_relativo_mediano_pct,pct_dentro_30pct,pearson,acuerdo_umbral_90min_pct,fuente_region
+factor único (LOOCV),todas,0.4875,37,7.627,21.2,6.1667,83.7838,0.9624,100.0,elevación (paso 36)
+factor por región (LOOCV),todas,,37,7.4835,21.5255,2.1485,91.8919,0.9704,97.2973,elevación (paso 36)
+factor por región (dentro de muestra),costa,0.41,8,5.497,22.1238,-6.7112,87.5,0.9721,87.5,elevación (paso 36)
+factor por región (dentro de muestra),selva,0.53,16,0.7204,18.5129,-0.3491,100.0,0.9629,100.0,elevación (paso 36)
+factor por región (dentro de muestra),sierra,0.4975,13,13.7524,18.8597,8.5377,92.3077,0.9937,100.0,elevación (paso 36)

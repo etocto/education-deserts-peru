@@ -190,8 +190,10 @@ def main(prueba: str | None = None):
     else:
         if not PBF.exists():
             descargar_pbf()
-        vias = leer_pbf(PBF)
-    g, lat_red, lon_red = construir_grafo(vias)
+        from red_liviana import construir_red   # misma red, menos memoria (velocidades calibradas en utils)
+        g, lat_red, lon_red = construir_red(PBF)
+    if prueba:
+        g, lat_red, lon_red = construir_grafo(vias)
 
     col = pd.read_csv(ruta("processed") / "demanda_colegios.csv", dtype={"COD_MOD": str, "ANEXO": str, "ubigeo": str})
     loc = pd.read_csv(ruta("processed") / "oferta_locales.csv").dropna(subset=["lat", "lon"])

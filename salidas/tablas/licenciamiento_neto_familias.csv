@@ -1,0 +1,21 @@
+familia,version,alumnos_licenciamiento,alumnos_en_desierto,pct_del_desierto,pct_quinto_nacional,departamento_principal,pct_en_departamento_principal,departamentos
+Total,v2024,4781,47746,10.0134,0.8896,PUNO,48.9856,5
+Total,vrel,2352,45317,5.1901,0.4376,PUNO,99.5748,3
+Educación,v2024,15393,120632,12.7603,2.8641,CAJAMARCA,38.6474,12
+Educación,vrel,8781,114020,7.7013,1.6338,CAJAMARCA,67.7485,6
+Artes y humanidades,v2024,0,220108,0.0,0.0,,,0
+Artes y humanidades,vrel,0,220108,0.0,0.0,,,0
+"Ciencias sociales, periodismo y derecho",v2024,8028,93262,8.608,1.4937,JUNIN,42.7504,12
+"Ciencias sociales, periodismo y derecho",vrel,3407,88641,3.8436,0.6339,CAJAMARCA,76.9005,8
+Administración y negocios,v2024,4741,60275,7.8656,0.8821,PUNO,67.2854,11
+Administración y negocios,vrel,4508,60042,7.5081,0.8388,PUNO,70.7631,7
+"Ciencias naturales, matemáticas e informática",v2024,13955,107146,13.0243,2.5965,JUNIN,34.167,14
+"Ciencias naturales, matemáticas e informática",vrel,2528,95719,2.6411,0.4704,CUSCO,65.0316,8
+"Ingeniería, industria y construcción",v2024,4136,75785,5.4575,0.7696,MADRE DE DIOS,61.3395,10
+"Ingeniería, industria y construcción",vrel,2610,74259,3.5147,0.4856,MADRE DE DIOS,97.2031,5
+Agropecuaria y ambiente,v2024,815,56189,1.4505,0.1516,PUNO,83.1902,5
+Agropecuaria y ambiente,vrel,786,56160,1.3996,0.1462,PUNO,86.2595,4
+Salud y bienestar,v2024,5073,86447,5.8683,0.9439,MOQUEGUA,59.2549,8
+Salud y bienestar,vrel,1794,83168,2.1571,0.3338,LIMA,53.5117,6
+Servicios,v2024,26892,163562,16.4415,5.0036,UCAYALI,32.4483,11
+Servicios,vrel,10319,146989,7.0203,1.92,UCAYALI,84.5625,11

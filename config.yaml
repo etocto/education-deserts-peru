@@ -70,6 +70,7 @@ tiempos:
   velocidad_acceso_kmh: 5        # tramo a pie entre el colegio/local y la vía más cercana
   t0_min: 90                     # umbral de captación del 2SFCA con tiempos
   umbral_desierto_min: 90        # sin programa a menos de 90 min = desierto (sensibilidad: 60 y 120)
+  factor_calibracion_vias: 0.4875       # paso 32: velocidades viales × factor (validación con Google Maps)
   velocidades_kmh:
     motorway: 90
     trunk: 80

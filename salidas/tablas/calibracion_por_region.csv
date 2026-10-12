@@ -1,0 +1,7 @@
+muestra,region,pares,error_medio_pct,error_mediano_pct,error_absoluto_medio_min,pct_dentro_30pct,pearson,spearman,pares_60_120min,acuerdo_umbral_90_pct,acuerdo_umbral_90_pares_cercanos_pct,fuente_region
+todas,todas,55,1.9546,2.2564,27.1236,83.6364,0.9534,0.9773,8,100.0,100.0,elevación (paso 36)
+todas,costa,11,-19.6333,-26.1111,19.3636,72.7273,0.9745,0.9636,2,100.0,100.0,elevación (paso 36)
+todas,selva,19,12.6981,17.2727,22.1421,78.9474,0.9582,0.9622,5,100.0,100.0,elevación (paso 36)
+todas,sierra,25,3.2882,4.0588,34.324,92.0,0.9487,0.9684,1,100.0,100.0,elevación (paso 36)
+calibración (LOOCV),todas,37,2.5895,6.1667,21.2,83.7838,0.9624,0.98,7,100.0,100.0,elevación (paso 36)
+verificación (fuera de muestra),todas,18,0.6494,0.4057,39.3,83.3333,0.9572,0.9757,1,100.0,100.0,elevación (paso 36)

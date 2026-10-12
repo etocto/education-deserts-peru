@@ -1,0 +1,2 @@
+colegios,coordenadas_en_su_distrito,locales_en_su_distrito,distancia_dif_max_km,mismo_local_mas_cercano,distancia_verificada,error_absoluto_medio_min,error_relativo_mediano_pct,pares_con_ruta_google,dentro_30pct,pearson,acuerdo_umbral_90,tiempo_plausible,categoria_reproducida,categoria_igual_con_google
+20,20,17,0.5,20,20,39.3,0.4,18,15,0.96,18,15,20,18

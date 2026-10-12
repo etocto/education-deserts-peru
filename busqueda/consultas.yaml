@@ -1,0 +1,135 @@
+# Consultas bibliográficas para levantar las observaciones del reporte de seguimiento (HEP, 11-oct-2026).
+# Cada bloque tiene: objetivo (qué observación atiende), la cadena para Scopus (TITLE-ABS-KEY), la cadena para
+# Web of Science (TS=) y una búsqueda en lenguaje libre para OpenAlex (API pública, sin clave).
+# Filtro de años sugerido: 2000-2026. Idiomas: inglés, español y portugués.
+
+bloques:
+  A_novedad:
+    observaciones: [N11, "obs. 11"]
+    objetivo: >
+      Estudios que miden desiertos educativos o acceso geográfico a la educación superior a escala nacional,
+      sobre todo en América Latina, y los que desagregan la oferta por campo de estudio o carrera.
+    scopus: >
+      TITLE-ABS-KEY(("education* desert*" OR "college desert*" OR "higher education desert*" OR "university desert*"
+      OR "geograph* access*" OR "spatial access*" OR "spatial accessibilit*" OR "geography of opportunit*")
+      AND ("higher education" OR universit* OR college* OR "tertiary education")
+      AND ("field of study" OR "fields of study" OR discipline* OR "academic program*" OR "degree program*" OR major*
+      OR "Latin America" OR Peru OR Chile OR Colombia OR Mexico OR Brazil OR Argentina OR Ecuador OR Uruguay OR Bolivia))
+      AND PUBYEAR > 1999
+    wos: >
+      TS=(("education* desert*" OR "college desert*" OR "higher education desert*" OR "university desert*"
+      OR "geograph* access*" OR "spatial access*" OR "spatial accessibilit*" OR "geography of opportunit*")
+      AND ("higher education" OR universit* OR college* OR "tertiary education")
+      AND ("field of study" OR "fields of study" OR discipline* OR "academic program*" OR "degree program*" OR major*
+      OR "Latin America" OR Peru OR Chile OR Colombia OR Mexico OR Brazil OR Argentina OR Ecuador OR Uruguay OR Bolivia))
+    openalex:
+      - "education deserts higher education Latin America"
+      - "geographic access higher education field of study"
+      - "desiertos educativos educación superior"
+      - "distribución territorial oferta universitaria carreras"
+      - "acesso geográfico ensino superior cursos de graduação distribuição territorial"
+
+  B_umbral:
+    observaciones: [N5, "obs. 2"]
+    objetivo: >
+      Evidencia para justificar el umbral de 90 minutos y el radio de 60 km: tiempos o distancias de traslado diario
+      para estudiar, umbrales usados en la literatura de desiertos y de distancia a la universidad.
+    scopus: >
+      TITLE-ABS-KEY(("commut*" OR "travel time" OR "distance to universit*" OR "distance to college" OR "proximity")
+      AND ("higher education" OR universit* OR college*)
+      AND ("threshold" OR "minutes" OR "kilomet*" OR "miles" OR "commuting zone*" OR "catchment"))
+      AND PUBYEAR > 1999
+    wos: >
+      TS=(("commut*" OR "travel time" OR "distance to universit*" OR "distance to college" OR "proximity")
+      AND ("higher education" OR universit* OR college*)
+      AND ("threshold" OR "minutes" OR "kilomet*" OR "miles" OR "commuting zone*" OR "catchment"))
+    openalex:
+      - "commuting time to university students threshold minutes"
+      - "distance to college enrollment threshold miles"
+      - "tiempo de traslado estudiantes universitarios Perú"
+
+  C_cierres_calidad:
+    observaciones: [N9, "obs. 4", "obs. 12"]
+    objetivo: >
+      Efectos del cierre de instituciones, campus o programas, y de la denegación o pérdida de licencia o acreditación,
+      sobre el acceso, la matrícula o su distribución territorial (para reemplazar o respaldar las citas de Walsh 2017
+      y Hermannsson 2019). Versión acotada (la primera era demasiado amplia).
+    scopus: >
+      TITLE-ABS-KEY(("college closure*" OR "university closure*" OR "campus closure*" OR "institutional closure*"
+      OR "program closure*" OR "closed institution*" OR "loss of accreditation"
+      OR "licen* denial" OR "denied licen*" OR "licensing reform" OR "institutional licen*")
+      AND ("higher education" OR universit* OR college* OR postsecondary)
+      AND (access OR enrol* OR student* OR regional OR geograph* OR distance))
+      AND PUBYEAR > 1999 AND (LIMIT-TO(SUBJAREA,"SOCI") OR LIMIT-TO(SUBJAREA,"ECON"))
+    wos: >
+      TS=(("college closure*" OR "university closure*" OR "campus closure*" OR "institutional closure*"
+      OR "program closure*" OR "closed institution*" OR "loss of accreditation"
+      OR "licen* denial" OR "denied licen*" OR "licensing reform" OR "institutional licen*")
+      AND ("higher education" OR universit* OR college* OR postsecondary)
+      AND (access OR enrol* OR student* OR regional OR geograph* OR distance))
+    openalex:
+      - "college closures effects on student enrollment access"
+      - "university licensing reform Peru SUNEDU"
+      - "licenciamiento universitario SUNEDU acceso"
+
+  D_hep:
+    observaciones: [N10]
+    objetivo: >
+      Artículos publicados en Higher Education Policy sobre desiertos, oasis, geografía de oportunidades, acceso regional
+      y regulación de la calidad, para dialogar con la literatura de la revista.
+    scopus: >
+      SRCTITLE("Higher Education Policy") AND TITLE-ABS-KEY(desert* OR oasis OR oases OR "geography of opportunit*"
+      OR regional OR rural OR geograph* OR spatial OR "quality assurance" OR licens* OR accreditation OR "Latin America")
+    wos: >
+      SO=("HIGHER EDUCATION POLICY") AND TS=(desert* OR oasis OR oases OR "geography of opportunit*" OR regional
+      OR rural OR geograph* OR spatial OR "quality assurance" OR licens* OR accreditation OR "Latin America")
+    openalex_fuente: "Higher Education Policy"
+    openalex:
+      - "deserts"
+      - "geography of opportunity"
+      - "regional access"
+      - "quality assurance regulation"
+
+  E_institutos:
+    observaciones: ["obs. 10", N10]
+    objetivo: >
+      Educación superior no universitaria en el Perú (institutos, Ley 30512), articulación institutos-universidades,
+      reconocimiento de créditos y rutas a grados; experiencias comparables en la región.
+    scopus: >
+      TITLE-ABS-KEY(("non-university" OR "technical institute*" OR "vocational higher education" OR "short-cycle"
+      OR "pedagogical institute*" OR "community college*") AND (articulat* OR "credit transfer" OR pathway* OR transfer)
+      AND ("higher education" OR universit*) AND ("Latin America" OR Peru OR Chile OR Colombia OR Mexico OR Argentina))
+    wos: >
+      TS=(("non-university" OR "technical institute*" OR "vocational higher education" OR "short-cycle"
+      OR "pedagogical institute*" OR "community college*") AND (articulat* OR "credit transfer" OR pathway* OR transfer)
+      AND ("higher education" OR universit*) AND ("Latin America" OR Peru OR Chile OR Colombia OR Mexico OR Argentina))
+    openalex:
+      - "educación superior tecnológica Perú institutos articulación universidades"
+      - "short-cycle tertiary education Latin America pathways to bachelor"
+
+  F_privadas_filiales:
+    observaciones: [N9]
+    objetivo: >
+      Calidad de la oferta privada y de filiales universitarias en el Perú antes del licenciamiento (para respaldar o
+      retirar «supply of doubtful quality»).
+    scopus: >
+      TITLE-ABS-KEY((Peru OR Peruvian) AND ("private universit*" OR "for-profit" OR "branch campus*" OR filial*)
+      AND (quality OR licens* OR SUNEDU OR regulation))
+    wos: >
+      TS=((Peru OR Peruvian) AND ("private universit*" OR "for-profit" OR "branch campus*" OR filial*)
+      AND (quality OR licens* OR SUNEDU OR regulation))
+    openalex:
+      - "Peru private universities quality licensing SUNEDU"
+      - "universidades con fines de lucro Perú calidad"
+
+  G_metodos:
+    observaciones: [N6]
+    objetivo: >
+      Referencia metodológica para modelar la proporción de estudiantes en desierto por distrito (modelos de respuesta
+      fraccional) y su uso en estudios de accesibilidad.
+    scopus: >
+      TITLE-ABS-KEY("fractional response" OR "fractional logit" OR "fractional probit") AND TITLE-ABS-KEY(access* OR education)
+    wos: >
+      TS=("fractional response" OR "fractional logit" OR "fractional probit") AND TS=(access* OR education)
+    openalex:
+      - "fractional response variables econometric methods proportions"

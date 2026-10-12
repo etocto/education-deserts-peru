@@ -1,0 +1,81 @@
+familia,oferta,origen,alumnos,pct_del_desierto
+Total,post,structural,42965,39.7894
+Total,post,distance_only,0,0.0
+Total,post,licensing,4781,4.4276
+Total,post,topographic,60235,55.783
+Total,rel,structural,42965,39.9485
+Total,rel,distance_only,0,0.0
+Total,rel,licensing,2352,2.1869
+Total,rel,topographic,62234,57.8646
+Educación,post,structural,105239,60.689
+Educación,post,distance_only,0,0.0
+Educación,post,licensing,15393,8.8768
+Educación,post,topographic,52775,30.4342
+Educación,rel,structural,105239,63.1979
+Educación,rel,distance_only,0,0.0
+Educación,rel,licensing,8781,5.2731
+Educación,rel,topographic,52503,31.529
+Artes y humanidades,post,structural,220108,87.9303
+Artes y humanidades,post,distance_only,0,0.0
+Artes y humanidades,post,licensing,0,0.0
+Artes y humanidades,post,topographic,30213,12.0697
+Artes y humanidades,rel,structural,220108,87.9303
+Artes y humanidades,rel,distance_only,0,0.0
+Artes y humanidades,rel,licensing,0,0.0
+Artes y humanidades,rel,topographic,30213,12.0697
+"Ciencias sociales, periodismo y derecho",post,structural,85234,57.0963
+"Ciencias sociales, periodismo y derecho",post,distance_only,0,0.0
+"Ciencias sociales, periodismo y derecho",post,licensing,8028,5.3778
+"Ciencias sociales, periodismo y derecho",post,topographic,56019,37.5259
+"Ciencias sociales, periodismo y derecho",rel,structural,85234,59.1882
+"Ciencias sociales, periodismo y derecho",rel,distance_only,0,0.0
+"Ciencias sociales, periodismo y derecho",rel,licensing,3407,2.3659
+"Ciencias sociales, periodismo y derecho",rel,topographic,55364,38.4459
+Administración y negocios,post,structural,55534,43.0994
+Administración y negocios,post,distance_only,0,0.0
+Administración y negocios,post,licensing,4741,3.6794
+Administración y negocios,post,topographic,68576,53.2212
+Administración y negocios,rel,structural,55534,44.0634
+Administración y negocios,rel,distance_only,0,0.0
+Administración y negocios,rel,licensing,4508,3.5769
+Administración y negocios,rel,topographic,65990,52.3597
+"Ciencias naturales, matemáticas e informática",post,structural,93191,58.0571
+"Ciencias naturales, matemáticas e informática",post,distance_only,0,0.0
+"Ciencias naturales, matemáticas e informática",post,licensing,13955,8.6938
+"Ciencias naturales, matemáticas e informática",post,topographic,53370,33.249
+"Ciencias naturales, matemáticas e informática",rel,structural,93191,62.486
+"Ciencias naturales, matemáticas e informática",rel,distance_only,0,0.0
+"Ciencias naturales, matemáticas e informática",rel,licensing,2528,1.6951
+"Ciencias naturales, matemáticas e informática",rel,topographic,53420,35.8189
+"Ingeniería, industria y construcción",post,structural,71649,52.2566
+"Ingeniería, industria y construcción",post,distance_only,0,0.0
+"Ingeniería, industria y construcción",post,licensing,4136,3.0166
+"Ingeniería, industria y construcción",post,topographic,61325,44.7269
+"Ingeniería, industria y construcción",rel,structural,71649,52.8116
+"Ingeniería, industria y construcción",rel,distance_only,0,0.0
+"Ingeniería, industria y construcción",rel,licensing,2610,1.9238
+"Ingeniería, industria y construcción",rel,topographic,61410,45.2646
+Agropecuaria y ambiente,post,structural,55374,45.8964
+Agropecuaria y ambiente,post,distance_only,0,0.0
+Agropecuaria y ambiente,post,licensing,815,0.6755
+Agropecuaria y ambiente,post,topographic,64461,53.4281
+Agropecuaria y ambiente,rel,structural,55374,45.8964
+Agropecuaria y ambiente,rel,distance_only,0,0.0
+Agropecuaria y ambiente,rel,licensing,786,0.6515
+Agropecuaria y ambiente,rel,topographic,64490,53.4521
+Salud y bienestar,post,structural,81374,54.3813
+Salud y bienestar,post,distance_only,0,0.0
+Salud y bienestar,post,licensing,5073,3.3902
+Salud y bienestar,post,topographic,63189,42.2285
+Salud y bienestar,rel,structural,81374,56.1223
+Salud y bienestar,rel,distance_only,0,0.0
+Salud y bienestar,rel,licensing,1794,1.2373
+Salud y bienestar,rel,topographic,61826,42.6404
+Servicios,post,structural,136670,63.5329
+Servicios,post,distance_only,0,0.0
+Servicios,post,licensing,26892,12.5011
+Servicios,post,topographic,51555,23.966
+Servicios,rel,structural,136670,68.1381
+Servicios,rel,distance_only,0,0.0
+Servicios,rel,licensing,10319,5.1446
+Servicios,rel,topographic,53589,26.7173

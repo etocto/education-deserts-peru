@@ -1,0 +1,61 @@
+familia,origen,alumnos,pct_quinto,departamento_principal,lic_distancia_en_categoria,poverty,poverty_esperado_dep,rural,rural_esperado_dep,indigenous,indigenous_esperado_dep,pct_del_desierto
+Total,structural,42965.0,7.9942,PIURA,0.0,37.2432,26.9421,53.9005,29.0443,39.4932,29.9698,39.7894
+Total,licensing,4781.0,0.8896,PUNO,4781.0,44.1584,28.8286,60.0798,32.3636,82.6541,63.5125,4.4276
+Total,topographic,60235.0,11.2075,CAJAMARCA,0.0,41.8761,29.6943,58.1526,33.3767,36.8403,32.9759,55.783
+Total,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Total,union,107981.0,20.0913,CAJAMARCA,4781.0,40.1338,28.5609,56.546,31.608,39.9243,33.1318,100.0
+Total,fuera_de_desierto,429470.0,,,,16.602,,9.903,,22.9013,,397.7274
+Educación,structural,105239.0,19.5811,SAN MARTIN,0.0,32.9205,25.1288,42.6314,26.6882,29.9281,26.8497,60.689
+Educación,licensing,15393.0,2.8641,CAJAMARCA,15393.0,33.5991,31.594,44.6276,39.1541,22.1426,21.8134,8.8768
+Educación,topographic,52775.0,9.8195,PIURA,0.0,36.7844,28.4128,49.0229,31.5832,40.9136,36.3062,30.4342
+Educación,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Educación,union,173407.0,32.2647,CAJAMARCA,15393.0,34.1567,26.7022,44.7538,29.2846,32.5804,29.2807,100.0
+Educación,fuera_de_desierto,364044.0,,,,15.22,,7.1374,,23.3401,,209.9362
+Artes y humanidades,structural,220108.0,40.9541,CAJAMARCA,0.0,28.9657,25.9708,35.2197,29.1964,30.7389,30.7758,87.9303
+Artes y humanidades,licensing,0.0,0.0,,0.0,,,,,,,0.0
+Artes y humanidades,topographic,30213.0,5.6215,PIURA,0.0,34.3982,26.2661,44.3614,27.912,40.1435,34.5295,12.0697
+Artes y humanidades,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Artes y humanidades,union,250321.0,46.5756,CAJAMARCA,0.0,29.6214,26.0064,36.3231,29.0414,31.874,31.2289,100.0
+Artes y humanidades,fuera_de_desierto,287130.0,,,,14.1013,,4.4109,,21.4807,,114.7047
+"Ciencias sociales, periodismo y derecho",structural,85234.0,15.8589,LORETO,0.0,38.6072,27.493,51.6735,29.5612,36.8319,30.0548,57.0963
+"Ciencias sociales, periodismo y derecho",licensing,8028.0,1.4937,JUNIN,8028.0,39.6872,29.0284,60.1504,32.522,34.1198,29.8917,5.3778
+"Ciencias sociales, periodismo y derecho",topographic,56019.0,10.4231,CAJAMARCA,0.0,37.5971,30.0413,49.7557,34.6283,39.6867,36.1275,37.5259
+"Ciencias sociales, periodismo y derecho",distance_only,0.0,0.0,,0.0,,,,,,,0.0
+"Ciencias sociales, periodismo y derecho",union,149281.0,27.7757,CAJAMARCA,8028.0,38.2862,28.5319,51.4097,31.6219,37.7574,32.3249,100.0
+"Ciencias sociales, periodismo y derecho",fuera_de_desierto,388170.0,,,,14.8088,,6.9157,,21.9234,,260.0264
+Administración y negocios,structural,55534.0,10.3328,LORETO,0.0,37.1298,26.5913,52.4745,28.8824,42.9751,33.2101,43.0994
+Administración y negocios,licensing,4741.0,0.8821,PUNO,4741.0,46.3378,36.2088,56.1379,39.2692,66.5467,63.8258,3.6794
+Administración y negocios,topographic,68576.0,12.7595,CAJAMARCA,0.0,40.5879,30.412,54.4846,34.8229,37.3098,33.438,53.2212
+Administración y negocios,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Administración y negocios,union,128851.0,23.9745,CAJAMARCA,4741.0,39.3091,28.9786,53.6791,32.4261,40.8273,34.4579,100.0
+Administración y negocios,fuera_de_desierto,408600.0,,,,15.6602,,8.4247,,21.747,,317.1105
+"Ciencias naturales, matemáticas e informática",structural,93191.0,17.3394,LORETO,0.0,38.4275,27.8071,51.2918,30.3619,37.0732,30.9061,58.0571
+"Ciencias naturales, matemáticas e informática",licensing,13955.0,2.5965,JUNIN,13955.0,21.8107,17.2189,31.5053,18.2198,29.032,28.4331,8.6938
+"Ciencias naturales, matemáticas e informática",topographic,53370.0,9.9302,CAJAMARCA,0.0,37.1116,30.3195,48.8329,34.4266,36.9496,33.6867,33.249
+"Ciencias naturales, matemáticas e informática",distance_only,0.0,0.0,,0.0,,,,,,,0.0
+"Ciencias naturales, matemáticas e informática",union,160516.0,29.8662,CAJAMARCA,13955.0,36.5454,27.7219,48.754,30.6577,36.333,31.6156,100.0
+"Ciencias naturales, matemáticas e informática",fuera_de_desierto,376935.0,,,,14.8504,,6.7204,,22.058,,234.8271
+"Ingeniería, industria y construcción",structural,71649.0,13.3313,LORETO,0.0,36.6229,26.2536,49.2005,27.9083,42.2999,33.9215,52.2566
+"Ingeniería, industria y construcción",licensing,4136.0,0.7696,MADRE DE DIOS,4136.0,6.269,6.7869,5.5296,12.4419,30.1489,38.2378,3.0166
+"Ingeniería, industria y construcción",topographic,61325.0,11.4103,CAJAMARCA,0.0,40.4136,29.8289,54.8461,33.6974,37.4039,34.2937,44.7269
+"Ingeniería, industria y construcción",distance_only,0.0,0.0,,0.0,,,,,,,0.0
+"Ingeniería, industria y construcción",union,137110.0,25.5112,PIURA,4136.0,37.4027,27.2655,50.4082,30.0311,39.7435,34.2182,100.0
+"Ingeniería, industria y construcción",fuera_de_desierto,400341.0,,,,15.8252,,8.6113,,21.7246,,291.9853
+Agropecuaria y ambiente,structural,55374.0,10.3031,LORETO,0.0,36.2899,26.182,50.2263,28.2019,40.0651,31.1111,45.8964
+Agropecuaria y ambiente,licensing,815.0,0.1516,PUNO,815.0,42.695,33.5718,64.9676,35.3665,81.8803,79.4614,0.6755
+Agropecuaria y ambiente,topographic,64461.0,11.9938,CAJAMARCA,0.0,40.9926,30.1675,56.3784,34.219,36.3523,33.591,53.4281
+Agropecuaria y ambiente,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Agropecuaria y ambiente,union,120650.0,22.4486,PIURA,815.0,38.8457,28.3613,53.6128,31.4651,38.3639,32.7627,100.0
+Agropecuaria y ambiente,fuera_de_desierto,416801.0,,,,16.2596,,9.3343,,22.8355,,345.4629
+Salud y bienestar,structural,81374.0,15.1407,LORETO,0.0,35.3163,25.5684,48.3254,27.9423,46.2224,37.838,54.3813
+Salud y bienestar,licensing,5073.0,0.9439,MOQUEGUA,5073.0,14.0999,13.3663,17.641,10.0262,35.2938,36.9014,3.3902
+Salud y bienestar,topographic,63189.0,11.7572,CAJAMARCA,0.0,40.5367,30.846,54.2761,35.2266,31.646,30.5098,42.2285
+Salud y bienestar,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Salud y bienestar,union,149636.0,27.8418,CAJAMARCA,5073.0,36.8015,27.3834,49.798,30.411,39.6965,34.7117,100.0
+Salud y bienestar,fuera_de_desierto,387815.0,,,,15.3602,,7.4968,,21.1607,,259.1723
+Servicios,structural,136670.0,25.4293,JUNIN,0.0,33.359,27.3554,42.2839,30.7626,38.5646,34.5929,63.5329
+Servicios,licensing,26892.0,5.0036,UCAYALI,26892.0,15.5831,23.5083,11.9462,28.1208,9.9374,25.6666,12.5011
+Servicios,topographic,51555.0,9.5925,CAJAMARCA,0.0,34.8714,26.6605,46.695,30.019,35.5672,33.4034,23.966
+Servicios,distance_only,0.0,0.0,,0.0,,,,,,,0.0
+Servicios,union,215117.0,40.0254,JUNIN,26892.0,31.4993,26.708,39.5485,30.2541,34.2675,33.1919,100.0
+Servicios,fuera_de_desierto,322334.0,,,,14.543,,5.7437,,21.0184,,149.8412

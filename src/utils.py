@@ -12,6 +12,12 @@ import yaml
 RAIZ = Path(__file__).resolve().parents[1]
 CFG = yaml.safe_load(open(RAIZ / "config.yaml", encoding="utf-8"))
 
+# Calibración de velocidades (paso 32): las vías se multiplican por tiempos.factor_calibracion_vias; ríos y ferris no.
+_T = CFG.get("tiempos", {})
+_T["velocidades_kmh_sin_calibrar"] = dict(_T.get("velocidades_kmh", {}))
+_F = float(_T.get("factor_calibracion_vias", 1.0))
+_T["velocidades_kmh"] = {k: (v if k in ("river", "ferry") else v * _F) for k, v in _T["velocidades_kmh_sin_calibrar"].items()}
+
 
 def ruta(clave: str) -> Path:
     """Ruta absoluta de un archivo o carpeta definido en config.yaml."""

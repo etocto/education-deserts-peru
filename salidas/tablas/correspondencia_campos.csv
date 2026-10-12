@@ -1,0 +1,41 @@
+familia,clase_N2_SUNEDU,cine_f_2013,campo_amplio_cine,programas
+Education,Educacion inicial y primaria,011 Education,01 Education,111
+Education,Educacion secundaria,011 Education,01 Education,87
+Education,Otros programas en educacion,011 Education,01 Education,31
+Education,Educacion fisica,011 Education,01 Education,14
+Education,Educacion especial,011 Education,01 Education,8
+Education,Educacion artistica,011 Education,01 Education,3
+Education,Educacion superior y tecnologica,011 Education,01 Education,2
+Education,Ninguno (asignado por palabra clave),—,—,155
+Arts and humanities,Arte,021 Arts,02 Arts and humanities,92
+Arts and humanities,Humanidades,022 Humanities (except languages),02 Arts and humanities,42
+Arts and humanities,Idiomas,023 Languages,02 Arts and humanities,18
+Arts and humanities,Ninguno (asignado por palabra clave),—,—,3
+"Social sciences, journalism and law",Ciencias sociales y del comportamiento,031 Social and behavioural sciences,"03 Social sciences, journalism and information",243
+"Social sciences, journalism and law",Periodismo e informacion,032 Journalism and information,"03 Social sciences, journalism and information",130
+"Social sciences, journalism and law",Derecho,042 Law,"04 Business, administration and law",131
+"Social sciences, journalism and law",Ninguno (asignado por palabra clave),—,—,3
+Business and administration,Administracion y comercio,041 Business and administration,"04 Business, administration and law",683
+Business and administration,Ninguno (asignado por palabra clave),—,—,16
+"Natural sciences, mathematics and ICT",Ciencias fisicas y quimicas,053 Physical sciences,"05 Natural sciences, mathematics and statistics",68
+"Natural sciences, mathematics and ICT",Ciencias biologicas y afines,051 Biological and related sciences,"05 Natural sciences, mathematics and statistics",41
+"Natural sciences, mathematics and ICT",Matematicas y estadistica,054 Mathematics and statistics,"05 Natural sciences, mathematics and statistics",34
+"Natural sciences, mathematics and ICT",Informatica,061 Information and communication technologies,06 Information and communication technologies,197
+"Natural sciences, mathematics and ICT",Ninguno (asignado por palabra clave),—,—,12
+"Engineering, manufacturing and construction",Ingenieria y profesiones afines,071 Engineering and engineering trades,"07 Engineering, manufacturing and construction",189
+"Engineering, manufacturing and construction",Industria y produccion,072 Manufacturing and processing,"07 Engineering, manufacturing and construction",197
+"Engineering, manufacturing and construction",Arquitectura y construccion,073 Architecture and construction,"07 Engineering, manufacturing and construction",236
+"Engineering, manufacturing and construction",Ninguno (asignado por palabra clave),—,—,17
+Agriculture and environment,Agricultura,081 Agriculture,"08 Agriculture, forestry, fisheries and veterinary",124
+Agriculture and environment,Silvicultura,082 Forestry,"08 Agriculture, forestry, fisheries and veterinary",20
+Agriculture and environment,Pesca,083 Fisheries,"08 Agriculture, forestry, fisheries and veterinary",24
+Agriculture and environment,Veterinaria,084 Veterinary,"08 Agriculture, forestry, fisheries and veterinary",30
+Agriculture and environment,Medio ambiente,052 Environment,"05 Natural sciences, mathematics and statistics",98
+Agriculture and environment,Ninguno (asignado por palabra clave),—,—,9
+Health and welfare,Salud,091 Health,09 Health and welfare,341
+Health and welfare,Bienestar,092 Welfare,09 Health and welfare,13
+Health and welfare,Servicios de higiene y salud ocupacional,102 Hygiene and occupational health services,10 Services,14
+Health and welfare,Ninguno (asignado por palabra clave),—,—,39
+Services,Servicios personales,101 Personal services,10 Services,99
+Services,Servicios de transporte,104 Transport services,10 Services,5
+Services,Ninguno (asignado por palabra clave),—,—,8

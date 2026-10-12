@@ -34,7 +34,7 @@ def main():
     fam["pct_desierto_post"] = 100 * fam.quinto_desierto_post / tot
     fam["caida_pct_oferta_60km"] = 100 * (1 - fam.prog_60km_post_medio / fam.prog_60km_pre_medio)
     fam["pct_quinto_con_perdida"] = 100 * fam.quinto_con_perdida / tot
-    guardar(fam.round(2), "efecto_licenciamiento_familias.csv", "tablas")
+    guardar(fam.round(4), "efecto_licenciamiento_familias.csv", "tablas")
     import shutil
     import matplotlib
     matplotlib.use("Agg")
@@ -68,7 +68,7 @@ def main():
         "prog_60km_pre": np.average(d.prog_pre, weights=d.quinto + 1e-9),
         "prog_60km_post": np.average(d.prog_post, weights=d.quinto + 1e-9)})).assign(
         caida_pct=lambda x: 100 * (1 - x.prog_60km_post / x.prog_60km_pre)).sort_values("caida_pct", ascending=False)
-    guardar(dep.round(1).reset_index(), "efecto_licenciamiento_departamentos.csv", "tablas")
+    guardar(dep.round(4).reset_index(), "efecto_licenciamiento_departamentos.csv", "tablas")
     print(dep.round(1).head(10).to_string())
 
 

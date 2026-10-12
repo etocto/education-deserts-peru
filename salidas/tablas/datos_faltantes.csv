@@ -1,0 +1,7 @@
+Item,Units,Final-year students
+Secondary schools without valid coordinates (placed at district centroid),0,0.0
+Schools in districts created after 2017 (reassigned by location),47,1112.0
+Districts with final-year students and no poverty estimate,0,0.0
+Districts with final-year students and no census covariates,0,0.0
+Undergraduate programmes without campus coordinates,0,
+Districts in the 2017 geography without final-year students,47,0.0

@@ -52,13 +52,13 @@ def main():
     t = d.groupby(["familia", "cat"]).apply(perfil).reset_index()
     t["familia"] = pd.Categorical(t.familia, ["Total", *FAMILIAS], ordered=True)
     t = t.sort_values(["familia", "cat"])
-    guardar(t.round(2), "taxonomia_desiertos.csv", "tablas")
+    guardar(t.round(4), "taxonomia_desiertos.csv", "tablas")
     print(t[t.cat != "none"].round(1).to_string(index=False))
 
     dep = d[(d.familia == "Total")].pivot_table(index="departamento", columns="cat", values="quinto", aggfunc="sum", fill_value=0)
     dep = 100 * dep.div(dep.sum(axis=1), axis=0)
     dep = dep[[c for c in CATS if c in dep]].sort_values("structural", ascending=False)
-    guardar(dep.round(1).reset_index(), "taxonomia_desiertos_departamentos.csv", "tablas")
+    guardar(dep.round(4).reset_index(), "taxonomia_desiertos_departamentos.csv", "tablas")
     print("\n% de alumnos de 5.º por categoría (cualquier carrera), por departamento:")
     print(dep.round(1).head(12).to_string())
 

@@ -45,7 +45,7 @@ def main():
                       "pobreza_solo_privada": pob(solo_priv & ok),
                       "pobreza_con_publica": pob(hay_pub & ok)})
     t = pd.DataFrame(filas)
-    guardar(t.round(2), "desiertos_por_gestion.csv", "tablas")
+    guardar(t.round(4), "desiertos_por_gestion.csv", "tablas")
     print(t.round(1).to_string(index=False))
 
     orden = [*FAMILIAS, "Total"]
@@ -76,7 +76,7 @@ def institutos(col, cerca_uni, loc, radio):
                       "pct_con_instituto": 100 * q[desierto & con].sum() / q[desierto].sum(),
                       "pct_con_instituto_publico": 100 * q[desierto & con_pub].sum() / q[desierto].sum()})
     t = pd.DataFrame(filas)
-    guardar(t.round(2), "institutos_en_desiertos.csv", "tablas")
+    guardar(t.round(4), "institutos_en_desiertos.csv", "tablas")
     print(t.round(1).to_string(index=False))
 
 

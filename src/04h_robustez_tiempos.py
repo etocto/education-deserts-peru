@@ -47,7 +47,7 @@ def main():
     else:
         print("Aviso: falta datos/processed/sensibilidad_colegios.csv.gz -> corre el paso 4d para la estabilidad por colegio.")
     t = t.loc[[x for x in ["Total", *FAMILIAS] if x in t.index]]
-    guardar(t.round(2).reset_index(), "robustez_tiempos.csv", "tablas")
+    guardar(t.round(4).reset_index(), "robustez_tiempos.csv", "tablas")
     print(t.round(2).to_string())
 
 

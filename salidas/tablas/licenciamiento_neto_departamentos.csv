@@ -1,0 +1,147 @@
+familia,version,departamento,alumnos,pobreza,rural,indigena,pct_quinto_departamento
+Administración y negocios,v2024,PUNO,3190,42.4165,45.2131,95.6201,15.5708
+Administración y negocios,v2024,CAJAMARCA,1284,58.5702,82.353,4.1173,4.8394
+Administración y negocios,v2024,PIURA,89,36.6949,91.7204,0.974,0.2499
+Administración y negocios,v2024,LORETO,83,32.3139,26.8424,9.2554,0.4107
+Administración y negocios,v2024,JUNIN,35,30.6,41.7857,43.3649,0.1388
+Administración y negocios,v2024,ANCASH,26,20.0404,60.872,17.7128,0.1295
+Administración y negocios,v2024,LAMBAYEQUE,18,62.55,96.6567,78.9562,0.0832
+Administración y negocios,v2024,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+Administración y negocios,v2024,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Administración y negocios,v2024,HUANCAVELICA,2,35.55,42.6415,77.9104,0.0263
+Administración y negocios,v2024,LIMA,2,18.9,38.3333,11.25,0.0013
+Administración y negocios,vrel,PUNO,3190,42.4165,45.2131,95.6201,15.5708
+Administración y negocios,vrel,CAJAMARCA,1284,58.5702,82.353,4.1173,4.8394
+Administración y negocios,vrel,LAMBAYEQUE,18,62.55,96.6567,78.9562,0.0832
+Administración y negocios,vrel,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+Administración y negocios,vrel,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Administración y negocios,vrel,HUANCAVELICA,2,35.55,42.6415,77.9104,0.0263
+Administración y negocios,vrel,LIMA,2,18.9,38.3333,11.25,0.0013
+Agropecuaria y ambiente,v2024,PUNO,678,43.3029,66.6181,96.9195,3.3094
+Agropecuaria y ambiente,v2024,AMAZONAS,91,38.2692,64.4873,1.1261,1.1221
+Agropecuaria y ambiente,v2024,LORETO,29,41.65,30.788,17.9638,0.1435
+Agropecuaria y ambiente,v2024,CAJAMARCA,13,46.85,56.5512,0.6928,0.049
+Agropecuaria y ambiente,v2024,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Agropecuaria y ambiente,vrel,PUNO,678,43.3029,66.6181,96.9195,3.3094
+Agropecuaria y ambiente,vrel,AMAZONAS,91,38.2692,64.4873,1.1261,1.1221
+Agropecuaria y ambiente,vrel,CAJAMARCA,13,46.85,56.5512,0.6928,0.049
+Agropecuaria y ambiente,vrel,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+"Ciencias naturales, matemáticas e informática",v2024,JUNIN,4768,32.6283,51.0119,48.9538,18.9049
+"Ciencias naturales, matemáticas e informática",v2024,TUMBES,4518,10.2606,5.7333,2.1668,97.9618
+"Ciencias naturales, matemáticas e informática",v2024,CUSCO,1644,18.3882,50.1272,56.3996,7.1067
+"Ciencias naturales, matemáticas e informática",v2024,MOQUEGUA,1587,7.1601,5.9729,38.4194,50.3011
+"Ciencias naturales, matemáticas e informática",v2024,AMAZONAS,540,38.0864,36.9444,2.6182,6.6584
+"Ciencias naturales, matemáticas e informática",v2024,CAJAMARCA,323,67.0765,79.5015,0.4897,1.2174
+"Ciencias naturales, matemáticas e informática",v2024,PIURA,229,39.4469,70.4675,0.6402,0.6429
+"Ciencias naturales, matemáticas e informática",v2024,LA LIBERTAD,162,39.4105,61.6836,3.361,0.514
+"Ciencias naturales, matemáticas e informática",v2024,TACNA,103,8.182,20.2212,28.5352,1.7107
+"Ciencias naturales, matemáticas e informática",v2024,ANCASH,43,22.1326,59.1955,21.9491,0.2142
+"Ciencias naturales, matemáticas e informática",v2024,UCAYALI,23,32.1804,59.0609,55.338,0.1969
+"Ciencias naturales, matemáticas e informática",v2024,PASCO,11,47.8,64.2414,73.2026,0.2174
+"Ciencias naturales, matemáticas e informática",v2024,LIMA,2,18.9,38.3333,11.25,0.0013
+"Ciencias naturales, matemáticas e informática",v2024,LORETO,2,49.2,55.4523,0.2929,0.0099
+"Ciencias naturales, matemáticas e informática",vrel,CUSCO,1644,18.3882,50.1272,56.3996,7.1067
+"Ciencias naturales, matemáticas e informática",vrel,AMAZONAS,540,38.0864,36.9444,2.6182,6.6584
+"Ciencias naturales, matemáticas e informática",vrel,CAJAMARCA,323,67.0765,79.5015,0.4897,1.2174
+"Ciencias naturales, matemáticas e informática",vrel,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+"Ciencias naturales, matemáticas e informática",vrel,ANCASH,5,28.05,48.1707,52.1429,0.0249
+"Ciencias naturales, matemáticas e informática",vrel,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+"Ciencias naturales, matemáticas e informática",vrel,LIMA,2,18.9,38.3333,11.25,0.0013
+"Ciencias naturales, matemáticas e informática",vrel,LORETO,2,49.2,55.4523,0.2929,0.0099
+"Ciencias sociales, periodismo y derecho",v2024,JUNIN,3432,33.2765,55.0461,50.6439,13.6077
+"Ciencias sociales, periodismo y derecho",v2024,CAJAMARCA,2620,57.1705,82.7848,3.0645,9.8749
+"Ciencias sociales, periodismo y derecho",v2024,LIMA,973,11.6673,11.537,13.1212,0.6346
+"Ciencias sociales, periodismo y derecho",v2024,PUNO,733,43.5093,67.0568,96.9338,3.5779
+"Ciencias sociales, periodismo y derecho",v2024,LA LIBERTAD,127,41.4409,68.9283,2.1486,0.403
+"Ciencias sociales, periodismo y derecho",v2024,LORETO,43,43.9547,44.095,15.513,0.2128
+"Ciencias sociales, periodismo y derecho",v2024,AYACUCHO,36,44.7931,52.4397,95.8154,0.2926
+"Ciencias sociales, periodismo y derecho",v2024,UCAYALI,23,32.1804,59.0609,55.338,0.1969
+"Ciencias sociales, periodismo y derecho",v2024,LAMBAYEQUE,18,62.55,96.6567,78.9562,0.0832
+"Ciencias sociales, periodismo y derecho",v2024,PASCO,11,47.8,64.2414,73.2026,0.2174
+"Ciencias sociales, periodismo y derecho",v2024,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+"Ciencias sociales, periodismo y derecho",v2024,HUANCAVELICA,2,35.55,42.6415,77.9104,0.0263
+"Ciencias sociales, periodismo y derecho",vrel,CAJAMARCA,2620,57.1705,82.7848,3.0645,9.8749
+"Ciencias sociales, periodismo y derecho",vrel,PUNO,711,43.3547,67.1915,96.9251,3.4705
+"Ciencias sociales, periodismo y derecho",vrel,AYACUCHO,36,44.7931,52.4397,95.8154,0.2926
+"Ciencias sociales, periodismo y derecho",vrel,LAMBAYEQUE,18,62.55,96.6567,78.9562,0.0832
+"Ciencias sociales, periodismo y derecho",vrel,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+"Ciencias sociales, periodismo y derecho",vrel,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+"Ciencias sociales, periodismo y derecho",vrel,HUANCAVELICA,2,35.55,42.6415,77.9104,0.0263
+"Ciencias sociales, periodismo y derecho",vrel,LORETO,2,49.2,55.4523,0.2929,0.0099
+Educación,v2024,CAJAMARCA,5949,45.7919,57.2157,4.351,22.422
+Educación,v2024,MOQUEGUA,3002,6.3287,3.3072,29.7312,95.1506
+Educación,v2024,AMAZONAS,2528,27.4014,38.8309,4.3868,31.1714
+Educación,v2024,ANCASH,2379,41.4155,65.993,67.7868,11.8506
+Educación,v2024,HUANUCO,512,52.7744,73.3943,60.9785,3.4163
+Educación,v2024,PIURA,332,37.0681,62.9721,0.7751,0.932
+Educación,v2024,JUNIN,206,31.0449,38.6636,45.6701,0.8168
+Educación,v2024,LA LIBERTAD,175,34.16,21.1005,1.9782,0.5553
+Educación,v2024,TACNA,159,8.0934,26.6801,31.9376,2.6408
+Educación,v2024,LAMBAYEQUE,82,28.0134,36.0924,17.7498,0.379
+Educación,v2024,PUNO,55,46.0536,72.464,97.1107,0.2685
+Educación,v2024,LIMA,14,11.4429,11.2505,17.2946,0.0091
+Educación,vrel,CAJAMARCA,5949,45.7919,57.2157,4.351,22.422
+Educación,vrel,AMAZONAS,2528,27.4014,38.8309,4.3868,31.1714
+Educación,vrel,LA LIBERTAD,175,34.16,21.1005,1.9782,0.5553
+Educación,vrel,LAMBAYEQUE,82,28.0134,36.0924,17.7498,0.379
+Educación,vrel,PUNO,33,44.4182,78.9721,97.0395,0.1611
+Educación,vrel,LIMA,14,11.4429,11.2505,17.2946,0.0091
+"Ingeniería, industria y construcción",v2024,MADRE DE DIOS,2537,5.1221,5.5148,35.0053,65.8277
+"Ingeniería, industria y construcción",v2024,MOQUEGUA,1419,5.4781,0.5175,20.2044,44.9762
+"Ingeniería, industria y construcción",v2024,TACNA,41,6.95,36.6407,39.7134,0.681
+"Ingeniería, industria y construcción",v2024,AYACUCHO,36,44.7931,52.4397,95.8154,0.2926
+"Ingeniería, industria y construcción",v2024,LORETO,29,41.65,30.788,17.9638,0.1435
+"Ingeniería, industria y construcción",v2024,ANCASH,26,20.0404,60.872,17.7128,0.1295
+"Ingeniería, industria y construcción",v2024,AMAZONAS,17,43.85,60.5702,1.3589,0.2096
+"Ingeniería, industria y construcción",v2024,JUNIN,11,38.25,58.9749,65.3177,0.0436
+"Ingeniería, industria y construcción",v2024,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+"Ingeniería, industria y construcción",v2024,LIMA,10,22.4,33.4194,20.5357,0.0065
+"Ingeniería, industria y construcción",vrel,MADRE DE DIOS,2537,5.1221,5.5148,35.0053,65.8277
+"Ingeniería, industria y construcción",vrel,AYACUCHO,36,44.7931,52.4397,95.8154,0.2926
+"Ingeniería, industria y construcción",vrel,AMAZONAS,17,43.85,60.5702,1.3589,0.2096
+"Ingeniería, industria y construcción",vrel,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+"Ingeniería, industria y construcción",vrel,LIMA,10,22.4,33.4194,20.5357,0.0065
+Salud y bienestar,v2024,MOQUEGUA,3006,6.3661,3.3977,29.8209,95.2773
+Salud y bienestar,v2024,LIMA,960,11.6039,11.2865,12.9405,0.6261
+Salud y bienestar,v2024,PUNO,733,43.5093,67.0568,96.9338,3.5779
+Salud y bienestar,v2024,TACNA,159,8.0934,26.6801,31.9376,2.6408
+Salud y bienestar,v2024,AMAZONAS,91,38.2692,64.4873,1.1261,1.1221
+Salud y bienestar,v2024,PIURA,89,36.6949,91.7204,0.974,0.2499
+Salud y bienestar,v2024,LORETO,31,42.1371,32.3792,16.8237,0.1534
+Salud y bienestar,v2024,MADRE DE DIOS,4,4.75,3.5752,34.9416,0.1038
+Salud y bienestar,vrel,LIMA,960,11.6039,11.2865,12.9405,0.6261
+Salud y bienestar,vrel,PUNO,733,43.5093,67.0568,96.9338,3.5779
+Salud y bienestar,vrel,AMAZONAS,91,38.2692,64.4873,1.1261,1.1221
+Salud y bienestar,vrel,MADRE DE DIOS,4,4.75,3.5752,34.9416,0.1038
+Salud y bienestar,vrel,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Salud y bienestar,vrel,LORETO,2,49.2,55.4523,0.2929,0.0099
+Servicios,v2024,UCAYALI,8726,8.5278,10.6226,8.6877,74.7089
+Servicios,v2024,LORETO,8273,18.9013,11.2092,2.7404,40.9372
+Servicios,v2024,ANCASH,8262,14.7851,5.1613,8.2026,41.1557
+Servicios,v2024,PUNO,990,43.4989,64.8241,96.51,4.8323
+Servicios,v2024,LA LIBERTAD,150,36.7587,13.1942,3.3119,0.4759
+Servicios,v2024,HUANUCO,143,26.7,70.4612,20.3883,0.9542
+Servicios,v2024,CAJAMARCA,127,57.9925,80.047,7.9584,0.4787
+Servicios,v2024,PIURA,124,32.7617,30.3178,1.4008,0.3481
+Servicios,v2024,LAMBAYEQUE,83,24.309,29.8884,2.9493,0.3837
+Servicios,v2024,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+Servicios,v2024,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Servicios,vrel,UCAYALI,8726,8.5278,10.6226,8.6877,74.7089
+Servicios,vrel,PUNO,990,43.4989,64.8241,96.51,4.8323
+Servicios,vrel,HUANUCO,143,26.7,70.4612,20.3883,0.9542
+Servicios,vrel,CAJAMARCA,127,57.9925,80.047,7.9584,0.4787
+Servicios,vrel,PIURA,124,32.7617,30.3178,1.4008,0.3481
+Servicios,vrel,LAMBAYEQUE,83,24.309,29.8884,2.9493,0.3837
+Servicios,vrel,LA LIBERTAD,80,32.45,18.2798,1.8909,0.2538
+Servicios,vrel,LORETO,27,52.2093,58.3057,43.9594,0.1336
+Servicios,vrel,AREQUIPA,10,14.4,26.6776,21.1382,0.0398
+Servicios,vrel,ANCASH,5,28.05,48.1707,52.1429,0.0249
+Servicios,vrel,MOQUEGUA,4,34.4,71.2858,97.1519,0.1268
+Total,v2024,PUNO,2342,42.2341,48.8232,95.9997,11.4316
+Total,v2024,ANCASH,1917,44.2818,70.2595,72.3698,9.5492
+Total,v2024,HUANUCO,512,52.7744,73.3943,60.9785,3.4163
+Total,v2024,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+Total,v2024,LIMA,2,18.9,38.3333,11.25,0.0013
+Total,vrel,PUNO,2342,42.2341,48.8232,95.9997,11.4316
+Total,vrel,UCAYALI,8,32.8,69.4357,45.2215,0.0685
+Total,vrel,LIMA,2,18.9,38.3333,11.25,0.0013
